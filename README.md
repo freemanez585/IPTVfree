@@ -9,5 +9,5 @@ http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml
 
-
+Per Android consiglio di utilizzare TELEVIZO  : https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=it&pli=1
 
