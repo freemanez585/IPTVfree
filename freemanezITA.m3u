@@ -130,7 +130,7 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" group-title="Altro",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 channel-id="ITBD140000119" tvg-id="ITBD140000119" tvg-chno="4909" tvg-name="Risate Cult '80" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250708T031833SQUARE.png" group-title="Altro", Risate Cult '80
+#EXTINF:-1 channel-id="ITBD140000119" tvg-id="ITBD140000119" tvg-chno="4909" tvg-name="Risate Cult '80" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250708T031833SQUARE.png" group-title="BBC Italia", Risate Cult '80
 https://jmp2.uk/sam-ITBD140000119.m3u8
 #EXTINF:-1 channel-id="IT1200001Q8" tvg-id="IT1200001Q8" tvg-chno="4299" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png" group-title="Altro", Storie Criminali
 https://jmp2.uk/sam-IT1200001Q8.m3u8
@@ -223,7 +223,8 @@ https://jmp2.uk/sam-ITBA3300041LY.m3u8
 https://jmp2.uk/sam-ITBD1900010JL.m3u8
 #EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Radio", Vevo '90s & '00s
 https://jmp2.uk/sam-ITBC210000200.m3u8
-#EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Radio", Vevo Pop
+#EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="Rakuten TV Altro",Vevo Pop
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 https://jmp2.uk/sam-ITBC2100001G9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
@@ -264,7 +265,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-chno="772" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="Radio",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-name="Radio 3M InBlu" tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="Radio",Radio 3M InBlu
+#EXTINF:-1 tvg-name="Radio 3M InBlu" 
+"https://i.imgur.com/d7O7Uqa.png" group-title="Radio",Radio 3M InBlu
 https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 51 Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radio51.png" group-title="Radio",Radio 51 Tv
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
@@ -669,7 +671,7 @@ https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-it" tvg-name="Mr. Bean" group-title="Rakuten TV Altro",Mr. Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="Rakuten TV Altro",Mr. Bean - Live Action
+#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-logo=https://cdn.3axis.co/user-images/d1lqd67m.jpg tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="Rakuten TV Altro",The Pet Collective
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
@@ -741,8 +743,6 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=553 tvg-id="trace-urban" tvg-name="Trace Urban" group-title="Rakuten TV Altro",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="Rakuten TV Altro",Vevo Pop
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-chno=558 tvg-id="vevo-pop-90-00-it" tvg-name="Vevo '90s & '00s" group-title="Rakuten TV Altro",Vevo '90s & '00s
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-chno=559 tvg-id="now-90s00s" tvg-name="NOW 90s00s" group-title="Rakuten TV Altro",NOW 90s00s
@@ -807,7 +807,7 @@ https://jmp2.uk/sam-ITBD1400003D0.m3u8
 https://jmp2.uk/sam-ITBC4700004EQ.m3u8
 #EXTINF:-1 channel-id="ITBD300001GI" tvg-id="ITBD300001GI" tvg-chno="4677" tvg-name="Move - Samsung Channelsivi in Viaggio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20241022T044111SQUARE.png" group-title="Samsung Channels", Move - Samsung Channelsivi in Viaggio
 https://jmp2.uk/sam-ITBD300001GI.m3u8
-#EXTINF:-1 channel-id="IT900001A7" tvg-id="IT900001A7" tvg-chno="4817" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20241106T142453SQUARE.png" group-title="Samsung Channels", Mr Bean Animated
+#EXTINF:-1 channel-id="IT900001A7" tvg-id="IT900001A7" tvg-chno="4817" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20241106T142453SQUARE.png" group-title="Mr. Bean", Mr Bean Animated
 https://jmp2.uk/sam-IT900001A7.m3u8
 #EXTINF:-1 channel-id="IT500004JK" tvg-id="IT500004JK" tvg-chno="4900" tvg-name="Romantica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20250107T022417SQUARE.png" group-title="Samsung Channels", Romantica
 https://jmp2.uk/sam-IT500004JK.m3u8
