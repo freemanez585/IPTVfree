@@ -223,9 +223,8 @@ https://jmp2.uk/sam-ITBA3300041LY.m3u8
 https://jmp2.uk/sam-ITBD1900010JL.m3u8
 #EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Radio", Vevo '90s & '00s
 https://jmp2.uk/sam-ITBC210000200.m3u8
-#EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="Rakuten TV Altro",Vevo Pop
+#EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="Radio",Vevo Pop
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
-https://jmp2.uk/sam-ITBC2100001G9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-best.png" group-title="Radio",RTL 102.5 Best
@@ -671,7 +670,7 @@ https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-it" tvg-name="Mr. Bean" group-title="Rakuten TV Altro",Mr. Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-logo=https://cdn.3axis.co/user-images/d1lqd67m.jpg tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
+#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-logo="https://www.freepnglogos.com/uploads/mr-bean/rowan-atkinson-png-fpng-cbe-fpng-ede-uff-cbb-crazy-17.png" tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="Rakuten TV Altro",The Pet Collective
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
