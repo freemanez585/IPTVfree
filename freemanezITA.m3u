@@ -192,9 +192,9 @@ https://jmp2.uk/sam-ITBC1100003KC.m3u8
 https://jmp2.uk/sam-ITBC1100011RK.m3u8
 #EXTINF:-1 channel-id="ITBC11000108G" tvg-id="ITBC11000108G" tvg-chno="4748" tvg-name="Hip Hop TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="CHILI TV", Hip Hop TV
 https://jmp2.uk/sam-ITBC11000108G.m3u8
-#EXTINF:-1 tvg-id="TravelTV.it" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
+#EXTINF:-1 tvg-id="travel tv" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
 https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Altro",Donna TV
+#EXTINF:-1 tvg-id="donna tv" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Altro",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" group-title="Altro",Alma TV
