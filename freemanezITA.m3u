@@ -155,6 +155,7 @@ https://jmp2.uk/sam-ITBD1000006RD.m3u8
 #EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Altro", Viaggi & Sapori
 https://jmp2.uk/sam-IT12000029J.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Altro",Love the Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
 #EXTINF:-1 channel-id="ITBD29000015E" tvg-id="ITBD29000015E" tvg-chno="4675" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD29000015E_20241022T043942SQUARE.png" group-title="Altro", World Poker Tour
 https://jmp2.uk/sam-ITBD29000015E.m3u8
 #EXTINF:-1 channel-id="ITBD4100001MG" tvg-id="ITBD4100001MG" tvg-chno="4237" tvg-name="Hannibal - La serie completa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250715T004410SQUARE.png" group-title="NEXOStudios", Hannibal - La serie completa
@@ -309,7 +310,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="Altro",The Pet Collective
 https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5389&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=e206a048-a618-4477-a297-5d033f7060c2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1020
-#EXTINF:-1 tvg-chno="45" tvg-id="iunior channel" tvg-name="Iunior channel" tvg-logo="http://tv.10dailythings.com/images/channels/IT/iunior-tv-720p/normal.png" group-title="Bambini",Iunior channel
+#EXTINF:-1 tvg-chno="45" tvg-id="iunior channel" tvg-name="Iunior channel" tvg-logo="http://tv.10dailythings.com/images/channels/IT/iunior-tv-720p/normal.png" group-title="Altro",Iunior channel
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-abruzzo.png" group-title="Rai3 TGR",TGR Abruzzo
 https://odmsto.com/returned/667302.m3u8
