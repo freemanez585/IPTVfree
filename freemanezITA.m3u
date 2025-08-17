@@ -137,6 +137,8 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" group-title="Altro",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Altro",Bike Channel
+https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 #EXTINF:-1 group-title="Svizzera" tvg-id="RSILa1.ch" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -800,3 +802,6 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/ch
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
 #EXTINF:-1 tvg-name="RaiPlaySport 3" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="RaiSport",RaiPlaySport 3 (sab,dom)
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/82jsuh38qs5ooyoxfuqpo/tv.jpg?rlkey=fajzjfdnoe1fqi3rtrqzklzsf&st=muedin6o&dl=1" group-title="INFO ULTIMO AGGIORNAMENTO", Ultimo Aggiornamento 17-08-2025 ore 22.00-
+https://www.dropbox.com/scl/fi/dxu9i5axtdtnzm0uv20xu/freemanez585.avi?rlkey=fsswd8vckxxneq65y53qktanh&st=9fdvepxz&dl=1
