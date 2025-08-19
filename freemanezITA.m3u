@@ -779,45 +779,45 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-name="UniNettuno University TV" tvg-logo="https://i.imgur.com/BOGMeio.png" tvg-id="UniNettunoUniversityTV.it" group-title="Altro",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-abruzzo.png" group-title="Rai3 TGR",TGR Abruzzo
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-abruzzo.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Abruzzo
 https://odmsto.com/returned/667302.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-basilicata.png" group-title="Rai3 TGR",TGR Basilicata
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-basilicata.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Basilicata
 https://odmsto.com/returned/668458.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-calabria.png" group-title="Rai3 TGR",TGR Calabria
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-calabria.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Calabria
 https://odmsto.com/returned/668460.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-campania.png" group-title="Rai3 TGR",TGR Campania
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-campania.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Campania
 https://odmsto.com/returned/668461.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-emilia-romagna.png" group-title="Rai3 TGR",TGR Emilia Romagna
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-emilia-romagna.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Emilia Romagna
 https://odmsto.com/returned/668648.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-friuli-venezia-giulia.png" group-title="Rai3 TGR",TGR Friuli Venezia Giulia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-friuli-venezia-giulia.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Friuli Venezia Giulia
 https://odmsto.com/returned/668651.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-lazio.png" group-title="Rai3 TGR",TGR Lazio
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-lazio.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Lazio
 https://odmsto.com/returned/668665.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-liguria.png" group-title="Rai3 TGR",TGR Liguria
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-liguria.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Liguria
 https://odmsto.com/returned/668667.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-lombardia.png" group-title="Rai3 TGR",TGR Lombardia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-lombardia.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Lombardia
 https://odmsto.com/returned/668685.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-marche.png" group-title="Rai3 TGR",TGR Marche
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-marche.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Marche
 https://odmsto.com/returned/668686.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-molise.png" group-title="Rai3 TGR",TGR Molise
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-molise.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Molise
 https://odmsto.com/returned/668691.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-piemonte.png" group-title="Rai3 TGR",TGR Piemonte
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-piemonte.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Piemonte
 https://odmsto.com/returned/668692.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-puglia.png" group-title="Rai3 TGR",TGR Puglia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-puglia.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Puglia
 https://odmsto.com/returned/668697.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sardegna.png" group-title="Rai3 TGR",TGR Sardegna
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sardegna.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Sardegna
 https://odmsto.com/returned/668699.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sicilia.png" group-title="Rai3 TGR",TGR Sicilia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-sicilia.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Sicilia
 https://odmsto.com/returned/668707.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-toscana.png" group-title="Rai3 TGR",TGR Toscana
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-toscana.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Toscana
 https://odmsto.com/returned/668709.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-trentino-e-bolzano.png" group-title="Rai3 TGR",TGR Trentino e Bolzano 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-trentino-e-bolzano.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Trentino e Bolzano 
 https://odmsto.com/returned/668710.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-umbria.png" group-title="Rai3 TGR",TGR Umbria
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-umbria.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Umbria
 https://odmsto.com/returned/668711.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-valle-di-aosta.png" group-title="Rai3 TGR",TGR Valle di Aosta 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-valle-di-aosta.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Valle di Aosta 
 https://odmsto.com/returned/668726.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-veneto.png" group-title="Rai3 TGR",TGR Veneto
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-veneto.png" group-title="Rai3 TGR Attivo Ore 14 e Ore !9.30",TGR Veneto
 https://odmsto.com/returned/668727.m3u8
 
 #EXTINF:-1 tvg-name="RaiPlaySport 1" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492163377_Canale3x.png" group-title="RaiSport",RaiPlaySport 1 (sab,dom)
