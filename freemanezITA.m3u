@@ -235,7 +235,7 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="ITBC11000108G" tvg-id="ITBC11000108G" tvg-chno="4748" tvg-name="Hip Hop TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="CHILI TV", Hip Hop TV
 https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="travel tv" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
+#EXTINF:-1 tvg-id="travel.tv" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
 https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 #EXTINF:-1 tvg-id="donna tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Altro",Donna Tv
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
