@@ -139,6 +139,9 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Altro",Bike Channel
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
+#EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Altro", Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+
 #EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Altro", Viaggi & Sapori
 https://amg01821-lovetv-amg01821c25-lg-it-4100.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitalycc-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
@@ -276,9 +279,9 @@ https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=110 tvg-id="filmrise-relic-hunter-ita" tvg-name="Relic Hunter" group-title="Rakuten TV Altro",Relic Hunter
 https://d1si3n1st4nkgb.cloudfront.net/10502/88826013/hls/master.m3u8?ads.xumo_channelId=88826013&ads.caid=FilmRiseItalian&ads.csid=samsungtvplus_it_relichunters_ssai&ads.sfid=&ads.afid=FilmRiseItalian&ads.xumo_platform=samsung&ads._fw_is_lat=45.4640&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_h_x_country=IT&ads.xumo_contentId=2700&ads.xumo_contentName=FilmRiseItalian&ads.xumo_providerId=2700&ads.xumo_providerName=FilmRiseItalian&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=relichunter_it&ads.tpcl=MIDROLL
 
-#EXTINF:-1 tvg-chno=118 tvg-logo="https://www.dropbox.com/scl/fi/idqxth9fxwco45wf4xovx/soaplatino.jpg?rlkey=erfjovbxozhs97vpbtkd2pvn8&st=36x6fgga&dl=1" tvg-id="BOMChannel.it" tvg-name="Soap Latino" group-title="Rakuten TV Altro",Soap Latino
+#EXTINF:-1 tvg-chno=118 tvg-logo="https://www.dropbox.com/scl/fi/idqxth9fxwco45wf4xovx/soaplatino.jpg?rlkey=erfjovbxozhs97vpbtkd2pvn8&st=36x6fgga&dl=1" tvg-id="SportitaliaSolocalcio.it" tvg-name="Soap Latino" group-title="Rakuten TV Altro",Soap Latino
 https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
-#EXTINF:-1 tvg-chno=119 tvg-logo="https://www.dropbox.com/scl/fi/ils49tvwohguy7058pk8n/soapturco.jpg?rlkey=sut24q1oidk7104zf4gpdxeib&st=f17t3ixl&dl=1" tvg-id="BOMChannel.it" tvg-name="Soap Turco" group-title="Rakuten TV Altro",Soap Turco
+#EXTINF:-1 tvg-chno=119 tvg-logo="https://www.dropbox.com/scl/fi/ils49tvwohguy7058pk8n/soapturco.jpg?rlkey=sut24q1oidk7104zf4gpdxeib&st=f17t3ixl&dl=1" tvg-id="SportitaliaSolocalcio.it" tvg-name="Soap Turco" group-title="Rakuten TV Altro",Soap Turco
 https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=139 tvg-id="inazuma-eleven-go" tvg-name="Inazuma Eleven Collection" group-title="Rakuten TV Altro",Inazuma Eleven Collection
@@ -286,7 +289,7 @@ https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=142 tvg-id="yu-gi-oh-new-ita" tvg-name="Yu-Gi-Oh!" group-title="Rakuten TV Altro",Yu-Gi-Oh!
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 
-#EXTINF:-1 tvg-chno=144 tvg-id="BOMChannel.it" tvg-logo="https://www.freepnglogos.com/uploads/mr-bean/rowan-atkinson-png-fpng-cbe-fpng-ede-uff-cbb-crazy-17.png" tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
+#EXTINF:-1 tvg-chno=144 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://www.freepnglogos.com/uploads/mr-bean/rowan-atkinson-png-fpng-cbe-fpng-ede-uff-cbb-crazy-17.png" tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 channel-id="IT900001A7" tvg-id="IT900001A7" tvg-chno="4817" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20241106T142453SQUARE.png" group-title="Mr. Bean", Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
@@ -306,9 +309,9 @@ https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=680 tvg-id="hell-s-kitchen-it-itv" tvg-name="Hell's Kitchen" group-title="Rakuten TV Altro",Hell's Kitchen
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_0.png" tvg-id="BOMChannel.it" group-title="Altro", LG 1:Film
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_0.png" tvg-id="SportitaliaSolocalcio.it" group-title="Altro", LG 1:Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_it&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_2.png" tvg-id="BOMChannel.it" group-title="Altro", LG 1:Spotlight
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_2.png" tvg-id="SportitaliaSolocalcio.it" group-title="Altro", LG 1:Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13955&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_it&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20250107T022420SQUARE.png" group-title="Altro",Adrenaline Movies
@@ -580,7 +583,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e44
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="720" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="PlutoTV", Yu-Gi-Oh!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="marcopolo-travel-tv" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Altro",MarcoPolo Travel Tv
 https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="donna tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Altro",Donna Tv
