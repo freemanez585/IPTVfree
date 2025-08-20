@@ -596,7 +596,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 #EXTINF:-1 tvg-name="TeleTicino" tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/u6dLKa9.png" tvg-chno="" group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="JuniorTV.it" tvg-name="Junior TV" tvg-logo="http://tv.10dailythings.com/images/channels/IT/iunior-tv-720p/normal.png" group-title="Altro",Junior TV
+#EXTINF:-1 tvg-chno="45" tvg-id="SportitaliaSolocalcio.it" tvg-name="Junior TV" tvg-logo="http://tv.10dailythings.com/images/channels/IT/iunior-tv-720p/normal.png" group-title="Altro",Junior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-chno=336 tvg-id="fuel-tv-new" tvg-name="FUEL TV" group-title="Rakuten TV Altro",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
