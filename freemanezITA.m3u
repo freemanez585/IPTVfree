@@ -809,5 +809,8 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/ch
 #EXTINF:-1 tvg-name="RaiPlaySport 3" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="RaiSport",RaiPlaySport 3 (sab,dom)
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 
+#EXTINF:-1 channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-chno="4625" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Altro", Golf Television
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-68890aa31b1a8359c63cf6e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y5r6cG35nc_M3CFUPqYs
+
 #EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/82jsuh38qs5ooyoxfuqpo/tv.jpg?rlkey=fajzjfdnoe1fqi3rtrqzklzsf&st=muedin6o&dl=1" group-title="INFO ULTIMO AGGIORNAMENTO", Ultimo Aggiornamento 19-08-2025 ore 01.30-
 https://www.dropbox.com/scl/fi/dxu9i5axtdtnzm0uv20xu/freemanez585.avi?rlkey=fsswd8vckxxneq65y53qktanh&st=9fdvepxz&dl=1
