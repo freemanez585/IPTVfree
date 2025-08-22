@@ -239,7 +239,11 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" group-title="Altro",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u
+
+
+#EXTINF:-1 tvg-name="SuperTennis Plus" tvg-logo="https://www.dropbox.com/scl/fi/5dbuisu0cyeyciyqx7v1u/suptennisplus.png?rlkey=4gsztsveu7aam91fx6m89xe4k&st=tma1kjrz&dl=1" tvg-id="SuperTennis.plus.it" group-title="Altro",SuperTennis Plus
+https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Altro",Bike Channel
@@ -248,10 +252,6 @@ https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 #EXTINF:-1 channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-chno="4625" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Altro", Golf Television
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-68890aa31b1a8359c63cf6e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y5r6cG35nc_M3CFUPqYs
-
-
-#EXTINF:-1 tvg-name="SuperTennis Plus" tvg-logo="https://www.dropbox.com/scl/fi/5dbuisu0cyeyciyqx7v1u/suptennisplus.png?rlkey=4gsztsveu7aam91fx6m89xe4k&st=tma1kjrz&dl=1" tvg-id="SuperTennis.plus.it" group-title="Altro",SuperTennis Plus
-https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 
 #EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Altro", Italian Fishing TV
