@@ -229,11 +229,11 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sportitalia",Primavera TV
+#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sportitalia",Primavera TV
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="SportItaliacalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sportitalia",SportItaliacalcio
+#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-name="SIsolocalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sportitalia",SIsolocalcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 
@@ -439,7 +439,7 @@ https://136d462a71e843a886633ffc9d0f9bb2.mediatailor.us-east-1.amazonaws.com/v1/
 https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="risate-all-italiana" tvg-name="Alberto Sordi & Co." group-title="Rakuten TV - film",Alberto Sordi & Co.
+#EXTINF:-1 tvg-id="risate-all-italiana" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1349-LG-Logo-PNG-100x100_v5.png",212 Alberto Sordi & Co tvg-name="Alberto Sordi & Co." group-title="Rakuten TV - film",Alberto Sordi & Co.
 https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
 
 
@@ -451,11 +451,11 @@ https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/
 https://d1si3n1st4nkgb.cloudfront.net/10502/88826013/hls/master.m3u8?ads.xumo_channelId=88826013&ads.caid=FilmRiseItalian&ads.csid=samsungtvplus_it_relichunters_ssai&ads.sfid=&ads.afid=FilmRiseItalian&ads.xumo_platform=samsung&ads._fw_is_lat=45.4640&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_h_x_country=IT&ads.xumo_contentId=2700&ads.xumo_contentName=FilmRiseItalian&ads.xumo_providerId=2700&ads.xumo_providerName=FilmRiseItalian&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=relichunter_it&ads.tpcl=MIDROLL
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/idqxth9fxwco45wf4xovx/soaplatino.jpg?rlkey=erfjovbxozhs97vpbtkd2pvn8&st=36x6fgga&dl=1" tvg-id="soap-latino-it" tvg-name="Soap Latino" group-title="Rakuten TV Altro",Soap Latino
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/idqxth9fxwco45wf4xovx/soaplatino.jpg?rlkey=erfjovbxozhs97vpbtkd2pvn8&st=36x6fgga&dl=1" tvg-id="IT4600001JQ"" tvg-name="Soap Latino" group-title="Rakuten TV Altro",Soap Latino
 https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ils49tvwohguy7058pk8n/soapturco.jpg?rlkey=sut24q1oidk7104zf4gpdxeib&st=f17t3ixl&dl=1" tvg-id="soap-turco-it" tvg-name="Soap Turco" group-title="Rakuten TV Altro",Soap Turco
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ils49tvwohguy7058pk8n/soapturco.jpg?rlkey=sut24q1oidk7104zf4gpdxeib&st=f17t3ixl&dl=1" tvg-id="IT3600007QQ" tvg-name="Soap Turco" group-title="Rakuten TV Altro",Soap Turco
 https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
 
 
@@ -1067,7 +1067,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="per-caso-tv" tvg-name="Per Caso TV - Summer Edition" group-title="Rakuten TV Altro",Per Caso TV Summer Edition
+#EXTINF:-1 tvg-id="IT2200009F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250729T045602SQUARE.png" tvg-name="Per Caso TV - Summer Edition" group-title="Rakuten TV Altro",Per Caso TV Summer Edition
 https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udl9ITFM/playlist.m3u8
 
 
@@ -1111,7 +1111,7 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="planeta-junior-ita" tvg-name="Bernard L'Orso" group-title="Rakuten TV Altro",Bernard L'Orso
+#EXTINF:-1 tvg-id="ITBD3200007SZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png" tvg-name="Bernard L'Orso" group-title="Rakuten TV Altro",Bernard L'Orso
 https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8
 
 
