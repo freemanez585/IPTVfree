@@ -1,5 +1,4 @@
-#EXTM3U refresh="301" x-tvg-url="http://epg-guide.com/wltv.gz,http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,http://www.epgitalia.tv/gzip"
-
+#EXTM3U refresh="301" x-tvg-url="http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml"
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -40,7 +39,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/master.mpd?playerParams.channel=nove&playerParams.slate=nove&playerParams.transcodeprofile=dash&aws.sessionId=63b3abd1-eea2-4536-a126-a8790955eb07&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY2MTAsIm5iZiI6MTc1NjE0NjYxMCwiZXhwIjoxNzU2MTQ2OTcwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.Dpf5TybOtQFqg_Cs_3SmoY6CweCSHH-e05R3NymqWeY
 
 
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
@@ -82,7 +81,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
@@ -96,15 +95,15 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
-https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=1ea28abe-835e-44b5-a232-aa846a500bd3&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDUzNTgsIm5iZiI6MTc1NjE0NTM1OCwiZXhwIjoxNzU2MTQ1NzE4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.u8-32vu3-AA6jWiyZX_VSzoHO6j2l5QjEnBAlI6eYQ8
 
 
-#EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Altro",QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_FOODNETWORK/master.mpd?aws.sessionId=fd5f0f02-cee3-4d3b-b68d-b4a117b96817&manifest.mt=dcee8afc5d094637abb77d2a89e713b5&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY2ODUsIm5iZiI6MTc1NjE0NjY4NSwiZXhwIjoxNzU2MTQ3MDQ1LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.NShnkPgE3pjJwxE0UJoV0hHwf6CCelc0LKbS3KSYAG8
 
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
@@ -117,20 +116,20 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="Altro",Gambero Rosso
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="Cucina-Viaggi-Documentari",Gambero Rosso
 https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Canali musicali e Web Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
-https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WARNERTV/master.mpd?aws.sessionId=38912625-fc2a-4a46-bfff-dcdfdeb54fe2&manifest.mt=976223fd91ca44aeb59f126b333a84b0&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY5NjUsIm5iZiI6MTc1NjE0Njk2NSwiZXhwIjoxNzU2MTQ3MzI1LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.Va3kYMNz0FdWYgIIbLN9-kbQnT9_qRJFo2vj2WfPIHg
 
 
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
-https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_GIALLO/master.mpd?aws.sessionId=6a989fc7-8a2c-4f9a-9a98-23c9907c511d&manifest.mt=8d63b05475ae472893e05c4f75bbbd25&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY3ODksIm5iZiI6MTc1NjE0Njc4OSwiZXhwIjoxNzU2MTQ3MTQ5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.djC14YejMvlNWjBtdSEmaDWmd3dRcocsNmcdFL6Fzds
 
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
@@ -144,7 +143,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="K2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
-https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT900009KL
 
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
@@ -158,7 +157,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&force
 
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
-https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT900005HF
 
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
@@ -166,8 +165,12 @@ https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="Altro",Super!
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="Cartoni animati & Animazione",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ITBD3200007SZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png" tvg-name="Bernard L'Orso" group-title="Cartoni animati & Animazione",Bernard L'Orso
+https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8
 
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Rai",Rai News 24
@@ -190,7 +193,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_DMAX/master.mpd?aws.sessionId=188ee5f5-c5b0-4fab-8135-977142402ff8&manifest.mt=22bd13cfe2ef46aea769ba69cde04837&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDUwOTMsIm5iZiI6MTc1NjE0NTA5MywiZXhwIjoxNzU2MTQ1NDUzLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.bpfTlM1RzvclFdXWZ9ZCVyGMPfAZeNzzpKfCuyRY7SY
 
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
@@ -204,7 +207,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="IT900003FU" tvg-name="IT900003FU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png" group-title="Discovery",HGTV
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_HGTV/master.mpd?aws.sessionId=4ab89642-e595-4c9c-aa25-0f98b28c55aa&manifest.mt=1ea4a725bafc4af7a8f5adb81e6b8e00&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY4NDgsIm5iZiI6MTc1NjE0Njg0OCwiZXhwIjoxNzU2MTQ3MjA4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.CUDfYwCM7P3SUUI9bTpsHYprNKwibbiobrZAvOZqFW0
 
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
@@ -212,7 +215,7 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="Altro",ACI Sport Tv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="Sport & Motori",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 
@@ -221,45 +224,49 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 
-#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
-https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-name="MotorTrendTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
+https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_MOTORTREND/master.mpd?aws.sessionId=a184d9c0-afbe-43e1-a562-3a2d17865f24&manifest.mt=7cc7bad9cfa548498f6c2f57b46a3439&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxNDY5MjAsIm5iZiI6MTc1NjE0NjkyMCwiZXhwIjoxNzU2MTQ3MjgwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM4LjEyOS4xMDYifQ.Kjf5nPrTchdJUG8Pu6po0yv2vWH56514yEPXEzqlKH4
 
 
-#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" group-title="Sportitalia",Sportitalia
+#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Sport & Motori",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sportitalia",Primavera TV
+#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sport & Motori",Primavera TV
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="SportItaliacalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sportitalia",SportItaliacalcio
+#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-name="Sportitalia solocalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sport & Motori",Sportitalia solocalcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" group-title="Altro",SuperTennis
+#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" group-title="Sport & Motori",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 
-#EXTINF:-1 tvg-name="SuperTennis Plus" tvg-logo="https://www.dropbox.com/scl/fi/5dbuisu0cyeyciyqx7v1u/suptennisplus.png?rlkey=4gsztsveu7aam91fx6m89xe4k&st=tma1kjrz&dl=1" tvg-id="SuperTennis.plus.it" group-title="Altro",SuperTennis Plus
+#EXTINF:-1 tvg-name="SuperTennis Plus" tvg-logo="https://www.dropbox.com/scl/fi/5dbuisu0cyeyciyqx7v1u/suptennisplus.png?rlkey=4gsztsveu7aam91fx6m89xe4k&st=tma1kjrz&dl=1" tvg-id="SuperTennis.plus.it" group-title="Sport & Motori",SuperTennis Plus
 https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Altro",Bike Channel
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Sport & Motori",Bike Channel
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 
-#EXTINF:-1 channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Altro",Golf Television
+#EXTINF:-1 channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Sport & Motori",Golf Television
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-68890aa31b1a8359c63cf6e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y5r6cG35nc_M3CFUPqYs
 
 
-#EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Altro",Italian Fishing TV
+#EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Sport & Motori",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Altro",Viaggi & Sapori
+#EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Cucina-Viaggi-Documentari",Viaggi & Sapori
 https://amg01821-lovetv-amg01821c25-lg-it-4100.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitalycc-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
 
-#EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Altro",Love the Planet
+#EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Cucina-Viaggi-Documentari",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="IT2200009F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250729T045602SQUARE.png" tvg-name="Per Caso TV - Summer Edition" group-title="Cucina-Viaggi-Documentari",Per Caso TV Summer Edition
+https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udl9ITFM/playlist.m3u8
