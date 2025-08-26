@@ -1,0 +1,1722 @@
+﻿<tv generator-info-name="rakuten-epg" generator-info-url="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml">
+    <channel id="now-rock">
+    <display-name lang="en">NOW Rock</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9a82889b-3845-47da-a232-21a01e16deca.png"></icon>
+  </channel>
+  <channel id="now-80s">
+    <display-name lang="en">NOW 80s</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0b130f43-b13e-4561-94c4-0edc75c80e07.png"></icon>
+  </channel>
+  <channel id="now-70s">
+    <display-name lang="en">NOW 70s</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9cbf62fa-4ee8-4f22-9cbc-21061cc44f3b.png"></icon>
+  </channel>
+  <channel id="mr-bean-live-action">
+    <display-name lang="en">Mr. Bean - Live Action</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/85d4251c-ee72-4b3f-ac56-a0dfaa099d96.png"></icon>
+  </channel>
+ <programme channel="now-rock" start="20250826002501 +0100" stop="20250826020000 +0100">
+    <title lang="en">Killer Cuts Of The 00s!</title>
+    <sub-title lang="en">S01 : E01 Killer Cuts Of The 00s!</sub-title>
+    <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826020001 +0100" stop="20250826070000 +0100">
+    <title lang="en">Monsters of Rock! 1990-1999</title>
+    <sub-title lang="en">S01 : E01 Monsters of Rock! 1990-1999</sub-title>
+    <desc lang="en">A definitive 6 hour marathon of 90s guitar anthems! From U2 to INXS, Blur to Bon Jovi, Skunk Anansie to Green Day, Metallica to Iron Maiden - 70 rock classics are here, in order!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826070001 +0100" stop="20250826094000 +0100">
+    <title lang="en">30 Rock Dudes of the 90s!</title>
+    <sub-title lang="en">S01 : E01 30 Rock Dudes of the 90s!</sub-title>
+    <desc lang="en">A decade of boys &amp; guitars from some of the biggest names of the the 90s - from Blur &amp; Oasis to U2 &amp; Metallica.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826094001 +0100" stop="20250826100000 +0100">
+    <title lang="en">Rated Rock! The No.1s</title>
+    <sub-title lang="en">S01 : E01 Rated Rock! The No.1s</sub-title>
+    <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826100001 +0100" stop="20250826110000 +0100">
+    <title lang="en">Summer Rock Anthems</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Blink-182, Bryan Adams, Sum41 &amp; Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826110001 +0100" stop="20250826131500 +0100">
+    <title lang="en">Robin Banks 90s Antiques Rockshow</title>
+    <sub-title lang="en">S01 : E01 Robin Banks 90s Antiques Rockshow</sub-title>
+    <desc lang="en">Crammed full with extraordinary finds, hidden treasures, and plenty of old relics! From the Stones and Genesis, to Iggy &amp; Aerosmith - how many of these family heirlooms do you own?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826131501 +0100" stop="20250826140000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826140001 +0100" stop="20250826154000 +0100">
+    <title lang="en">All Killer: Skater Rock!</title>
+    <sub-title lang="en">S01 : E01 All Killer: Skater Rock!</sub-title>
+    <desc lang="en">25 of the finest skate rock anthems! Expect Avril, O.P.M. Blink 182, Good Charlotte &amp; many more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826154001 +0100" stop="20250826160000 +0100">
+    <title lang="en">Killer Cuts Of The 00s!</title>
+    <sub-title lang="en">S01 : E01 Killer Cuts Of The 00s!</sub-title>
+    <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826160001 +0100" stop="20250826182500 +0100">
+    <title lang="en">Alex Baker's 30 Emo Anthems</title>
+    <sub-title lang="en">S01 : E01 Alex Baker's 30 Emo Anthems</sub-title>
+    <desc lang="en">Alex serves up 30 of the greatest, darkest, skinny jeans-iest, heavy eye makeup-iest &amp; back-combed hair-iest anthems from the worlds most glorious miserable genre!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826182501 +0100" stop="20250826190000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826190001 +0100" stop="20250826205000 +0100">
+    <title lang="en">Dumbass Anthems: 2000-2007</title>
+    <sub-title lang="en">S01 : E01 Dumbass Anthems: 2000-2007</sub-title>
+    <desc lang="en">25 All-Killer 00s Dumbass Anthems! From Blink-182 and Wheatus to Fall Out Boy and Scouting For Girls.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826205001 +0100" stop="20250826210000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250826210001 +0100" stop="20250827004000 +0100">
+    <title lang="en">50 Biggest Rock Bands of The 00s</title>
+    <sub-title lang="en">S01 : E01 50 Biggest Rock Bands of The 00s</sub-title>
+    <desc lang="en">Over 3.5 hours of the biggest rock bands of the noughties! Featuring acts like Papa Roach, My Chemical Romance &amp; Razorlight, through to Slipknot, Paramore &amp; Bullet For My Valentine</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827004001 +0100" stop="20250827010000 +0100">
+    <title lang="en">Rated Rock! The No.1s</title>
+    <sub-title lang="en">S01 : E01 Rated Rock! The No.1s</sub-title>
+    <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827010001 +0100" stop="20250827020000 +0100">
+    <title lang="en">All Killer: 00s No.1s!</title>
+    <sub-title lang="en">S01 : E01 All Killer: 00s No.1s!</sub-title>
+    <desc lang="en">In order, an hour of every song a number 1 rock song in the noughties!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827020001 +0100" stop="20250827034000 +0100">
+    <title lang="en">All Killer: Skater Rock!</title>
+    <sub-title lang="en">S01 : E01 All Killer: Skater Rock!</sub-title>
+    <desc lang="en">25 of the finest skate rock anthems! Expect Avril, O.P.M. Blink 182, Good Charlotte &amp; many more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827034001 +0100" stop="20250827040000 +0100">
+    <title lang="en">Killer Cuts Of The 00s!</title>
+    <sub-title lang="en">S01 : E01 Killer Cuts Of The 00s!</sub-title>
+    <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827040001 +0100" stop="20250827062500 +0100">
+    <title lang="en">Alex Baker's 30 Emo Anthems</title>
+    <sub-title lang="en">S01 : E01 Alex Baker's 30 Emo Anthems</sub-title>
+    <desc lang="en">Alex serves up 30 of the greatest, darkest, skinny jeans-iest, heavy eye makeup-iest &amp; back-combed hair-iest anthems from the worlds most glorious miserable genre!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827062501 +0100" stop="20250827070000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827070001 +0100" stop="20250827092500 +0100">
+    <title lang="en">I Love Rock 'n' Roll! Top 30</title>
+    <sub-title lang="en">S01 : E01 I Love Rock 'n' Roll! Top 30</sub-title>
+    <desc lang="en">Guitars, big beats, BIG hair and a fantastic rhythm section - this is how we rocked out in the 80s! With Bon Jovi, ZZ Top, Status Quo, Bryan Adams, Genesis &amp; Joan Jett</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827092501 +0100" stop="20250827100000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827100001 +0100" stop="20250827110000 +0100">
+    <title lang="en">Bon Jovi: Rock Icons</title>
+    <sub-title lang="en">S01 : E01 Bon Jovi: Rock Icons</sub-title>
+    <desc lang="en">An hour of Anthems and the biggest rock songs from 90s rock legends Bon Jovi!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827110001 +0100" stop="20250827131500 +0100">
+    <title lang="en">The 25 Best Locks in Rock</title>
+    <sub-title lang="en">S01 : E01 The 25 Best Locks in Rock</sub-title>
+    <desc lang="en">Let your hair down as Claire Sturgess has a wild ride of fabulous follicles &amp; awesome rock hairdos! From Bowie's glamorous transformations to Joe ElliotÂ´s indestructible mullet.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827131501 +0100" stop="20250827140000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827140001 +0100" stop="20250827153500 +0100">
+    <title lang="en">All Killer: Stateside Anthems!</title>
+    <sub-title lang="en">S01 : E01 All Killer: Stateside Anthems!</sub-title>
+    <desc lang="en">In order, 20 of the biggest american anthems from the 21st Century featuring The Killers, Bon Jovi, Nickleback and One Republic.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827153501 +0100" stop="20250827160000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827160001 +0100" stop="20250827170000 +0100">
+    <title lang="en">Linkin Park: Fan Favourites</title>
+    <sub-title lang="en">S01 : E01 Linkin Park: Fan Favourites</sub-title>
+    <desc lang="en">Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827170001 +0100" stop="20250827204500 +0100">
+    <title lang="en">Turn Up The 00s Anthems!</title>
+    <sub-title lang="en">S01 : E01 Turn Up The 00s Anthems!</sub-title>
+    <desc lang="en">Turn up your spreakers to 11 and live life even louder! 50 All-Killer Anthems in order from Blink 182 in 2000 to The Killers at the end of the Decade!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827204501 +0100" stop="20250827210000 +0100">
+    <title lang="en">Rated Rock! The No.1s</title>
+    <sub-title lang="en">S01 : E01 Rated Rock! The No.1s</sub-title>
+    <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827210001 +0100" stop="20250827235000 +0100">
+    <title lang="en">Nicky Horne's 30 Greatest Albums</title>
+    <sub-title lang="en">S01 : E01 Nicky Horne's 30 Greatest Albums</sub-title>
+    <desc lang="en">Nicky Horne presents his favourite songs behind 30 of the greatest rock album covers ever! Featuring The Beatles &amp; Queen, The Stones &amp; Pink Floyd. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250827235001 +0100" stop="20250828000000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828000001 +0100" stop="20250828020000 +0100">
+    <title lang="en">Forgotten Riffs of Rock n Roll!</title>
+    <sub-title lang="en">S01 : E01 Forgotten Riffs of Rock n Roll!</sub-title>
+    <desc lang="en">Songs you might not have heard in decades - but guaranteed to bring back some raucous rock memories! From Journey in 1980 to Richard Marx &amp; U2 in 1989. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828020001 +0100" stop="20250828033500 +0100">
+    <title lang="en">All Killer: Stateside Anthems!</title>
+    <sub-title lang="en">S01 : E01 All Killer: Stateside Anthems!</sub-title>
+    <desc lang="en">In order, 20 of the biggest american anthems from the 21st Century featuring The Killers, Bon Jovi, Nickleback and One Republic.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828033501 +0100" stop="20250828040000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828040001 +0100" stop="20250828050000 +0100">
+    <title lang="en">Linkin Park: Fan Favourites</title>
+    <sub-title lang="en">S01 : E01 Linkin Park: Fan Favourites</sub-title>
+    <desc lang="en">Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828050001 +0100" stop="20250828070000 +0100">
+    <title lang="en">Turn Up The 00s Anthems!</title>
+    <sub-title lang="en">S01 : E01 Turn Up The 00s Anthems!</sub-title>
+    <desc lang="en">Turn up your spreakers to 11 and live life even louder! 50 All-Killer Anthems in order from Blink 182 in 2000 to The Killers at the end of the Decade!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828070001 +0100" stop="20250828085000 +0100">
+    <title lang="en">Rock 'n' Roll Top 3s: 1990-1999</title>
+    <sub-title lang="en">S01 : E01 Rock 'n' Roll Top 3s: 1990-1999</sub-title>
+    <desc lang="en">A 2 hour run through, in order, of top 3 hits from the 90s - all with that rock n roll swagger! Expect plenty of U2, Def Leppard, Meat Loaf &amp; Brit Pop!.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828085001 +0100" stop="20250828090000 +0100">
+    <title lang="en">Rated Rock! The No.1s</title>
+    <sub-title lang="en">S01 : E01 Rated Rock! The No.1s</sub-title>
+    <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828090001 +0100" stop="20250828113500 +0100">
+    <title lang="en">Feelgood Rock Songs! 2000-2019</title>
+    <sub-title lang="en">S01 : E01 Feelgood Rock Songs! 2000-2019</sub-title>
+    <desc lang="en">20 years of feel good rock tracks! From Blink-182 &amp; Bon Jovi at the start 00s to Panic! At The Disco &amp; Pink at the end of the 2010s. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828113501 +0100" stop="20250828120000 +0100">
+    <title lang="en">Summer Rock Anthems!</title>
+    <sub-title lang="en">S01 : E01 Summer Rock Anthems!</sub-title>
+    <desc lang="en">Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828120001 +0100" stop="20250828130000 +0100">
+    <title lang="en">Turn Up The Pop Punk Anthems!</title>
+    <sub-title lang="en">S01 : E01 Turn Up The Pop Punk Anthems!</sub-title>
+    <desc lang="en">Turn up your spreakers to 11 and live life even louder! 1 hour of 00s Pop Punk Anthems in order, featurng Green Day, Blink-182, Sum 41, Bowling For Soup &amp; The All-American Rejects</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828130001 +0100" stop="20250828152500 +0100">
+    <title lang="en">Alex Baker's 30 Emo Anthems</title>
+    <sub-title lang="en">S01 : E01 Alex Baker's 30 Emo Anthems</sub-title>
+    <desc lang="en">Alex serves up 30 of the greatest, darkest, skinny jeans-iest, heavy eye makeup-iest &amp; back-combed hair-iest anthems from the worlds most glorious miserable genre!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828152501 +0100" stop="20250828160000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828160001 +0100" stop="20250828170000 +0100">
+    <title lang="en">Nu Metal Immortals!</title>
+    <sub-title lang="en">S01 : E01 Nu Metal Immortals!</sub-title>
+    <desc lang="en">An hour of Nu Metal from the likes of Alien Ant Farm, Evanescence and Limp Bizkit to Korn, Linkin Park and Rage Against The Machine.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828170001 +0100" stop="20250828173000 +0100">
+    <title lang="en">Muse: Fan Favourites</title>
+    <sub-title lang="en">S01 : E01 Muse: Fan Favourites</sub-title>
+    <desc lang="en">From 2003 to 2015 - 30 minutes of the biggest rock songs from Muse!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828173001 +0100" stop="20250828180000 +0100">
+    <title lang="en">Killer Cuts Of The 00s!</title>
+    <sub-title lang="en">S01 : E01 Killer Cuts Of The 00s!</sub-title>
+    <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828180001 +0100" stop="20250828202500 +0100">
+    <title lang="en">30 Rock &amp; Indie Heroes of the 10s</title>
+    <sub-title lang="en">S01 : E01 30 Rock &amp; Indie Heroes of the 10s</sub-title>
+    <desc lang="en">Claire Sturgess relives the 2010s with her 30 greatest heroes in rock and indie. The Vaccines, Biffy Clyro and Imagine Dragons are all in the Top 10, but who is her number 1?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828202501 +0100" stop="20250828210000 +0100">
+    <title lang="en">The Anthems!</title>
+    <sub-title lang="en">S01 : E01 The Anthems!</sub-title>
+    <desc lang="en">Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250828210001 +0100" stop="20250829005000 +0100">
+    <title lang="en">Backtrack: Rock No.1s 2015-1980 </title>
+    <sub-title lang="en">S01 : E01 Backtrack: Rock No.1s 2015-1980 </sub-title>
+    <desc lang="en">In reverse: Starting in 2015, we're going back 35 rock years of number 1 hit singles &amp; albums!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-rock" start="20250829005001 +0100" stop="20250829020000 +0100">
+    <title lang="en">Legendary Rock: 1980-1989</title>
+    <sub-title lang="en">S01 : E01 Legendary Rock: 1980-1989</sub-title>
+    <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250825210001 +0100" stop="20250826011500 +0100">
+    <title lang="en">50 Girls In Love - In The 80s</title>
+    <sub-title lang="en">S01 : E01 50 Girls In Love - In The 80s</sub-title>
+    <desc lang="en">From classic power ballads to life affirming love songs - 4 hours of smoochy girls, devastating divas, and pop princesses. Time to put your Hand on Your Heart and tell me.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826011501 +0100" stop="20250826020000 +0100">
+    <title lang="en">Monday Night at the Movies!</title>
+    <sub-title lang="en">S01 : E01 Monday Night at the Movies!</sub-title>
+    <desc lang="en">Popcorn at the ready, these are NOW 80s' biggest songs from the movies. But don't forget to switch off those mobile phones!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826020001 +0100" stop="20250826070000 +0100">
+    <title lang="en">Every Number 1 of the 80s!</title>
+    <sub-title lang="en">S01 : E01 Every Number 1 of the 80s!</sub-title>
+    <desc lang="en">In order - Mark Goodier's 11 hour journey through the decade's biggest number 1 songs, from Abba and Adam Ant, to Wham, Madonna, Rick Astley and Kylie Minogue.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826070001 +0100" stop="20250826100000 +0100">
+    <title lang="en">That's NOT My Name! 1980-1989</title>
+    <sub-title lang="en">S01 : E01 That's NOT My Name! 1980-1989</sub-title>
+    <desc lang="en">Barry Pincus, Gaynor Hopkins &amp; Helen Folasade Adu were 3 of the world's biggest stars of the 80s - but all went under snappier (&amp; better!) showbiz names for their music careers!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826100001 +0100" stop="20250826132000 +0100">
+    <title lang="en">40 One-Hit Wonders with Pat Sharp</title>
+    <sub-title lang="en">S01 : E01 40 One-Hit Wonders with Pat Sharp</sub-title>
+    <desc lang="en">They all had 1 defining chart smash - then never darkened our top 20 again! Our One-Hit stars include Judy Boucher, The Vapors, Matthew Wilder &amp; Midnight Oil.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826132001 +0100" stop="20250826140000 +0100">
+    <title lang="en">Long Hot Summer!</title>
+    <sub-title lang="en">S01 : E01 Long Hot Summer!</sub-title>
+    <desc lang="en">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826140001 +0100" stop="20250826180000 +0100">
+    <title lang="en">It Spent HOW Long At No.1 ?!</title>
+    <sub-title lang="en">S01 : E01 It Spent HOW Long At No.1 ?!</sub-title>
+    <desc lang="en">Once these tracks made it to the top spot there was no knocking them off! This is our countdown of the 50 longest chart toppers of the 1980s!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826180001 +0100" stop="20250826190000 +0100">
+    <title lang="en">Long Hot Summer!</title>
+    <sub-title lang="en">S01 : E01 Long Hot Summer!</sub-title>
+    <desc lang="en">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826190001 +0100" stop="20250826224000 +0100">
+    <title lang="en">The Complete Queen! 1973-1996</title>
+    <sub-title lang="en">S01 : E01 The Complete Queen! 1973-1996</sub-title>
+    <desc lang="en">24 years of rock classics from the biggest band of the era - Queen! From 73's Keep Yourself Alive to 96's Too Much Love Will Kill You - via a multitude of all-time rock anthems.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826224001 +0100" stop="20250826230000 +0100">
+    <title lang="en">How Rock SHOOK The World!</title>
+    <sub-title lang="en">S01 : E01 How Rock SHOOK The World!</sub-title>
+    <desc lang="en">Non-stop 80s rock &amp; power pop! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250826230001 +0100" stop="20250827000500 +0100">
+    <title lang="en">The Heritage Chart 5th Birthday!</title>
+    <sub-title lang="en">S01 : E01 The Heritage Chart 5th Birthday!</sub-title>
+    <desc lang="en">A celebration of 5 years of the Heritage Chart - new music by heritage acts! With Mike Read.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827000501 +0100" stop="20250827010000 +0100">
+    <title lang="en">1985 Unleashed!</title>
+    <sub-title lang="en">S01 : E01 1985 Unleashed!</sub-title>
+    <desc lang="en">Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1985!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827010001 +0100" stop="20250827020000 +0100">
+    <title lang="en">The 1985 Video Hall of Fame</title>
+    <sub-title lang="en">S01 : E01 The 1985 Video Hall of Fame</sub-title>
+    <desc lang="en">Radio 1 &amp; Top of the Pops legend Gary Davies with the iconic images &amp; award winning clips that set the style of 1985. Including Elaine &amp; Barbara, Godley &amp; Creme, Grace Jones &amp; A-Ha</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827020001 +0100" stop="20250827060000 +0100">
+    <title lang="en">It Spent HOW Long At No.1 ?!</title>
+    <sub-title lang="en">S01 : E01 It Spent HOW Long At No.1 ?!</sub-title>
+    <desc lang="en">Once these tracks made it to the top spot there was no knocking them off! This is our countdown of the 50 longest chart toppers of the 1980s!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827060001 +0100" stop="20250827070000 +0100">
+    <title lang="en">Long Hot Summer!</title>
+    <sub-title lang="en">S01 : E01 Long Hot Summer!</sub-title>
+    <desc lang="en">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827070001 +0100" stop="20250827095000 +0100">
+    <title lang="en">The NOW Yearbook 1989</title>
+    <sub-title lang="en">S01 : E01 The NOW Yearbook 1989</sub-title>
+    <desc lang="en">Jenny Powell flicks through the pages of another Yearbook. 1989 saw the breakthrough of Italian house, the rise of Mad-chester and Stock, Aitken &amp; Waterman in their imperial phase!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827095001 +0100" stop="20250827100000 +0100">
+    <title lang="en">1989 Unleashed!</title>
+    <sub-title lang="en">S01 : E01 1989 Unleashed!</sub-title>
+    <desc lang="en">Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1989!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827100001 +0100" stop="20250827120000 +0100">
+    <title lang="en">80s Stars - Then &amp; Now!</title>
+    <sub-title lang="en">S01 : E01 80s Stars - Then &amp; Now!</sub-title>
+    <desc lang="en">Where are they now? Classic hits, followed by some recent songs - Including Rolling Stones, Bros, Abba, Gary Numan, Paul McCartney, Duran Duran, Tight Fit &amp; Bruce Springsteen!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827120001 +0100" stop="20250827160000 +0100">
+    <title lang="en">4 Hours of LOVE! 1980-1989</title>
+    <sub-title lang="en">S01 : E01 4 Hours of LOVE! 1980-1989</sub-title>
+    <desc lang="en">From 'Please Don't Go' in 1980 to 'Don't Know Much' in 1989 - these are simply the 50 biggest love &amp; break-up songs of the decade, in order.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827160001 +0100" stop="20250827183500 +0100">
+    <title lang="en">Pat Sharp's Bad Hair - Big Tunes!</title>
+    <sub-title lang="en">S01 : E01 Pat Sharp's Bad Hair - Big Tunes!</sub-title>
+    <desc lang="en">Famous for his big hair, less famous for his tunes - Pat Sharp is back with a countdown of classic 80s songs accompanied by dodgy 80s hair-don'ts!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827183501 +0100" stop="20250827190000 +0100">
+    <title lang="en">Soft Rock &amp; Power Pop!</title>
+    <sub-title lang="en">S01 : E01 Soft Rock &amp; Power Pop!</sub-title>
+    <desc lang="en">From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827190001 +0100" stop="20250827232500 +0100">
+    <title lang="en">The Ultimate Duets! 1980-1989</title>
+    <sub-title lang="en">S01 : E01 The Ultimate Duets! 1980-1989</sub-title>
+    <desc lang="en">100 acts, but only 50 songs - it must be 80s duets! Including Diana &amp; Lionel, Aretha &amp; George, Peter &amp; Kate, Cliff &amp; Sarah, Patti &amp; Michael, and not forgetting Shaky &amp; Bonnie!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250827232501 +0100" stop="20250828010000 +0100">
+    <title lang="en">Soft Rock &amp; Power Pop!</title>
+    <sub-title lang="en">S01 : E01 Soft Rock &amp; Power Pop!</sub-title>
+    <desc lang="en">From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828010001 +0100" stop="20250828020000 +0100">
+    <title lang="en">Eurythmics: Reminisce!</title>
+    <sub-title lang="en">S01 : E01 Eurythmics: Reminisce!</sub-title>
+    <desc lang="en">Dave &amp; Annie get back together to recall their tumultuous decade together in the 1980s - album by album &amp; video by video. Expect anthems all the way!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828020001 +0100" stop="20250828030500 +0100">
+    <title lang="en">Stuff For The Cool Kids! Top 40</title>
+    <sub-title lang="en">S01 : E01 Stuff For The Cool Kids! Top 40</sub-title>
+    <desc lang="en">Post punk, New Wave &amp; the British Invasion - from the first half of the 80s this was what the cool kids were into - and we all followed on afterwards!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828030501 +0100" stop="20250828040000 +0100">
+    <title lang="en">Seven Inch Heroes!</title>
+    <sub-title lang="en">S01 : E01 Seven Inch Heroes!</sub-title>
+    <desc lang="en">Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828040001 +0100" stop="20250828063500 +0100">
+    <title lang="en">Timmy Mallett's Brilliant Bands!</title>
+    <sub-title lang="en">S01 : E01 Timmy Mallett's Brilliant Bands!</sub-title>
+    <desc lang="en">Timmy's back with something a little different - a run through of his favourite 80s bands, many interviewed on his "Timmy On The Tranny" radio show throughout the decade!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828063501 +0100" stop="20250828070000 +0100">
+    <title lang="en">Seven Inch Heroes!</title>
+    <sub-title lang="en">S01 : E01 Seven Inch Heroes!</sub-title>
+    <desc lang="en">Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828070001 +0100" stop="20250828090000 +0100">
+    <title lang="en">Rick Astley's Hit Factory &amp; Beyond</title>
+    <sub-title lang="en">S01 : E01 Rick Astley's Hit Factory &amp; Beyond</sub-title>
+    <desc lang="en">Rick's here, not just with Stock, Aitken &amp; Waterman's big stars like Kylie and Jason, but with other massive 80s bangers that influenced the brilliant Hit Factory sound. Jump in!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828090001 +0100" stop="20250828114500 +0100">
+    <title lang="en">Colours of the Rainbow...and More!</title>
+    <sub-title lang="en">S01 : E01 Colours of the Rainbow...and More!</sub-title>
+    <desc lang="en">Songs &amp; artists of the 80s featuring all the colours of the rainbow - and more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828114501 +0100" stop="20250828120000 +0100">
+    <title lang="en">How Rock SHOOK The World!</title>
+    <sub-title lang="en">S01 : E01 How Rock SHOOK The World!</sub-title>
+    <desc lang="en">Non-stop 80s rock &amp; power pop! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828120001 +0100" stop="20250828141000 +0100">
+    <title lang="en">25 Rock Guilty Pleasures!</title>
+    <sub-title lang="en">S01 : E01 25 Rock Guilty Pleasures!</sub-title>
+    <desc lang="en">They may not have a whole crate of credibility, but their singalong potential was never in doubt! These are the 80s songs that built cities out of Rock n Roll!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828141001 +0100" stop="20250828150000 +0100">
+    <title lang="en">How Rock SHOOK The World!</title>
+    <sub-title lang="en">S01 : E01 How Rock SHOOK The World!</sub-title>
+    <desc lang="en">Non-stop 80s rock &amp; power pop! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828150001 +0100" stop="20250828173000 +0100">
+    <title lang="en">Carol Decker's 30 Rock Chicks!</title>
+    <sub-title lang="en">S01 : E01 Carol Decker's 30 Rock Chicks!</sub-title>
+    <desc lang="en">T'Pau's Carol Decker brings a bit of Heart &amp; Soul to a countdown of 80s ladies who liked to rock! With Joan Jett, Tina Turner, Stevie Nicks &amp; Pat Benatar.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828173001 +0100" stop="20250828180000 +0100">
+    <title lang="en">How Rock SHOOK The World!</title>
+    <sub-title lang="en">S01 : E01 How Rock SHOOK The World!</sub-title>
+    <desc lang="en">Non-stop 80s rock &amp; power pop! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828180001 +0100" stop="20250828183000 +0100">
+    <title lang="en">1980s Glastonbury Headliners!</title>
+    <sub-title lang="en">S01 : E01 1980s Glastonbury Headliners!</sub-title>
+    <desc lang="en">Back when the festival was much younger &amp; much smaller, you might be surprised at some of the headliners! This is Glastonbury 1980s style - in order!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828183001 +0100" stop="20250828193000 +0100">
+    <title lang="en">Stuff For The Cool Kids! Top 40</title>
+    <sub-title lang="en">S01 : E01 Stuff For The Cool Kids! Top 40</sub-title>
+    <desc lang="en">Post punk, New Wave &amp; the British Invasion - from the first half of the 80s this was what the cool kids were into - and we all followed on afterwards!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828193001 +0100" stop="20250828233500 +0100">
+    <title lang="en">60 Summer Sizzlers! 1980-1989</title>
+    <sub-title lang="en">S01 : E01 60 Summer Sizzlers! 1980-1989</sub-title>
+    <desc lang="en">60 of the best feel-good summer hits! Each was a Top 10 smash across June, July &amp; August in the '80s - on the beach, on your walkman, and at the Radio 1 Roadshow!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250828233501 +0100" stop="20250829000000 +0100">
+    <title lang="en">Long Hot Summer!</title>
+    <sub-title lang="en">S01 : E01 Long Hot Summer!</sub-title>
+    <desc lang="en">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-80s" start="20250829000001 +0100" stop="20250829010000 +0100">
+    <title lang="en">1980s Glastonbury Headliners!</title>
+    <sub-title lang="en">S01 : E01 1980s Glastonbury Headliners!</sub-title>
+    <desc lang="en">Back when the festival was much younger &amp; much smaller, you might be surprised at some of the headliners! This is Glastonbury 1980s style - in order!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250825220001 +0100" stop="20250826010000 +0100">
+    <title lang="en">Essentials! 70s Rock Groups</title>
+    <sub-title lang="en">S01 : E01 Essentials! 70s Rock Groups</sub-title>
+    <desc lang="en">Turn it up loud for 2 hours of proper rock from the 70s - the decade that gave birth to Prog &amp; Metal! Including Pink Floyd, Led Zeppelin, Black Sabbath, Alice Cooper, AC/DC &amp; Queen</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826010001 +0100" stop="20250826040000 +0100">
+    <title lang="en">The Big BBQ Party! 70 from the 70s</title>
+    <sub-title lang="en">S01 : E01 The Big BBQ Party! 70 from the 70s</sub-title>
+    <desc lang="en">Celebrate the sunshine with 5 hours of feelgood and a good smattering of pop nonsense. Including big number 1s from Mud, Bee Gees, Brotherhood of Man, Cliff &amp; Abba!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826040001 +0100" stop="20250826050000 +0100">
+    <title lang="en">The Bank Holiday Boogie!</title>
+    <sub-title lang="en">S01 : E01 The Bank Holiday Boogie!</sub-title>
+    <desc lang="en">If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826050001 +0100" stop="20250826060000 +0100">
+    <title lang="en">Pat Sharp's Karaoke Party!</title>
+    <sub-title lang="en">S01 : E01 Pat Sharp's Karaoke Party!</sub-title>
+    <desc lang="en">Come prepared, as those vocal chords are going to see a lot of action as we spend 3 nostalgic hours with Pat Sharp's 70s house party. All gatecrashers welcome!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826060001 +0100" stop="20250826083500 +0100">
+    <title lang="en">The NOW Yearbook 1976</title>
+    <sub-title lang="en">S01 : E01 The NOW Yearbook 1976</sub-title>
+    <desc lang="en">The hottest songs from the year of a record breaking summer! Simon Bates has the soundtrack of a great 12 months in pop, including Wings, Wild Cherry &amp; The Wurzels!            </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826083501 +0100" stop="20250826090000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826090001 +0100" stop="20250826110500 +0100">
+    <title lang="en">Sally James' Bubblegum Pop!</title>
+    <sub-title lang="en">S01 : E01 Sally James' Bubblegum Pop!</sub-title>
+    <desc lang="en">Today we'd call it Cheesy Pop! Back then it was Bubblegum Pop &amp; TISWAS Sally has a prime selection including David Cassidy, Mungo Jerry, Lynsey De Paul, Tony Orlando &amp; The Osmonds.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826110501 +0100" stop="20250826120000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826120001 +0100" stop="20250826154500 +0100">
+    <title lang="en">Karaoke For The Kids! 1970-1979</title>
+    <sub-title lang="en">S01 : E01 Karaoke For The Kids! 1970-1979</sub-title>
+    <desc lang="en">Whether you've kids or you were a kid in the 70s yourself - these are the 50 biggest singalong classics of the decade - in order!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826154501 +0100" stop="20250826160000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826160001 +0100" stop="20250826192500 +0100">
+    <title lang="en">Simon Bates 70s Pop! Top 50</title>
+    <sub-title lang="en">S01 : E01 Simon Bates 70s Pop! Top 50</sub-title>
+    <desc lang="en">Simon Bates with a celebration of a decade - the 50 biggest pure pop hits of the 70s. He's got a bucketload of Boney M, oodles of the Osmonds &amp; an armful of Abba!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826192501 +0100" stop="20250826200000 +0100">
+    <title lang="en">Retro Rewind! 70s Edition</title>
+    <sub-title lang="en">S01 : E01 Retro Rewind! 70s Edition</sub-title>
+    <desc lang="en">From hippies to punk rockers, via folk, funk, soul &amp; disco - these are the classic songs that made the 70s! </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826200001 +0100" stop="20250826235000 +0100">
+    <title lang="en">Roof Down, Radio UP! Road Trip 50</title>
+    <sub-title lang="en">S01 : E01 Roof Down, Radio UP! Road Trip 50</sub-title>
+    <desc lang="en">We're crusin' down the highway with four hours of '70s driving songs, featuring the coolest FM rock from legends like Fleetwood Mac, Eagles, Elton, ELO, Toto, and more!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250826235001 +0100" stop="20250827000000 +0100">
+    <title lang="en">1972 Unleashed!</title>
+    <sub-title lang="en">S01 : E01 1972 Unleashed!</sub-title>
+    <desc lang="en">Classic hits from just 1 year - 1972!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827000001 +0100" stop="20250827010000 +0100">
+    <title lang="en">The 1972 POWER Hour with Bam!</title>
+    <sub-title lang="en">S01 : E01 The 1972 POWER Hour with Bam!</sub-title>
+    <desc lang="en">Seventies music power to play loud! Work out your speakers with some pure power pop and rock including Queen, Slade, and Alice Cooper!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827010001 +0100" stop="20250827024500 +0100">
+    <title lang="en">Karaoke For The Kids! 1970-1979</title>
+    <sub-title lang="en">S01 : E01 Karaoke For The Kids! 1970-1979</sub-title>
+    <desc lang="en">Whether you've kids or you were a kid in the 70s yourself - these are the 50 biggest singalong classics of the decade - in order!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827024501 +0100" stop="20250827030000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827030001 +0100" stop="20250827060000 +0100">
+    <title lang="en">Simon Bates 70s Pop! Top 50</title>
+    <sub-title lang="en">S01 : E01 Simon Bates 70s Pop! Top 50</sub-title>
+    <desc lang="en">Simon Bates with a celebration of a decade - the 50 biggest pure pop hits of the 70s. He's got a bucketload of Boney M, oodles of the Osmonds &amp; an armful of Abba!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827060001 +0100" stop="20250827075000 +0100">
+    <title lang="en">Pauline Black Ska &amp; Reggae Legends</title>
+    <sub-title lang="en">S01 : E01 Pauline Black Ska &amp; Reggae Legends</sub-title>
+    <desc lang="en">The Selecter's lead singer with 25 innovators &amp; trend-setters who made ska &amp; reggae such an essential part of the 70s. From Desmond Dekker to Eddie Grant via Bob Marley &amp; The Beat!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827075001 +0100" stop="20250827080000 +0100">
+    <title lang="en">Far Out, Man!</title>
+    <sub-title lang="en">S01 : E01 Far Out, Man!</sub-title>
+    <desc lang="en">Over-bearded men &amp; leftfield ladies - all with fabulous tunes! These are alternative hits from the west coast, the underground &amp; the counter culture of the 1970s.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827080001 +0100" stop="20250827100000 +0100">
+    <title lang="en">Art School Cool! 1970-79</title>
+    <sub-title lang="en">S01 : E01 Art School Cool! 1970-79</sub-title>
+    <desc lang="en">Art-school innovators, cool mavericks and risk-taking heroes all combine in this heady two-hour mix of stars who often pushed music way beyond the confines of chart-based pop.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827100001 +0100" stop="20250827110000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827110001 +0100" stop="20250827142500 +0100">
+    <title lang="en">Chunks of Funk! 45 x 45s!</title>
+    <sub-title lang="en">S01 : E01 Chunks of Funk! 45 x 45s!</sub-title>
+    <desc lang="en">45 soulful tunes from the 70s - with laid-back ballads, funky pop and devastating disco. This is the decade in 4 hours!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827142501 +0100" stop="20250827150000 +0100">
+    <title lang="en">In The Summertime!</title>
+    <sub-title lang="en">S01 : E01 In The Summertime!</sub-title>
+    <desc lang="en">Feelgood sunshine hits from a colourful decade - the 1970s! Flares &amp; mini-skirts at the ready?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827150001 +0100" stop="20250827165000 +0100">
+    <title lang="en">Mike Read's Pop Quiz: 1979</title>
+    <sub-title lang="en">S01 : E01 Mike Read's Pop Quiz: 1979</sub-title>
+    <desc lang="en">Time to show off your nerdy knowledge as Mike Read quizzes you on the stars and songs of 1979!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827165001 +0100" stop="20250827170000 +0100">
+    <title lang="en">1979 Unleashed!</title>
+    <sub-title lang="en">S01 : E01 1979 Unleashed!</sub-title>
+    <desc lang="en">Classic hits from just 1 year - 1979!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827170001 +0100" stop="20250827192000 +0100">
+    <title lang="en">Clare Grogan's Teenage Kicks!</title>
+    <sub-title lang="en">S01 : E01 Clare Grogan's Teenage Kicks!</sub-title>
+    <desc lang="en">The 5 years from '77 to '81 was possibly the most exciting &amp; vibrant time to be a teenager &amp; Clare Grogan was there - buying the records, seeing the bands &amp; wearing the t-shirts!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827192001 +0100" stop="20250827200000 +0100">
+    <title lang="en">70s Love Songs</title>
+    <sub-title lang="en">S01 : E01 70s Love Songs</sub-title>
+    <desc lang="en">Non-stop love songs, back to back, from the era of Leo Sayer, Carpenters, The Bee Gees &amp; Minnie Ripperton. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827200001 +0100" stop="20250827220500 +0100">
+    <title lang="en">A Touch of Class! Top 30</title>
+    <sub-title lang="en">S01 : E01 A Touch of Class! Top 30</sub-title>
+    <desc lang="en">Keyboards, crooners &amp; cabaret - mum &amp; dad would have bored you senseless on their 8-track in the car, but now these quality tunes just sound class! 30 class acts - and their songs.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827220501 +0100" stop="20250827230000 +0100">
+    <title lang="en">70s Love Songs</title>
+    <sub-title lang="en">S01 : E01 70s Love Songs</sub-title>
+    <desc lang="en">Non-stop love songs, back to back, from the era of Leo Sayer, Carpenters, The Bee Gees &amp; Minnie Ripperton. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250827230001 +0100" stop="20250828010000 +0100">
+    <title lang="en">Simon Bates' Rock Ballads! 1970-79</title>
+    <sub-title lang="en">S01 : E01 Simon Bates' Rock Ballads! 1970-79</sub-title>
+    <desc lang="en">We didn't yet call them Power Ballads, but some masters of the genre - Boston, Toto &amp; Whitesnake - were already at it! Simes has 25 power pop love songs &amp; ballads - in order.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828010001 +0100" stop="20250828032500 +0100">
+    <title lang="en">Cuddle on the Couch - The Love 40</title>
+    <sub-title lang="en">S01 : E01 Cuddle on the Couch - The Love 40</sub-title>
+    <desc lang="en">3 hours of 70s love. What more could you ask for a long smooch on the sofa?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828032501 +0100" stop="20250828042500 +0100">
+    <title lang="en">Help Me Make It Through the Night!</title>
+    <sub-title lang="en">S01 : E01 Help Me Make It Through the Night!</sub-title>
+    <desc lang="en">Non-stop love songs, back to back all night, from the era of Leo Sayer, Carpenters, The Bee Gees &amp; Minnie Ripperton. </desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828042501 +0100" stop="20250828060000 +0100">
+    <title lang="en">Simon Bates' Rock Ballads! 1970-79</title>
+    <sub-title lang="en">S01 : E01 Simon Bates' Rock Ballads! 1970-79</sub-title>
+    <desc lang="en">We didn't yet call them Power Ballads, but some masters of the genre - Boston, Toto &amp; Whitesnake - were already at it! Simes has 25 power pop love songs &amp; ballads - in order.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828060001 +0100" stop="20250828092500 +0100">
+    <title lang="en">Simon Bates 70s Pop! Top 50</title>
+    <sub-title lang="en">S01 : E01 Simon Bates 70s Pop! Top 50</sub-title>
+    <desc lang="en">Simon Bates with a celebration of a decade - the 50 biggest pure pop hits of the 70s. He's got a bucketload of Boney M, oodles of the Osmonds &amp; an armful of Abba!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828092501 +0100" stop="20250828100000 +0100">
+    <title lang="en">1970 Unleashed!</title>
+    <sub-title lang="en">S01 : E01 1970 Unleashed!</sub-title>
+    <desc lang="en">Classic hits from just 1 year - 1970!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828100001 +0100" stop="20250828120000 +0100">
+    <title lang="en">Blimey! Wasn't It Bigger? 1970-79</title>
+    <sub-title lang="en">S01 : E01 Blimey! Wasn't It Bigger? 1970-79</sub-title>
+    <desc lang="en">Every one of these great songs is a classic. Yet none of them ever made the Top 10 in the 70s, despite being from superstars like Bowie, Abba, The Who and more. You'll be shocked!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828120001 +0100" stop="20250828161500 +0100">
+    <title lang="en">Timewarp TV! 1977</title>
+    <sub-title lang="en">S01 : E01 Timewarp TV! 1977</sub-title>
+    <desc lang="en">60 songs from a classic year of 70s pop - 1977!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828161501 +0100" stop="20250828170000 +0100">
+    <title lang="en">All Day - It's 1977!</title>
+    <sub-title lang="en">S01 : E01 All Day - It's 1977!</sub-title>
+    <desc lang="en">Experience the magic of 1977 &amp; dance yourself through a long year of disco, pop, soul, country, rock &amp; punk. With ELO &amp; Abba, Queen &amp; Kenny Rogers!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828170001 +0100" stop="20250828180000 +0100">
+    <title lang="en">Mark Goodier's No.1s of 1977</title>
+    <sub-title lang="en">S01 : E01 Mark Goodier's No.1s of 1977</sub-title>
+    <desc lang="en">60 minutes of back to back number 1s from 1977 - a year when David Soul &amp; disco were kings! With Mr Charts himself - Mark Goodier.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828180001 +0100" stop="20250828183000 +0100">
+    <title lang="en">Every Number 2 of 1977</title>
+    <sub-title lang="en">S01 : E01 Every Number 2 of 1977</sub-title>
+    <desc lang="en">Runners-up from the UK charts in 1977 - those 11 songs that didn't quite mae it &amp; got stuck behind long running chart toppers from Abba, Donna Summer, Elvis Presley &amp; Wings.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828183001 +0100" stop="20250828193000 +0100">
+    <title lang="en">Cuddle on the Couch - The Love 40</title>
+    <sub-title lang="en">S01 : E01 Cuddle on the Couch - The Love 40</sub-title>
+    <desc lang="en">3 hours of 70s love. What more could you ask for a long smooch on the sofa?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828193001 +0100" stop="20250828200000 +0100">
+    <title lang="en">Who Won Wot in 1977?</title>
+    <sub-title lang="en">S01 : E01 Who Won Wot in 1977?</sub-title>
+    <desc lang="en">Mark Goodier with 1977's big music award winners.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828200001 +0100" stop="20250828210000 +0100">
+    <title lang="en">All Day - It's 1977!</title>
+    <sub-title lang="en">S01 : E01 All Day - It's 1977!</sub-title>
+    <desc lang="en">Experience the magic of 1977 &amp; dance yourself through a long year of disco, pop, soul, country, rock &amp; punk. With ELO &amp; Abba, Queen &amp; Kenny Rogers!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828210001 +0100" stop="20250828235500 +0100">
+    <title lang="en">The NOW Yearbook 1977</title>
+    <sub-title lang="en">S01 : E01 The NOW Yearbook 1977</sub-title>
+    <desc lang="en">If you thought 1977 was all about punk - you might want to think again! Simon Bates brings you a Silver Jubilee year full of pop, soul, disco, country, love &amp; a little bit of rock!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250828235501 +0100" stop="20250829000000 +0100">
+    <title lang="en">All Day - It's 1977!</title>
+    <sub-title lang="en">S01 : E01 All Day - It's 1977!</sub-title>
+    <desc lang="en">Experience the magic of 1977 &amp; dance yourself through a long year of disco, pop, soul, country, rock &amp; punk. With ELO &amp; Abba, Queen &amp; Kenny Rogers!</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme channel="now-70s" start="20250829000001 +0100" stop="20250829010000 +0100">
+    <title lang="en">The 1977 POWER Hour with Bam!</title>
+    <sub-title lang="en">S01 : E01 The 1977 POWER Hour with Bam!</sub-title>
+    <desc lang="en">60 minutes of power pop &amp; rock! Earplugs at the ready as we rewind to 1977 with Rod Stewart, Boston, Ram Jam &amp; the Sex Pistols!</desc>
+    <category lang="en">Music</category>
+  </programme>
+   <programme channel="mr-bean-live-action" start="20250826004253 +0100" stop="20250826011116 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826011117 +0100" stop="20250826014220 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826014221 +0100" stop="20250826021052 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826021053 +0100" stop="20250826024152 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826024153 +0100" stop="20250826031200 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826031201 +0100" stop="20250826034417 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826034418 +0100" stop="20250826041333 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826041334 +0100" stop="20250826044446 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826044447 +0100" stop="20250826051333 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826051334 +0100" stop="20250826054141 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826054142 +0100" stop="20250826061224 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826061225 +0100" stop="20250826064214 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826064215 +0100" stop="20250826071341 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826071342 +0100" stop="20250826074414 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826074415 +0100" stop="20250826081238 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826081239 +0100" stop="20250826084342 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826084343 +0100" stop="20250826091214 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826091215 +0100" stop="20250826094313 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826094314 +0100" stop="20250826101322 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826101323 +0100" stop="20250826104538 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826104539 +0100" stop="20250826111454 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826111455 +0100" stop="20250826114608 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826114609 +0100" stop="20250826121455 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826121456 +0100" stop="20250826124302 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826124303 +0100" stop="20250826131346 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826131347 +0100" stop="20250826134335 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826134336 +0100" stop="20250826141503 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826141504 +0100" stop="20250826144535 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826144536 +0100" stop="20250826151359 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826151400 +0100" stop="20250826154503 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826154504 +0100" stop="20250826161335 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826161336 +0100" stop="20250826164435 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826164436 +0100" stop="20250826171443 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826171444 +0100" stop="20250826174700 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826174701 +0100" stop="20250826181616 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826181617 +0100" stop="20250826184729 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826184730 +0100" stop="20250826191616 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826191617 +0100" stop="20250826194423 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826194424 +0100" stop="20250826201507 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826201508 +0100" stop="20250826204456 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826204457 +0100" stop="20250826211624 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826211625 +0100" stop="20250826214657 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826214658 +0100" stop="20250826221521 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826221522 +0100" stop="20250826224625 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826224626 +0100" stop="20250826231457 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826231458 +0100" stop="20250826234556 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250826234557 +0100" stop="20250827001605 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827001606 +0100" stop="20250827004821 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827004822 +0100" stop="20250827011737 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827011738 +0100" stop="20250827014851 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827014852 +0100" stop="20250827021738 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827021739 +0100" stop="20250827024545 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827024546 +0100" stop="20250827031628 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827031629 +0100" stop="20250827034618 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827034619 +0100" stop="20250827041746 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827041747 +0100" stop="20250827044818 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827044819 +0100" stop="20250827051642 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827051643 +0100" stop="20250827054746 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827054747 +0100" stop="20250827061618 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827061619 +0100" stop="20250827064718 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827064719 +0100" stop="20250827071726 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827071727 +0100" stop="20250827074942 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827074943 +0100" stop="20250827081859 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827081900 +0100" stop="20250827085012 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827085013 +0100" stop="20250827091859 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827091900 +0100" stop="20250827094706 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827094707 +0100" stop="20250827101750 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827101751 +0100" stop="20250827104739 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827104740 +0100" stop="20250827111907 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827111908 +0100" stop="20250827114940 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827114941 +0100" stop="20250827121804 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827121805 +0100" stop="20250827124908 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827124909 +0100" stop="20250827131740 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827131741 +0100" stop="20250827134839 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827134840 +0100" stop="20250827141847 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827141848 +0100" stop="20250827145104 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827145105 +0100" stop="20250827152020 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827152021 +0100" stop="20250827155133 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827155134 +0100" stop="20250827162020 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827162021 +0100" stop="20250827164828 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827164829 +0100" stop="20250827171911 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827171912 +0100" stop="20250827174901 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827174902 +0100" stop="20250827182029 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827182030 +0100" stop="20250827185101 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827185102 +0100" stop="20250827191925 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827191926 +0100" stop="20250827195029 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827195030 +0100" stop="20250827201901 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827201902 +0100" stop="20250827205001 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827205002 +0100" stop="20250827212009 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827212010 +0100" stop="20250827215225 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827215226 +0100" stop="20250827222141 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827222142 +0100" stop="20250827225255 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827225256 +0100" stop="20250827232142 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827232143 +0100" stop="20250827234949 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250827234950 +0100" stop="20250828002033 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828002034 +0100" stop="20250828005022 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828005023 +0100" stop="20250828012150 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828012151 +0100" stop="20250828015222 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828015223 +0100" stop="20250828022047 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828022048 +0100" stop="20250828025150 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828025151 +0100" stop="20250828032022 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828032023 +0100" stop="20250828035122 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828035123 +0100" stop="20250828042130 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828042131 +0100" stop="20250828045347 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828045348 +0100" stop="20250828052303 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828052304 +0100" stop="20250828055416 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828055417 +0100" stop="20250828062303 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828062304 +0100" stop="20250828065111 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828065112 +0100" stop="20250828072154 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828072155 +0100" stop="20250828075144 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828075145 +0100" stop="20250828082311 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828082312 +0100" stop="20250828085344 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828085345 +0100" stop="20250828092208 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828092209 +0100" stop="20250828095312 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828095313 +0100" stop="20250828102144 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828102145 +0100" stop="20250828105243 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828105244 +0100" stop="20250828112252 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828112253 +0100" stop="20250828115508 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828115509 +0100" stop="20250828122424 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828122425 +0100" stop="20250828125538 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828125539 +0100" stop="20250828132425 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828132426 +0100" stop="20250828135232 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828135233 +0100" stop="20250828142316 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828142317 +0100" stop="20250828145305 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828145306 +0100" stop="20250828152433 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828152434 +0100" stop="20250828155505 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828155506 +0100" stop="20250828162329 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828162330 +0100" stop="20250828165433 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828165434 +0100" stop="20250828172305 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828172306 +0100" stop="20250828175405 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828175406 +0100" stop="20250828182413 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828182414 +0100" stop="20250828185630 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E14 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828185631 +0100" stop="20250828192546 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E01 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828192547 +0100" stop="20250828195659 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E02 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828195700 +0100" stop="20250828202546 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E03 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828202547 +0100" stop="20250828205354 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E04 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828205355 +0100" stop="20250828212437 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E05 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean rushes to the dentist's office after oversleeping.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828212438 +0100" stop="20250828215427 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E06 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828215428 +0100" stop="20250828222554 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E07 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828222555 +0100" stop="20250828225627 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E08 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828225628 +0100" stop="20250828232451 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E09 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the funfair.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828232452 +0100" stop="20250828235555 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E10 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean hosts a New Year's Eve party.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250828235556 +0100" stop="20250829000000 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250829000001 +0100" stop="20250829002427 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E11 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes back to school.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250829002428 +0100" stop="20250829005526 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E12 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  <programme channel="mr-bean-live-action" start="20250829005527 +0100" stop="20250829012535 +0100">
+    <title lang="en">Mr Bean Live Action</title>
+    <sub-title lang="en">S01 : E13 Mr Bean</sub-title>
+    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+    <category lang="en">Series</category>
+  </programme>
+  </tv>
