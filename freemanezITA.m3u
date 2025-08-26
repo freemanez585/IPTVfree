@@ -1200,16 +1200,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsunga
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Now70s.it" tvg-logo="https://www.dropbox.com/scl/fi/73pkkv9x0stoqrljmqeoo/500px-NOW_70s.png?rlkey=xkcbkdn3icfcl4caa0x4srucj&st=4ulyrjm3&dl=1" group-title="Canali musicali e Web Radio",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now-70s" tvg-name="NOW 70s" group-title="musica",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="now-80s" tvg-name="NOW 80s" group-title="musica",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Now80s.it" tvg-logo="https://www.dropbox.com/scl/fi/xcuv6tupi2dc1fl6rggz8/NOW_80s_logo.png?rlkey=p4gmzyb4iktfrqko6mzzr1nrl&st=jh39q132&dl=1" group-title="Canali musicali e Web Radio",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="NOWRock.it" tvg-logo="https://www.dropbox.com/scl/fi/nlm49lkvb0j11n8ryaa8g/NOW_Rock_logo.png?rlkey=7bqo9jytsgij72hsftrmyh6fk&st=ogy884nh&dl=1" group-title="Canali musicali e Web Radio",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now-rock" tvg-name="NOW Rock" group-title="musica",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="ITBA3300042HE" tvg-id="ITBA3300042HE" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300042HE_20241022T043641SQUARE.png" group-title="Canali musicali e Web Radio", Trace Latina
