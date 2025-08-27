@@ -1,4 +1,4 @@
-#EXTM3U refresh="301" x-tvg-url="https://raw.githubusercontent.com/freemanez585/IPTVfree/refs/heads/main/1epg.xml,http://epg-guide.com/wltv.gz,http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml"
+#EXTM3U refresh="301" x-tvg-url="https://raw.githubusercontent.com/freemanez585/IPTVfree/refs/heads/main/vevorock.xml,https://raw.githubusercontent.com/freemanez585/IPTVfree/refs/heads/main/1epg.xml,http://epg-guide.com/wltv.gz,http://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml"
 
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
@@ -1196,15 +1196,15 @@ https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg0
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7n0w7ihwfpcwk0vvtvx39/vevo2k.jpg?rlkey=k55q270z7dk2yr5jy2a5yxok3&st=wwazxyw4&dl=1" group-title="Canali musicali e Web Radio",Vevo 2K
+#EXTINF:-1 tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://www.dropbox.com/scl/fi/7n0w7ihwfpcwk0vvtvx39/vevo2k.jpg?rlkey=k55q270z7dk2yr5jy2a5yxok3&st=wwazxyw4&dl=1" group-title="Canali musicali e Web Radio",Vevo 2K
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/76j8cgy201ro29820gp0d/vevocountry.jpg?rlkey=eyjdkgd5mf9zshyvi6bvvni8z&st=3szct2bg&dl=1" group-title="Canali musicali e Web Radio",Vevo Country
+#EXTINF:-1 tvg-id="plex.tv.Vevo.Country.plex" tvg-logo="https://www.dropbox.com/scl/fi/76j8cgy201ro29820gp0d/vevocountry.jpg?rlkey=eyjdkgd5mf9zshyvi6bvvni8z&st=3szct2bg&dl=1" group-title="Canali musicali e Web Radio",Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/clr5ba7jpx4pnf01qmclh/vevoretrorock.jpg?rlkey=chxzyb65r1m0bxyusvz35fvm9&st=52hi1zk3&dl=1" group-title="Canali musicali e Web Radio",Vevo Retro Rock
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://www.dropbox.com/scl/fi/clr5ba7jpx4pnf01qmclh/vevoretrorock.jpg?rlkey=chxzyb65r1m0bxyusvz35fvm9&st=52hi1zk3&dl=1" group-title="Canali musicali e Web Radio",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 
