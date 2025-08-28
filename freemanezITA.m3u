@@ -121,7 +121,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="RTL 102.5 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Canali musicali e Web Radio",RTL 102.5
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Canali musicali e Web Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 
@@ -249,7 +249,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Bike Channel HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Sport & Motori",Bike Channel
+#EXTINF:-1 tvg-id="BIKE.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Sport & Motori",Bike Channel
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 
