@@ -249,7 +249,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Bike Channel HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Canali Sport Italiani",Bike Channel
+#EXTINF:-1 tvg-id="Bike Channel HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Sport & Motori",Bike Channel
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 
@@ -1182,6 +1182,14 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Canali musicali e Web Radio",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+
+
+#EXTINF:-1 tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://i.imgur.com/bsUxSHL.png" group-title="Canali musicali e Web Radio",Classic Rock Network TV
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d310bf925e02615/variant.m3u8?x-plex-token=yq6Z6RvNiUKXzN5GMnT7&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_6491b42c-0523-44ba-b7a9-a1b7cd7c0128&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756306272&url=1457718fb19fd13e591615b514f50e4b-55a0b2ad2082d3627fafaaaa59568e9a5c7cc28eb9864de0ec6432d948dbde61048d407e98a1c99454dbf17ab0b5e24b90230d20d568f4d1a431c9556956c41e59607b6fa784a2840c21b5c7825ece30048116ba6e28d61b6ca96dddc376a2348c6119c11e4099a6f734110f31f7eb4285649c8ceeac97b5c56910f7d691a7a140c8517a115c6f49802b780320dedf77d02ba86abdc37b08ebbceb689b345d4a
+
+
+#EXTINF:-1 tvg-id="plex.tv.Qello.Concerts.plex" tvg-logo="https://sonomalibrary.org/sites/default/files/styles/max_650x650/public/images/elibrary/logos/Quello_0.png?itok=b6HI0Yd7" group-title="Canali musicali e Web Radio",Qello Concerts
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62d7f68fb19cbf65dc7bef7c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZcvbunxZLaW1Xnn5xJ5a
 
 
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Canali musicali e Web Radio",Vevo '70s & '80s
