@@ -496,7 +496,7 @@ https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" group-title="Rakuten Tv",Fashion TV
+#EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" tvg-name="Fashion TV" group-title="Rakuten Tv",Fashion TV
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1280&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=bb2722ee-38cd-43b6-a129-782ac4a91c83&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
 
 
@@ -1048,7 +1048,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e44
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6616a51124e1d00008761a7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="pokergo" tvg-id="pokergo" tvg-name="PokerGO" tvg-logo="https://www.dropbox.com/scl/fi/b2qgmk1e8c2js4mr70bwv/pokergo.jpg?rlkey=2i7y7jx0anzb4e8nreyvvkm6e&st=wbrboz22&dl=1" group-title="Sport & Motori",PokerGO
+#EXTINF:-1 channel-id="plex.tv.PokerGO.plex" tvg-id="pokergo" tvg-name="PokerGO" tvg-logo="https://www.dropbox.com/scl/fi/b2qgmk1e8c2js4mr70bwv/pokergo.jpg?rlkey=2i7y7jx0anzb4e8nreyvvkm6e&st=wbrboz22&dl=1" group-title="Sport & Motori",PokerGO
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-64ac687b4192b4e1bab96279/variant.m3u8?x-plex-token=_1x_aV-Nqh78yFRZPPsM&x-plex-advertising-identifier=&x-plex-client-identifier=f8b5dbda-9455-418b-8240-b88840ab6866&x-plex-playback-id=p_e4c3a633-487e-4b3f-b476-d4e1d210c1d7&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756079077&url=94b79e9a07e70a08b9fc22f360b289c2-92536a2ffa134d4b86a9bda97ee8a1426a87957c57136714c6e535e6a901361bf7e5afbf98ef9c279d1aa45569e04a1d44a5591e228bdbb0c072ec67ac838fa77b21aba8a48f9f00b984b1e98ce09748b93d9e36b20cb2ede652852127a5bacccb47e1726e1eb489697cea7d651e55ffed16cebc54e36b4a62b4dab5877706912199ceb8ce2101c9157b2820113826cc81bba348a7409a67b95e0f73895db3232e6511bfd615c4a84e16979f2e0cdc5726fd963e8c0d5c4e5c674d3180ba9b983d260534a7e19132bc61c03a1fbaacd9
 
 
