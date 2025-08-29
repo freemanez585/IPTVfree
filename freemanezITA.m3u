@@ -452,11 +452,11 @@ https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/
 https://d1si3n1st4nkgb.cloudfront.net/10502/88826013/hls/master.m3u8?ads.xumo_channelId=88826013&ads.caid=FilmRiseItalian&ads.csid=samsungtvplus_it_relichunters_ssai&ads.sfid=&ads.afid=FilmRiseItalian&ads.xumo_platform=samsung&ads._fw_is_lat=45.4640&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_h_x_country=IT&ads.xumo_contentId=2700&ads.xumo_contentName=FilmRiseItalian&ads.xumo_providerId=2700&ads.xumo_providerName=FilmRiseItalian&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=relichunter_it&ads.tpcl=MIDROLL
 
 
-#EXTINF:-1 channel-id="IT4600001JQ" tvg-id="IT4600001JQ" tvg-name="Soap Latino" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1882-LG-Logo-PNG-100x100_v1.png" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1883-LG-Logo-PNG-100x100_v1.png" group-title="Telenovela",Soap Latino
+#EXTINF:-1 channel-id="IT4600001JQ" tvg-id="IT4600001JQ" tvg-name="Soap Latino" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1882-LG-Logo-PNG-100x100_v1.png" group-title="Telenovela",Soap Latino
 https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="IT3600007QQ" tvg-id="IT3600007QQ" tvg-name="Soap Turco" group-title="Telenovela",Soap Turco
+#EXTINF:-1 channel-id="IT3600007QQ" tvg-id="IT3600007QQ" tvg-name="Soap Turco" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1883-LG-Logo-PNG-100x100_v1.png" group-title="Telenovela",Soap Turco
 https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
 
 
