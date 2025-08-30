@@ -234,8 +234,7 @@ https://jmp2.uk/stvp-ITBA2200010O1
 
 
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sport & Motori",Primavera TV
-https://origin.streamup.eu/sportitaliain/silive24/chunks.m3u8?nimblesessionid=50785
-
+https://origin.streamup.eu/sportitaliain/silive24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC4700002CO" tvg-name="Sportitalia solocalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sport & Motori",Sportitalia solocalcio
 https://origin.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8
