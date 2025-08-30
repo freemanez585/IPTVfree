@@ -876,10 +876,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff272
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="67ed14aaf7c5d70b9089c3bf" tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-name="Pluto TV Serie SCI-FI" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" group-title="Serie TV",Pluto TV Serie SCI-FI
-https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
-
-
 #EXTINF:-1 channel-id="67e3b11a432a0e406fd1d55f" tvg-id="67e3b11a432a0e406fd1d55f" tvg-name="Pluto TV Shark Attack" tvg-logo="https://images.pluto.tv/channels/67e3b11a432a0e406fd1d55f/colorLogoPNG_1751458394679.png" group-title="Film",Pluto TV Shark Attack
 https://jmp2.uk/plu-67e3b11a432a0e406fd1d55f.m3u8
 
