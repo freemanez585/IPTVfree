@@ -1177,8 +1177,7 @@ https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d31
 
 
 #EXTINF:-1 tvg-id="plex.tv.Qello.Concerts.plex" tvg-logo="https://sonomalibrary.org/sites/default/files/styles/max_650x650/public/images/elibrary/logos/Quello_0.png?itok=b6HI0Yd7" group-title="Canali musicali e Web Radio",Qello Concerts
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62d7f68fb19cbf65dc7bef7c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZcvbunxZLaW1Xnn5xJ5a
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Canali musicali e Web Radio",Vevo '70s & '80s
 https://jmp2.uk/stvp-ITBD1900010JL
