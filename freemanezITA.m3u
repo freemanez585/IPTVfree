@@ -1179,6 +1179,11 @@ https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d31
 #EXTINF:-1 tvg-id="plex.tv.Qello.Concerts.plex" tvg-logo="https://sonomalibrary.org/sites/default/files/styles/max_650x650/public/images/elibrary/logos/Quello_0.png?itok=b6HI0Yd7" group-title="Canali musicali e Web Radio",Qello Concerts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 
+
+#EXTINF:-1 tvg-id="plex.tv.Qwest.TV.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e81953f3dcc0f50204d3e3f44a31b52.webp" group-title="Canali musicali e Web Radio",Qwest TV
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-60b0f65c0c8ffb002c821a75/variant.m3u8?x-plex-token=yq6Z6RvNiUKXzN5GMnT7&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_5b18646e-b75b-471d-9be6-6b96465c09b2&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756306413&url=95ae849437720cb20d894d8a8f73ec99-97af4c2a0e2a7cce4b5d7f86276503eb3c621971293723b9f2e88a7ee2cfdd44f9834520d5b13fdf9b5730098d92e7edc4075d2c2dab7c2bc7847ce2256415a99cbb0e0549842414ff0c0feb37ea40b87bc36848e562b754cb01faf2b6e98a0c02197179127eb0c0aa2d5bb1419c0fc36a03b81d213e58968e2df8835b5bfe3cdf7cd8b31061e85f6f6a5a08625fc71d09d551ec18e3c788038467a0fbb497b463f3a2bfe9487f1c0b31a14b540208fda40644800c827c16ceae36aae1290edbb42ffae466f22b1298ce74ca7f67057fbbfb94b2033958b3c7a5530c47ff887fd947a767f6626af816c7fac1caaedbc5f496391648db18ea8641765c04ee9b8e220c2998c570090077b088ec5d575eff265f203e1f14f58a8cfc0865237c00c1f51ccda6da8b778d55e6925b8edad3322de29483d45838f975c8cfb259266139d52be96252ca7274ca29d825c6b666aafaa91762d772e0e8a33b56753e8e15d08080dfc63bb81cedd0f5459293409572049af7689f79415ff944e0b308ce6c1765b62c4b2ff2c7545369d234ffea9de4584042dc667bfde718ea2341866316ed9f7db0b7c358ac4a2518fb831d605f920a26f6c27a65be12851012f2df25f2fc958b25431776b6a7a343b99116d10ab52bdd8192f68739cc6b72f3ca249ed489eb1dcbc15d1530e8110cc329da705b73ce66b06fc1402beacb3c2363edffc7ea4af9730bf8cf3952956270985b7baebb231f0e80828e8c55895e3448cd10c1bb6bf8856c1277f822a6c15dd74e0c54de811a4087ff1410b8d57f3ec864dbdb87e8c1be9d07e8a2eb056c9a95f959e96ab48b289b2a718203985901b437d929b722b615f0132ff3fb7add3414d2797ee881a2cacef7f1563f48da0d2ca83bbc44e38dd5e73981ac0aedbc72b60edc31c1782a1e2ce5ffc19dda743f1fec22cd349743b18c6319053cf53c37572dacc9765306abb17efaabf43efdc71eb83224c7938e11e2413bf224826b0b31e407c202eae31f953768a3eb0354fc04931fcaef8b45d696a14f24e18be153493cbea89cfd656af9d1f5fa6e8ffec89ce1b7e76279f809890d4300a4d2a24e7b18a5d0b7a8748b24704fb80df599121a05b687e0343cb2d4f7ea435a61109a853f0f05e7e10d6abc2e851585206db0c00dcccee3eecd296681f3dc2644c128501ccf525f10b9526ef3cf8789b776cbf4e8fa4ac9f94da69727abf6fac8dc2847ce36237df022151f475d4df19331931fe0530bafb6267bf61bf4646c471ba1bfe6826c4d7623137ec4d12591ac48ebceb13643d7bb4a7c8df8ce20e35cfb09d89698cc9bcf35e8e1b38db9bb6086d2cbdea1d0c22e24a106d45923e618321c4daea8f9566ca6c4cbc79b358861b6ca6657e8ad98c686284e040159636929266ba3ccf09c908baa142e105a452b8b8a051cad1b75a9b7bd2663f96e7f9f2faea34dfdec134c66b5e08b2a9258175713e1a72ededabe96cd277fd7ec6fb90b779870e35a13091c3c4dee8b84787d34055a12b6e950647135b3377ffac6d9b02d19417378ff739677ef589549536f96cab520f0ed9277a6c947529792f337984623a5bba04f3c1b2557c5158d9e7d76c8003667e468559b26764a2330389b1aac3aea2fe07f1b2b610e1d0104bf688cca1879c2d5714a341425fc0811b94b82b960485d599bc28675e81bafef16ff41e2fb3496e28625340f8649a772a9b866c600aa17b6ea8b181a0518aa975c496259225f8488e7b4dcde57c75cedcfcd5d1b56e002cb6c4c6d65461196fa55f5c6bc2c7f77cb17d482d8146285f76169e79cedca37fc0e2ebf19f08920271ef0728eee557995e39f7f37444cc30b56363916a08f677d81551ad2248f6cb7fc1b6dd7960317b10ba0707cf14ebbbb056810aa0ebecea7467d8085c72219211c60f1f734e39aa7b2dc5542cceea525eec95d67afe1b8c83f4ec7858f11974adf5164deef660eed5074854498967d878462aefaebead099625744ad03064e59a4ecfa0104653064fad5f52b63941fa1001cb955dc269f236a16bbfffd20f11fb112ed4f2d211540aadb1388cd0fa97921121186f6e2bd8fbd7e69fee10fc5749af6675811e26b5e0bc8c0634cf8edee1980c4048b1946b0d92fbc9de2a733769f3502428166562dc025d0c1aef813f264536b3f86dd0338055a63bbc0d41b37eece6a128e488d4eff06ab362f977904b26f5e76d0772ea7030c776335fdb5a6763e5425b412b2ca3d41314701c7cbed9e630dd6e47f5391f08fed6fb3833294b62470239ee57ff3020cce1b365400b94c1fc4c47ff0907e986b96f3197e8c7c790a4df74f77dd39a9f09b8108ce14dd55236b14c416e6507fc1b09614ff60084c53564d9525a663a8f34ef21abd692e7577e61be5782747b9336736f500ff82fb012feb5acaa350c26ba6e8376f34beb0c5b1a2c955f5774bc1ff1ac660488bc268cc338e5c211c2a59c9c81537e3fa77809c340cc0837cc74bde3bf3fa6f005a0181ead82d8d21bab31a0619aa86374bd90ee309a5fa6de4543b164815f9de96492dd9d9ccd40e45faa73e4a74a1990df5ffd2c9a352ebc9fb889eb6019a281c6004f7d6f9e6c11f552f1f7303c0dc82e912a4ed063a06e4a506372f968c563af28951299353dcd5b938d78bd7dd7606baff969b326780713866c07e81bb560c32108269dcc62a127d5734c0c977440153ed9c8da7d889aaa94990c6d709b71d67db8e7e35ab2ebdf63a2ad8227baf404a9098f7fddf61b9681f0d544c33a340925bb706cbbd4b420a7127380dbd48f131884d47cf0b5a4c502630a2f546edae628ef7730636a26f54df0f9c25595b4d67740980ea7fba1f696d98795bc2f2a33261a3e51db2b5e78a781f95d0299f3123470852c27d6fb5e0ffcf138300c2c4aec62afcbdaff0a4a98cf21b3bc35354e3896a4e60d5767681af09838dcc551fcfc04362719aaffa28559a71aa843ff8cd247046a0fa0c07906f167eb62edb89239addd0629dd34499d3748fbac0caa81342df9e73f5bfb8831a03708150e36199a29336ddd473f415ef1c837d3489f28c390ae25fb70b61
+
+
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Canali musicali e Web Radio",Vevo '70s & '80s
 https://jmp2.uk/stvp-ITBD1900010JL
 
@@ -1199,8 +1204,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://www.dropbox.com/scl/fi/ch0qvui8vcgmrkm2wj3bh/vevo70s.png?rlkey=3sfg7n20296yxeu53zdk6pu61&st=tu4gz2fy&dl=1" group-title="Music",Vevo 70's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://www.dropbox.com/scl/fi/dnpbnujpt6l3plpgyv972/vevo80s.png?rlkey=v05h48bhkym42ll1czwg2t2f6&st=e722hlru&dl=1" group-title="Music",Vevo 80's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`90s.plex" tvg-logo="https://www.dropbox.com/scl/fi/5aq8at0alynxjl1vcy78j/vevo90s.png?rlkey=qmrcm7a3dzxjn3vyepdv4my9v&st=84sawzgx&dl=1" group-title="Music",Vevo 90's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://www.dropbox.com/scl/fi/clr5ba7jpx4pnf01qmclh/vevoretrorock.jpg?rlkey=chxzyb65r1m0bxyusvz35fvm9&st=52hi1zk3&dl=1" group-title="Canali musicali e Web Radio",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=""  group-title="Music" tvg-logo="https://www.dropbox.com/scl/fi/r291vx7lgvwap76t01b9k/vevor-b.png?rlkey=m6en07ie3lgjt0b2386r39vgv&st=sudpxz7i&dl=1",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 #EXTINF:-1 tvg-id="now-70s" tvg-logo="https://www.dropbox.com/scl/fi/73pkkv9x0stoqrljmqeoo/500px-NOW_70s.png?rlkey=xkcbkdn3icfcl4caa0x4srucj&st=4ulyrjm3&dl=1" group-title="Canali musicali e Web Radio",Now 70s
@@ -1230,6 +1250,101 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/3pubitgalm06omz5g8x4h/traceuk.jpg?rlkey=a7x78h8fnw21xuxlyj86dn95u&st=o0uakhiy&dl=1" group-title="Canali musicali e Web Radio",Trace UK
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-66be8cd4871131188099527e/variant.m3u8?x-plex-token=_CJgNVsT-AH31QpKfB5k&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_f330f10f-2111-4e0d-b1c3-5fbcaa300861&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756328103&url=341e596c0fc842361140b7ddc0e48794-2c795050db2291b658e6afc3bf981a46604f92400fd836b49122a713f5f494d60a26028cecd16099d3c15cf959e0d103b53a006527fbcdfaba8425001d512e48a52aa3c8b463ced6f00cc082f2af5e12dbb9e9dba23b7e71bd071db782fba133e5d2e026cc3f77011fbd576ecc5504b92fbf47df3790b7b9b14545a03bad34caa795c0403de6d1ab43dcfba9f317f856d44ad1d05f0b3095b0939a6e7390dfeabdb34d3d2dbc89d0183e6bc4aaef7d3ed6dff567fb0c4b3da204b396568de0af79e20fdcec9172668155d48a9daf479a5c4701b7c51d4cb4015dbd5bf7d2d4f959352bb84dfd1ff468fc569b709b7a21fdc393581675bb4fbfc27d4977fb3c241ba24fb8301a5bedbd0d01c7d088844d26bfeab1677ab8f4c3b68625ab70e1af22e5f593d951a1403407852270cc242dbce4c5a990ac217fd56844bb164e06d46a183f5169f71e40b9a0619d2d59e5edaa0e07b8fbe4dc970a2a55bfab0bddb4db936b929a28852003a5d9c45985dd274f2a05d84a236122638fbc5b71e3530a9f2470bff35fe830aee71eec0693eaf261edc7ae013ac565c644c956476db493fa0fed38f03fdc1fb7c44068ceea18b3db9736d1cece7e1e4aaf5dbb83ca46695a6eb255cef2330c2a5a394a196e88a6106335a67cce0db41c10eda2408f9eed8d087a97803a96e6d71cff21a5b4e8e655c8bb63c7f67301c4bfd016b34d3f3e857e7495db615885521593339e3defed817c0018eb3d48753f58f8e6912261431ce430a8e930c9bf1d8c420b722b0abbd9cea9358bd7c0409d70e1bf0ce64ebc09d374baee98b4a1c12cb2762e1c08348f3189fa15219f3e61ec56a6386ec433c3d604b56d77180c957a563efc51f1fd69e1ef60978e1647c25e24a9e5ad6d303b2895715675e0954f57b0cb3e674659d377ee059371c3ac50ef578c4e99fefb4456086195352099553aa3632b495fb3a658aa114f81527666daa7783300668236de1e649091b34ecbd17c08419e72d591882ebf22bb9b51b5cbf4f5b580bf7a53c79a54a33b6935184426a95282ea4afa8f0faca106fcfe3c68535279075f156e51e287f49d2a77ae015a29f70f39a09c8b29f2b5152360d69ab071a7daebb4850bac024d907b2ff81c6426b882e9a94ff93a96ad6983d02e39a245dad7919755619e5ee6dc16dd4d99665ad36c3f5b7752d7e0d0ae99aa5ddaaf0de79648d7f42e99a7e17e9d9f2a0129de7866672e8e775272f4ad75b21c4bf02e6d84854b1b62442f45a241ae23d1bd1887bbf4009b10b27cf4dd08d5eb10545bb9cff42316f5f9bc2dfbb1c96c32b9a27601af4a99822c705d7357cb0b24e6e86fdd832faf4b677d54dfa1d7974ad8ad59283be1834a283c811902b0b2c3e4f716b98e53c25d056252bff10de325f31ec55c2fdf0369c0e31184008da8aba5fef68dac87f67e9853d08ea50112001e824a22dfa5378d14a80e5f57743f438792debffc94e45162339d23213cff0467ea599a00954806277de6ffaf5f996cdcb038fa5c8fde90315f359ffff783b55fef8519f111c1a30d3febd590940b7eee537126e8c803c3d9e5d826ad5db714e94565d320df14f4dafaa980b171982575085ee0d3a0a61e79ccb82fd720a290459e69310dfc6dabf63e009c14210c96b4cb661d22ddb388d55135812bd9d231739756c9dfe82a1231fed69ab05cae95ce8c284dc42c0f6f315e84dc95c7da12f303409193e3372b79dc98d50dab0fc82e5549e58900c3d6b20333158761d38b4d904f78a4c1348bf05b2f31dd31f118d165505a858d7d2c22ccc7cd13b196268fea04fd4f44b2e63722633e4939ecd86a6d055335540ad193fc51a1b4f6664c2994fd6a271c0695e53060c2e1741cb6c85e33e4ce03b0529a938ab4c72ab95b03671d555a5d7976c038a90b3305ed03e9df9e25bb7ba6c40c04b67ac31e8c9fd45ee026efe80ef1f1d0912e02ef3d6421b2b5a45b0981b3733a1df4f7c6128a4cba70a74ee1406b911b943ba6036de0ad60f915efa7bb1c108b57f24eb56bb17783f1e84622c6d15da27e1e573719c540b51b633e227d744364875ad7b526836c59802d962639372fa3e792f0451166975e094a14222de681af9ea7e5755be87a7706108db901f003048a597809f419b8f6e25505ed6e3c20b8508847983c3d75d56d80c6c757ef309a719c9d4dfd450910a99c26326d9199d3afe96be735361ab7a1c07fde658a26e50050adee5b1aa6d485e1827c74c987910bfc693ed73154caa7f319231d9f85d33ac3abe1dde32a11fa191358e912e2bde2c853662dd08950c7736ac1f09843ff9f9e01914d67d01832df5de71a81b8b5642a961680573e0024a774ce0dbb22fdcce5ef4b9008fa249661e144c283df155857972f1996e1cebc197e287604843bb1bb641ab3fec82b8cf305223478024f0eb3a040943984787658b70b22b64781a7cf86ea71716510dfef6e35ed007e11b334942b189445cb271273e2d65fda845df86ebe5eeddef68ff8167a17e1b76096760ff30c9ce0af3b6a25eb48946b19707ec8fa1318f257ecda66e7fae833e8d3d3d3b3ae90f891abd61b37fcc5653d7dab9372e4e44cfa8696a65fa34ad292a60d361aed04b78de2ebee3419349525055e099aefa424725fea5a523ffd0a8119c7db9bf0301a3fd31a11f8ede383dd5284ff12e5e408a4374de4e856c8c3758f4b85d58b01987a85253a73d7211ebc0f248c5318eb023ab74003501938154e4e06fee77fbdcfaa23f0588ddbc95976ba25a44b052c52ea414b8ea35429597d8af47937f48d3906c610efe9a7d77e6154d1cbdba8558589f5f6b3dcc6bfa41410f1ecc8d0ecd263403f6c407cb431496700ba603a9bd88e04eced66649bcd0fda7415bfdd47fcdb69c71cd41f35d874180c5007b496e1d24c968c6b7a66d0ea13935ecbf35b165b64ac0533e961c2c4542f74fd7dce6cfe54042d0fec08063a2538c936632bd4d98234bd17bd1e9ebf51eb8090a3306405c24136ed2467bdc54478b65df9b5e63933d5f97b24796bd8f1239487905c41300a354f510c9a6c1cca58d2494d6826ea6a0efd7e81ba7618820ea5f718709194a25ec3b472b77032674bd680ef041c794eed4b886c68ed70d967f77213f69313086beadc057312e31fff7bde5b1bf3ddb418559c92a7fd2666d7cb0f9a33a8386c278917a1e919a98b2e97d0f54019fb2594bbfd72ce3c6b4f9b40550d57a9b81f4b85a7f2f2afff352cb254f121e3bba91cc37d8e6d8d0f4ceb1515f1984599049d96ee3adfbeda00e0d2785ff7a61c128a3b5a29f3aa7df293bfe54b679533bdd29067d312b83171365e725ae0d55bb5834d21ff12aa9c903ca4ffa35aa5b9f6f696b379e7d935a81f4e10a0be7b65fadd4a13e5d1b01e92859d6be2630b9966b2f4dccb202542e14fd866f6fd1bef99234f3573ea8ef38973de274ed08ea3be1a46075c59855b8374a4300262ad6d4465755b2e34510cef823a954e731552c6a4e5c14cc9416334b327440d4c78c21a767ff431e855bf2954df9322d9529f720075646ae6cf17cbc2536a993777b5878b87e1daef542dff86961370d512c9b2314e2641dc519956ef3853a7184f453b660326b83a0ad51142f9256f054af7e50ccb9e72aed93b9abf3208c14b404d2f30a721d616a5f06c08473883a7f27e223a1dba017165a9545407d32086697a2be960be46809eaaacfbe0ceeece9f31e9973ec0dbe94862d0f61d82a2cc3f4ade79d0ca5c0ac0b40acc9ee8af1c046876901d2e178d8d9bdc2daa3660a3de2064d668ce6913da410fbc4e6d9c9c84b3decfeaf8dbe07eb7b983e50c824a41c30c97ee85d608b7b62e71b217fb9231bf4994a7b8eea966064ba1140dbec0ce5c27bdfb85433a50c4c28cbfb22e8e46672e24cdcb2b64fb109bd1a26ddd5ea189677203c3600942b4e42018f5bc8144deedae9427d5cfe282c6b7e9dbfff8c8b291f1e549b9512bed94e6acdccf9f9005dd706866e0d617e3e953a4319f8f36a396e6a541a926f019c4f8e2e6e9591bc05241389a2585cc002409d6754ec3809b373f2864da3d94599acd1dbd88b7eb1d86fd4fe57a0d8acd4ff70463432cc0b645ca738a0712ef20462e67a08bf06189f0a5eb47b3fdabdb616789e39b2a20183cba8390894663bd2487ebeb3adb3c9863bc4c8b0e0102fc024a7183a951bbeb65f2a2e183ca19cdc28bdf191ddd5a015b17c6c3bb1750ac890a5a594e4f2e72b62e07f8f43de53f3d5680a117fff58035c2a6ff
 
+#EXTINF:-1 tvg-id="plex.tv.Flashback.70s.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf0af6164398752328af22b594924e58.webp" group-title="Canali musicali e Web Radio",Stingray Flashback 70s
+https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Remember.the.‘80s.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/219e8c232cd51df76182fee9cf2e90ba.webp" group-title="Canali musicali e Web Radio",Stingray Remember the ‘80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Nothin`.But.90s.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/958d16460d189722978074cb0bb2ed59.webp" group-title="Canali musicali e Web Radio",Stingray Nothin' But 90s
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028
+
+
+#EXTINF:-1 tvg-id="plex.tv.Pop.Adult.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9274ced11768aab7ef96be3a7875727.webp" group-title="Canali musicali e Web Radio",Stingray Pop Adult
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023
+
+
+#EXTINF:-1 tvg-id="plex.tv.Euro.Hits.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f0633f203c5a6bd57506400b68180d2.webp" group-title="Canali musicali e Web Radio",Stingray Euro Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
+
+
+#EXTINF:-1 tvg-id="plex.tv.Hot.Country.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2404b95366187c0bddde1972e40336e6.webp" group-title="Canali musicali e Web Radio",Stingray Hot Country
+https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Classic.Rock.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/306ee143a9a210ab3a9b1247c90c8265.webp" group-title="Canali musicali e Web Radio",Stingray Classic Rock
+https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Greatest.Hits.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2404b95366187c0bddde1972e40336e6.webp" group-title="Canali musicali e Web Radio",Stingray Greatest Hits
+https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Hit.List.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/001b906dca037ab144566908216de346.webp" group-title="Canali musicali e Web Radio",Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
+
+
+#EXTINF:-1 tvg-id="plex.tv.Y2K.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/923d780c4165f6cbec21aacb1ef916f0.webp" group-title="Canali musicali e Web Radio",Stingray Y2K
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+
+
+#EXTINF:-1 tvg-id="plex.tv.Smooth.Jazz.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b79ff850f0f71dc2b3cd01fefe1ccf2.webp" group-title="Canali musicali e Web Radio",Stingray Smooth Jazz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.DJAZZ.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac3ba0a9de7023b62f33bdae6e183e60.webp" group-title="Canali musicali e Web Radio",Stingray Djazz
+https://d1or3dijypy7w9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Classica.Stream.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd5ffbcb87e64e8de9354ef207a97b6.webp" group-title="Canali musicali e Web Radio",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.Alternative.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cee6c0652aa03a78f32bb57b366056fd.webp" group-title="Canali musicali e Web Radio",Stingray Alternative
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3026
+
+
+#EXTINF:-1 tvg-id="plex.tv.Hip-Hop/R&amp;B.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c6587663cecec9d35c577a5774913e9a.webp" group-title="Canali musicali e Web Radio",Stingray Hip-Hop R&B
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
+
+
+#EXTINF:-1 tvg-id="plex.tv.Easy.Listening.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9f8a5d1175a0cd11b6d54498a15dceee.webp" group-title="Canali musicali e Web Radio",Stingray Easy Listening
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
+
+
+#EXTINF:-1 tvg-id="plex.tv.Today`s.K-Pop.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f1b6d936b7f3fbe210fb3d2b95ea5ef.webp" group-title="Canali musicali e Web Radio",Stingray Today's K-Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+
+
+#EXTINF:-1 tvg-id="plex.tv.Éxitos.del.Momento.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/823131838a2ee1be8616ae7d28cb8911.webp" group-title="Canali musicali e Web Radio",Stingray Éxitos del Momento
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3025
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Holidayscapes.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ca371e4fc053a024550121f5cd84f28.webp" group-title="Canali musicali e Web Radio",Stingray Holidayscapes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6195
+
+
+#EXTINF:-1 tvg-id="plex.tv.ZenLIFE.by.Stingray.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9a64a3410e0067182893c22e6c39aa6f.webp" group-title="Canali musicali e Web Radio",Stingray ZenLIFE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10283
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Naturescape.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbe464b8349cec1feb962f4fbac14dd3.webp" group-title="Canali musicali e Web Radio",Stingray Naturescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
+
+#EXTINF:-1 tvg-id="plex.tv.The.Spa.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c691afe43049bc7d79911219fd393873.webp" group-title="Canali musicali e Web Radio",Stingray The Spa
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
+
+
+#EXTINF:-1 tvg-id="plex.tv.Stingray.Karaoke.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8c07fad979c7f2b36ce3122b2b3279e.webp" group-title="Canali musicali e Web Radio",Stingray Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+
+
+#EXTINF:-1 tvg-id="plex.tv.party.tyme.karaoke.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee62ade766edeae9eb13513094ed5d9a.webp" group-title="Canali musicali e Web Radio",Party Tyme Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+
 
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Canali musicali e Web Radio",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -1237,6 +1352,14 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-italia-tv.png" group-title="Canali musicali e Web Radio",Radio Kiss Kiss Italia Tv
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-napoli-tv.png" group-title="Canali musicali e Web Radio",Radio Kiss Kiss Napoli Tv
