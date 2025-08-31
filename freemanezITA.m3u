@@ -1204,22 +1204,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://www.dropbox.com/scl/fi/ch0qvui8vcgmrkm2wj3bh/vevo70s.png?rlkey=3sfg7n20296yxeu53zdk6pu61&st=tu4gz2fy&dl=1" group-title="Music",Vevo 70's
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://www.dropbox.com/scl/fi/ch0qvui8vcgmrkm2wj3bh/vevo70s.png?rlkey=3sfg7n20296yxeu53zdk6pu61&st=tu4gz2fy&dl=1" group-title="Canali musicali e Web Radio",Vevo 70's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://www.dropbox.com/scl/fi/dnpbnujpt6l3plpgyv972/vevo80s.png?rlkey=v05h48bhkym42ll1czwg2t2f6&st=e722hlru&dl=1" group-title="Music",Vevo 80's
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://www.dropbox.com/scl/fi/dnpbnujpt6l3plpgyv972/vevo80s.png?rlkey=v05h48bhkym42ll1czwg2t2f6&st=e722hlru&dl=1" group-title="Canali musicali e Web Radio",Vevo 80's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="plex.tv.Vevo.`90s.plex" tvg-logo="https://www.dropbox.com/scl/fi/5aq8at0alynxjl1vcy78j/vevo90s.png?rlkey=qmrcm7a3dzxjn3vyepdv4my9v&st=84sawzgx&dl=1" group-title="Music",Vevo 90's
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`90s.plex" tvg-logo="https://www.dropbox.com/scl/fi/5aq8at0alynxjl1vcy78j/vevo90s.png?rlkey=qmrcm7a3dzxjn3vyepdv4my9v&st=84sawzgx&dl=1" group-title="Canali musicali e Web Radio",Vevo 90's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://www.dropbox.com/scl/fi/clr5ba7jpx4pnf01qmclh/vevoretrorock.jpg?rlkey=chxzyb65r1m0bxyusvz35fvm9&st=52hi1zk3&dl=1" group-title="Canali musicali e Web Radio",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id=""  group-title="Music" tvg-logo="https://www.dropbox.com/scl/fi/r291vx7lgvwap76t01b9k/vevor-b.png?rlkey=m6en07ie3lgjt0b2386r39vgv&st=sudpxz7i&dl=1",Vevo R&B
+#EXTINF:-1 tvg-id="" group-title="Canali musicali e Web Radio" tvg-logo="https://www.dropbox.com/scl/fi/r291vx7lgvwap76t01b9k/vevor-b.png?rlkey=m6en07ie3lgjt0b2386r39vgv&st=sudpxz7i&dl=1",Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
@@ -1354,11 +1354,11 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House
+#EXTINF:-1 group-title="Canali musicali e Web Radio" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing
+#EXTINF:-1 group-title="Canali musicali e Web Radio" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
 
