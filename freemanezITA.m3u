@@ -1120,57 +1120,6 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 
-#EXTINF:-1 tvg-id="Radio.105.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Canali musicali e Web Radio",Radio 105 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="R101tv.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Canali musicali e Web Radio",R101 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Canali musicali e Web Radio",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Canali musicali e Web Radio",RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-
-#EXTINF:-1 tvg-name="Radio Bruno Tv" tvg-logo="https://i.imgur.com/y4vKE83.png" tvg-id="RadioBrunoTV.it" group-title="Canali musicali e Web Radio",Radio Bruno Tv
-https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Canali musicali e Web Radio",VIRGIN RADIO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Canali musicali e Web Radio",RADIOFRECCIA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-
-
-#EXTINF:-1 tvg-id="rds" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Canali musicali e Web Radio",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-
-
-#EXTINF:-1 tvg-id="RadioZeta.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Canali musicali e Web Radio",RADIO ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-
-#EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m2o.24a4d505.jpg" group-title="Canali musicali e Web Radio",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="RADIONORBA.TV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Canali musicali e Web Radio",Radio Norba Tv
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-
-#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-logo="https://ascolta-radio.it/wp-content/uploads/2021/06/radio-2.jpg" group-title="Canali musicali e Web Radio",Rai Radio 2 Visual
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-
 
 #EXTINF:-1 tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://i.imgur.com/bsUxSHL.png" group-title="Canali musicali e Web Radio",Classic Rock Network TV
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d310bf925e02615/variant.m3u8?x-plex-token=yq6Z6RvNiUKXzN5GMnT7&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_6491b42c-0523-44ba-b7a9-a1b7cd7c0128&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756306272&url=1457718fb19fd13e591615b514f50e4b-55a0b2ad2082d3627fafaaaa59568e9a5c7cc28eb9864de0ec6432d948dbde61048d407e98a1c99454dbf17ab0b5e24b90230d20d568f4d1a431c9556956c41e59607b6fa784a2840c21b5c7825ece30048116ba6e28d61b6ca96dddc376a2348c6119c11e4099a6f734110f31f7eb4285649c8ceeac97b5c56910f7d691a7a140c8517a115c6f49802b780320dedf77d02ba86abdc37b08ebbceb689b345d4a
@@ -1346,20 +1295,72 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
 
 
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Canali musicali e Web Radio",RADIO KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-italia-tv.png" group-title="Canali musicali e Web Radio",Radio Kiss Kiss Italia Tv
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Canali musicali e Web Radio" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Canali musicali e Web Radio" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Canali musicali e Web Radio",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="R101tv.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Canali musicali e Web Radio",R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Canali musicali e Web Radio",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Canali musicali e Web Radio",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Radio Bruno Tv" tvg-logo="https://i.imgur.com/y4vKE83.png" tvg-id="RadioBrunoTV.it" group-title="Canali musicali e Web Radio",Radio Bruno Tv
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Canali musicali e Web Radio",VIRGIN RADIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Canali musicali e Web Radio",RADIOFRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+
+#EXTINF:-1 tvg-id="rds" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Canali musicali e Web Radio",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Canali musicali e Web Radio",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m2o.24a4d505.jpg" group-title="Canali musicali e Web Radio",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="RADIONORBA.TV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Canali musicali e Web Radio",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-logo="https://ascolta-radio.it/wp-content/uploads/2021/06/radio-2.jpg" group-title="Canali musicali e Web Radio",Rai Radio 2 Visual
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+
+
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Canali musicali e Web Radio",RADIO KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-italia-tv.png" group-title="Canali musicali e Web Radio",Radio Kiss Kiss Italia Tv
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-napoli-tv.png" group-title="Canali musicali e Web Radio",Radio Kiss Kiss Napoli Tv
