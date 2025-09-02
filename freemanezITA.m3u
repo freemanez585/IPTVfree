@@ -1114,7 +1114,7 @@ https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
 
-#EXTINF:-1 tvg-name="Tele.Ticino.ch" tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Canali Svizzeri",TeleTicino
+#EXTINF:-1 tvg-id="Tele.Ticino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Canali Svizzeri",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 
 
@@ -1419,7 +1419,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="RADIONORBA.TV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Canali musicali e Web Radio",Radio Norba Tv
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="Radio Norba TV" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="Canali musicali e Web Radio",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
 
