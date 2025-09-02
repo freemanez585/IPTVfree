@@ -1,4 +1,4 @@
-#EXTM3U refresh="301" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://www.epgitalia.tv/gzip,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTM3U refresh="301" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
@@ -82,7 +82,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 channel id="TV2000" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altri canali",TV2000
+#EXTINF:-1 channel id="TV2000.ch" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altri canali",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
@@ -166,7 +166,7 @@ https://jmp2.uk/stvp-IT900005HF
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 channel id="SUPER" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="Cartoni animati & Animazione",Super!
+#EXTINF:-1 channel id="Super!.ch" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="Cartoni animati & Animazione",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 
@@ -272,11 +272,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplaneti
 https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udl9ITFM/playlist.m3u8
 
 
-#EXTINF:-1 channel id="RSI La1 HD" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
+#EXTINF:-1 channel id="RSI.La.1.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
 
-#EXTINF:-1 channel id="RSI La2 HD" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
+#EXTINF:-1 channel id="RSI.LA.2.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 
@@ -1114,7 +1114,7 @@ https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
 
-#EXTINF:-1 tvg-name="TeleTicino" tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Canali Svizzeri",TeleTicino
+#EXTINF:-1 tvg-name="Tele.Ticino.ch" tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Canali Svizzeri",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 
 
