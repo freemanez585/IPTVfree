@@ -588,6 +588,14 @@ https://jmp2.uk/stvp-IT3000282Q
 https://jmp2.uk/stvp-IT800002CE
 
 
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-motori.jpg" group-title="Sport & Motori",Plus+ Tv Motori
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-sport.png" group-title="Sport & Motori",Plus+ Tv Sport
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
+
+
 #EXTINF:-1 channel-id="ITBD3200005YA" tvg-id="ITBD3200005YA" tvg-name="Mutant X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png" group-title="Serie TV",Mutant X
 https://jmp2.uk/stvp-ITBD3200005YA
 
