@@ -1191,7 +1191,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/x3sx825mzntm8uglst91p/vevolatino.png?rlkey=dax36ynndpoecus8sn6r1x7yi&st=vqgp1mfc&dl=1" group-title="Canali musicali e Web Radio",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/zs32mcs3qj1h7qga5ftlb/vevoiconoslatino.png?rlkey=kp83faaod7j9le7pxqyb9ytk0&st=gn9i42vm&dl=1" group-title="Canali musicali e Web Radio",vivo ìconos latinos
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/zs32mcs3qj1h7qga5ftlb/vevoiconoslatino.png?rlkey=kp83faaod7j9le7pxqyb9ytk0&st=gn9i42vm&dl=1" group-title="Canali musicali e Web Radio",Vevo Íconos Latinos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
 
 
@@ -1618,5 +1618,5 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/ch
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/82jsuh38qs5ooyoxfuqpo/tv.jpg?rlkey=fajzjfdnoe1fqi3rtrqzklzsf&st=muedin6o&dl=1" group-title="Agg. 29-08-2025", Ultimo Aggiornamento 29-08-2025 ore 02.00-
+#EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/82jsuh38qs5ooyoxfuqpo/tv.jpg?rlkey=fajzjfdnoe1fqi3rtrqzklzsf&st=muedin6o&dl=1" group-title="Agg. 02-09-2025", Ultimo Aggiornamento 02-09-2025 ore 02.00-
 https://www.dropbox.com/scl/fi/dxu9i5axtdtnzm0uv20xu/freemanez585.avi?rlkey=fsswd8vckxxneq65y53qktanh&st=9fdvepxz&dl=1
