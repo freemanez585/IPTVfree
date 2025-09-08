@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
-    <channel id="movie.us">
+    <channel id="pippo.us">
         <display-name lang="en">Un marito sospetto</display-name>
         <icon src="https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png" />
     </channel>
-    <programme start="20250908000000 +0000" stop="20250908230000 +0000" channel="movie.us">
+    <programme start="20250908000000 +0000" stop="20250908230000 +0000" channel="pippo.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
     </programme>
-    <programme start="20250909000000 +0000" stop="20250909230000 +0000" channel="movie.us">
+    <programme start="20250909000000 +0000" stop="20250909230000 +0000" channel="pippo.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
     </programme>
-    <programme start="20250910000000 +0000" stop="20250910230000 +0000" channel="movie.us">
+    <programme start="20250910000000 +0000" stop="20250910230000 +0000" channel="pippo.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
     </programme>
 </tv>
-
