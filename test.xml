@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
-    <channel id="pippo.us">
+    <channel id="video1.us">
         <display-name lang="en">Un marito sospetto</display-name>
-        <icon src="https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png" />
+        <icon src="https://cb01net.quest/wp-content/uploads/2023/06/71VBsOrSqAL._SL1500_-10.jpg" />
     </channel>
-    <programme start="20250908000000 +0000" stop="20250908230000 +0000" channel="pippo.us">
+    <channel id="video2.us">
+        <display-name lang="en">Nel posto giusto</display-name>
+        <icon src="https://cb01net.sbs/wp-content/uploads/2025/09/71VBsOrSqAL._SL1500_-23.jpg" />
+    </channel>
+    <programme start="20250908000000 +0000" stop="20250908230000 +0000" channel="video1.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
     </programme>
-    <programme start="20250909000000 +0000" stop="20250909230000 +0000" channel="pippo.us">
+    <programme start="20250909000000 +0000" stop="20250909230000 +0000" channel="video1.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
     </programme>
-    <programme start="20250910000000 +0000" stop="20250910230000 +0000" channel="pippo.us">
+    <programme start="20250910000000 +0000" stop="20250910230000 +0000" channel="video1.us">
         <title lang="en">Un marito sospetto</title>
         <desc lang="en">Alice è sposata con Thomas e, insieme con il figlio Romain, vivono in serenità. Le loro vite vengono sconvolte quando la polizia sospetta che Thomas sia in realtà Antoine Durieux Jelosse, sospettato di aver ucciso la sua famiglia 15 anni prima.</desc>
+    </programme>
+      <programme start="20250908000000 +0000" stop="20250908230000 +0000" channel="video2.us">
+        <title lang="en">Nel posto giusto</title>
+        <desc lang="en">Un uomo è ricoverato da qualche tempo in ospedale, ma non sembra preoccuparsi troppo. Anzi. Trascorre con serenità la propria degenza, libero dagli obblighi e dalle responsabilità della vita normale. Un giorno, però, una nuova persona viene ricoverata nello stesso reparto. È arrabbiata e non accetta di essere lì, né di dover rispettare tutte quelle regole non scritte. Vuole uscire a tutti i costi, per vivere secondo le sue di regole. L'uomo viene travolto da questo furore e da questa passione.</desc>
+    </programme>
+    <programme start="20250909000000 +0000" stop="20250909230000 +0000" channel="video2.us">
+        <title lang="en">Nel posto giusto</title>
+        <desc lang="en">Un uomo è ricoverato da qualche tempo in ospedale, ma non sembra preoccuparsi troppo. Anzi. Trascorre con serenità la propria degenza, libero dagli obblighi e dalle responsabilità della vita normale. Un giorno, però, una nuova persona viene ricoverata nello stesso reparto. È arrabbiata e non accetta di essere lì, né di dover rispettare tutte quelle regole non scritte. Vuole uscire a tutti i costi, per vivere secondo le sue di regole. L'uomo viene travolto da questo furore e da questa passione.</desc>
+    </programme>
+    <programme start="20250910000000 +0000" stop="20250910230000 +0000" channel="video2.us">
+        <title lang="en">Nel posto giusto</title>
+        <desc lang="en">Un uomo è ricoverato da qualche tempo in ospedale, ma non sembra preoccuparsi troppo. Anzi. Trascorre con serenità la propria degenza, libero dagli obblighi e dalle responsabilità della vita normale. Un giorno, però, una nuova persona viene ricoverata nello stesso reparto. È arrabbiata e non accetta di essere lì, né di dover rispettare tutte quelle regole non scritte. Vuole uscire a tutti i costi, per vivere secondo le sue di regole. L'uomo viene travolto da questo furore e da questa passione.</desc>
     </programme>
 </tv>
-
