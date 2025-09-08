@@ -1,9 +1,10 @@
-﻿ <epg>
-        <program id="101">
+ <?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+        <channel id="101">
             <title>Il Mio Programma Preferito</title>
             <description>Questa è una breve descrizione del mio programma preferito.</description>
             <start>20250908160000</start>
             <end>20250908235900</end>
             <channel>Canale 1</channel>
         </program>
-    </epg>
+    </tv>
