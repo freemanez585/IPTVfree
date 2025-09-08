@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tvdata>
+  <channel id="Channel1">
+    <display-name>Il Mio Canale</display-name>
+  </channel>
+  <programme channel="Channel1" start="20250908080000 +0200" stop="20250908090000 +0200">
+    <title>Notiziario</title>
+    <description>Il bollettino di notizie del mattino.</description>
+    <category>Notizie</category>
+  </programme>
+</tvdata>
