@@ -680,7 +680,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cb78b83
 https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
 
 
-#EXTINF:-1 channel-id="66c45ba803e3b20008d8c294" tvg-id="66c45ba803e3b20008d8c294" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1745489409673.png" group-title="Film",CNN Headlines
+#EXTINF:-1 channel-id="66c45ba803e3b20008d8c294" tvg-id="66c45ba803e3b20008d8c294" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1745489409673.png" group-title="News",CNN Headlines
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
