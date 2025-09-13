@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
   <channel id="vod1.us">
         <display-name lang="en">Pulp Fiction [HD] (1994)</display-name>
-        <icon src="lhttps://pad.mymovies.it/filmclub/2006/08/102/locandinapg2.jpg" />
+        <icon src="https://pad.mymovies.it/filmclub/2006/08/102/locandinapg2.jpg" />
   </channel>
 <programme start="20250901000000 +0000" stop="20250901230000 +0000" channel="vod1.us">
         <title lang="en">Pulp Fiction [HD] (1994)</title>
