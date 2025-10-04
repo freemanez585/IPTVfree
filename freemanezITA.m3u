@@ -125,8 +125,8 @@ https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XW
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 
-#EXTINF:-1 channel id="Warner.TV.it" tvg-id="Warner.TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
-https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/39a9565c-c34a-4af3-bd23-70bc8cd3a0ed/0.m3u8
+#EXTINF:-1 tvg-id="Warner.TV.it" tvg-logo="https://static.sweet.tv/images/cache/channel_icons/BDIAEIBC/336-discovery-channel-hd.png" group-title="Discovery",Discovery
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/135e0667-200a-4239-a9ac-87bffd867a0a/0.m3u8
 
 #EXTINF:-1 channel id="IT9000081B" tvg-id="IT9000081B" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
 https://jmp2.uk/stvp-IT9000081B
