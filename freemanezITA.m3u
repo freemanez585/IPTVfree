@@ -21,7 +21,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&force
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 vg-id="Canale.5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
@@ -204,6 +204,21 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="GF.VIP.-.Regia.1.it" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="Mediaset",Grande Fratello - Regia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+
+
+#EXTINF:-1 tvg-id="GF.VIP.-.Regia.2.it" tvg-logo="https://i.imgur.com/FKfwbHD.png" group-title="Mediaset",Grande Fratello - Regia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+
+
+#EXTINF:-1 tvg-id="GF.VIP.-.Un’ora.fa.it" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="Mediaset",Grande Fratello - Un'ora fa
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 
 
 #EXTINF:-1 tvg-id="IT900003FU" tvg-name="IT900003FU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png" group-title="Discovery",HGTV
