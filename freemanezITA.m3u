@@ -1,4 +1,4 @@
-#EXTM3U refresh="301" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/world/epg.xml,https://www.epgitalia.tv/guide2"
+#EXTM3U refresh="301" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/world/epg.xml,https://www.epgitalia.tv/guide2,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gzh"
 
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
@@ -21,7 +21,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&force
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
+#EXTINF:-1 vg-id="Canale.5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
@@ -31,7 +31,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="La7",LA7
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="La7",LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
 
@@ -86,7 +86,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
-#EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://www.dropbox.com/scl/fi/xy8965r04j9x0lacmil9u/IMG-20251001-WA0000.jpg?rlkey=97rv261q33i1lg300rk6o1rej&st=ebzpspaf&dl=1" group-title="La7",La7 Cinema
+#EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://i.imgur.com/J3LKrOp.png" group-title="La7",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 
@@ -127,6 +127,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 
 #EXTINF:-1 tvg-id="Discovery.Channel.I.ch" tvg-logo="https://static.sweet.tv/images/cache/channel_icons/BDIAEIBC/336-discovery-channel-hd.png" group-title="Discovery",Discovery
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
 
 #EXTINF:-1 channel id="IT9000081B" tvg-id="IT9000081B" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
 https://jmp2.uk/stvp-IT9000081B
@@ -206,21 +207,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="GF.VIP.-.Regia.1.it" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="Mediaset",Grande Fratello - Regia 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-
-
-#EXTINF:-1 tvg-id="GF.VIP.-.Regia.2.it" tvg-logo="https://i.imgur.com/FKfwbHD.png" group-title="Mediaset",Grande Fratello - Regia 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-
-
-#EXTINF:-1 tvg-id="GF.VIP.-.Un’ora.fa.it" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="Mediaset",Grande Fratello - Un'ora fa
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
-
-
 #EXTINF:-1 tvg-id="IT900003FU" tvg-name="IT900003FU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png" group-title="Discovery",HGTV
 https://jmp2.uk/stvp-IT900003FU
 
@@ -288,7 +274,6 @@ https://5ed3b27b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-id="RSI.La.1.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
@@ -481,7 +466,7 @@ https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="IT:.Mr..Bean.-.Live.Action.it" tvg-id="IT:.Mr..Bean.-.Live.Action.it" tvg-name="Mr. Bean - Live Action" group-title="Mr. Bean",Mr. Bean - Live Action
+#EXTINF:-1 channel-id="IT:.Mr..Bean.-.Live.Action.be" tvg-id="IT:.Mr..Bean.-.Live.Action.be" tvg-logo="https://images.tou.tv/v1/synps-src/show/perso/src_mrbean_ott_logo_v02.png?impolicy=ott&im=Resize%3D400&quality=100" group-title="Mr. Bean",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
@@ -505,17 +490,16 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
-#EXTINF:-1 tvg-id="red-bull-tv-en-uk" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport & Motori",RedBull TV 2
+#EXTINF:-1 tvg-id="UK:.Red.Bull.TV.be" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport & Motori",RedBull TV 2
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="Redbull.Dummy.us" tvg-id="Redbull.Dummy.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport & Motori",RedBull Rakuten TV
+#EXTINF:-1 channel-id="IT:.Red.Bull.TV.be" tvg-id="IT:.Red.Bull.TV.be" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport & Motori",RedBull Rakuten TV
 https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/f0fd30ef-70ec-4c1c-bdd4-6963f1955789/0.m3u8
 
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" tvg-logo="http://odmsto.com/uploads/tv_image/sm/fashion-tv.jpg" tvg-name="Fashion TV" group-title="Intrattenimento",Fashion TV
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1280&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=bb2722ee-38cd-43b6-a129-782ac4a91c83&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
-
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
 #EXTINF:-1 channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-name="Family - Rakuten TV" group-title="Film",Family Rakuten TV
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
@@ -857,6 +841,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c44
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
+#EXTINF:-1 tvg-id="688244971027d56590287356" tvg-logo="https://images.pluto.tv/channels/688244971027d56590287356/colorLogoPNG_1758087871167.png" group-title="",Pluto TV Cinema Family
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/688244971027d56590287356/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+#EXTINF:-1 tvg-id="688244e00a154253b39f3e44" tvg-logo="https://images.pluto.tv/channels/688244e00a154253b39f3e44/colorLogoPNG_1758127822850.png" group-title="",Pluto TV Christmas Family
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/688244e00a154253b39f3e44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 #EXTINF:-1 tvg-id="68750875759366af05a151ce" tvg-logo="https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png" group-title="Film", PlutoTV Film Storici
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/68750875759366af05a151ce/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1043,6 +1035,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c012504
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
+#EXTINF:-1 tvg-id="68adb5853efb41cd97ce413d" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" group-title="",I Puffi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/68adb5853efb41cd97ce413d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 #EXTINF:-1 channel-id="IT5000006B7" tvg-id="IT5000006B7"  tvg-name="LooLoo Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5000006B7_20250715T004413SQUARE.png" group-title="Cartoni animati & Animazione",LooLoo Kids
 https://jmp2.uk/stvp-IT5000006B7
 
@@ -1159,16 +1155,16 @@ https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Cucina-Viaggi-Documentari",MarcoPolo Travel Tv
-https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
+#EXTINF:-1 tvg-id="Marcopolo Travel TV.it" tvg-name="MarcoPolo Travel Tv" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Cucina-Viaggi-Documentari",MarcoPolo Travel Tv
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/chunklist_w1123853008.m3u8
 
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Telenovela",Donna Tv
-https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DonnaTv.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Telenovela",Donna Tv
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1081173791.m3u8
 
 
-#EXTINF:-1 tvg-id="ALMA.TV.ch" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Cucina-Viaggi-Documentari",Alma TV
-https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u
+#EXTINF:-1 tvg-id="Alma TV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Cucina-Viaggi-Documentari",Alma TV
+https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1759878568~acl=/*~hmac=71e3d81c4d14bb09776ee197fc770ea7d38ca257aaa93fb9275e5a4d3f876746
 
 
 #EXTINF:-1 tvg-id="EQUtv.it" tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Sport & Motori",EQUtv
@@ -1262,15 +1258,15 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
 
 
-#EXTINF:-1 tvg-id="now-70s" tvg-logo="https://www.dropbox.com/scl/fi/73pkkv9x0stoqrljmqeoo/500px-NOW_70s.png?rlkey=xkcbkdn3icfcl4caa0x4srucj&st=4ulyrjm3&dl=1" group-title="Canali musicali e Web Radio",Now 70s
+#EXTINF:-1 tvg-id="IT:.NOW.70s.be" tvg-logo="https://www.dropbox.com/scl/fi/73pkkv9x0stoqrljmqeoo/500px-NOW_70s.png?rlkey=xkcbkdn3icfcl4caa0x4srucj&st=4ulyrjm3&dl=1" group-title="Canali musicali e Web Radio",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="now-80s" tvg-logo="https://www.dropbox.com/scl/fi/xcuv6tupi2dc1fl6rggz8/NOW_80s_logo.png?rlkey=p4gmzyb4iktfrqko6mzzr1nrl&st=jh39q132&dl=1" group-title="Canali musicali e Web Radio",Now 80s
+#EXTINF:-1 tvg-id="IT:.NOW.80s.be" tvg-logo="https://www.dropbox.com/scl/fi/xcuv6tupi2dc1fl6rggz8/NOW_80s_logo.png?rlkey=p4gmzyb4iktfrqko6mzzr1nrl&st=jh39q132&dl=1" group-title="Canali musicali e Web Radio",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="now-rock" tvg-logo="https://www.dropbox.com/scl/fi/nlm49lkvb0j11n8ryaa8g/NOW_Rock_logo.png?rlkey=7bqo9jytsgij72hsftrmyh6fk&st=ogy884nh&dl=1" group-title="Canali musicali e Web Radio",Now Rock
+#EXTINF:-1 tvg-id="IT:.NOW.Rock.be" tvg-logo="https://www.dropbox.com/scl/fi/nlm49lkvb0j11n8ryaa8g/NOW_Rock_logo.png?rlkey=7bqo9jytsgij72hsftrmyh6fk&st=ogy884nh&dl=1" group-title="Canali musicali e Web Radio",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
@@ -1702,6 +1698,3 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/ch
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RaiPlaySport 3" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="RaiSport Attivo Sabato-Domenica",RaiPlaySport 3
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://www.dropbox.com/scl/fi/82jsuh38qs5ooyoxfuqpo/tv.jpg?rlkey=fajzjfdnoe1fqi3rtrqzklzsf&st=muedin6o&dl=1" group-title="Agg. 03-10-2025", Ultimo Agg. 03-10-2025 ore 22.00-
-https://www.dropbox.com/scl/fi/dxu9i5axtdtnzm0uv20xu/freemanez585.avi?rlkey=fsswd8vckxxneq65y53qktanh&st=9fdvepxz&dl=1
