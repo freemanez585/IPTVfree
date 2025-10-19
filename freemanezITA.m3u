@@ -495,7 +495,7 @@ https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 #EXTINF:-1 channel-id="IT:.Red.Bull.TV.be" tvg-id="IT:.Red.Bull.TV.be" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport & Motori",RedBull Rakuten TV
-https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/f0fd30ef-70ec-4c1c-bdd4-6963f1955789/0.m3u8
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" tvg-logo="http://odmsto.com/uploads/tv_image/sm/fashion-tv.jpg" tvg-name="Fashion TV" group-title="Intrattenimento",Fashion TV
@@ -547,9 +547,6 @@ https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00069-amg00069c3-samsung-it-5223.playouts.now.amagi.tv/playlist/amg00069-highview-romantica-samsungit/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=1&ads.consent=1&ads.ssai_vendor=SSSLIVE
 
 
-#EXTINF:-1 channel-id="IT500005FO" tvg-id"IT500005FO" tvg-name="Wolff - La Serie Completa" group-title="Serie TV",Wolff La Serie Completa
-https://amg00069-amg00069c1-samsung-it-5225.playouts.now.amagi.tv/playlist/amg00069-highview-wolff-samsungit/playlist.m3u8
-
 
 #EXTINF:-1 channel-id="ITBA33000374G" tvg-id="ITBA33000374G" tvg-name="5-Minuti Creativi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title="Intrattenimento",5-Minuti Creativi
 https://jmp2.uk/stvp-ITBA33000374G
@@ -562,9 +559,6 @@ https://jmp2.uk/stvp-ITBA14000026G
 #EXTINF:-1 channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20250211T013953SQUARE.png" group-title="Cucina-Viaggi-Documentari",BBC Earth
 https://jmp2.uk/stvp-IT3200002L5
 
-
-#EXTINF:-1 channel-id="IT500003NO" tvg-id="IT500003NO" tvg-name="Cedar Cove - La Serie completa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500003NO_20250218T040338SQUARE.png" group-title="Serie TV",Cedar Cove - La Serie completa
-https://jmp2.uk/stvp-IT500003NO
 
 
 #EXTINF:-1 channel-id="ITBD100000507" tvg-id="ITBD100000507" tvg-name="City Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20241126T043548SQUARE.png" group-title="Cartoni animati & Animazione",City Hunter
@@ -1164,8 +1158,7 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1081173791.m3u8
 
 
 #EXTINF:-1 tvg-id="Alma TV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Cucina-Viaggi-Documentari",Alma TV
-https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1759878568~acl=/*~hmac=71e3d81c4d14bb09776ee197fc770ea7d38ca257aaa93fb9275e5a4d3f876746
-
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w1627614355.m3u8
 
 #EXTINF:-1 tvg-id="EQUtv.it" tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Sport & Motori",EQUtv
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
@@ -1196,7 +1189,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 
 
 #EXTINF:-1 tvg-id="plex.tv.Qwest.TV.plex" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Canali musicali e Web Radio",Qwest TV
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-60b0f65c0c8ffb002c821a75/variant.m3u8?x-plex-token=yq6Z6RvNiUKXzN5GMnT7&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_5b18646e-b75b-471d-9be6-6b96465c09b2&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756306413&url=95ae849437720cb20d894d8a8f73ec99-97af4c2a0e2a7cce4b5d7f86276503eb3c621971293723b9f2e88a7ee2cfdd44f9834520d5b13fdf9b5730098d92e7edc4075d2c2dab7c2bc7847ce2256415a99cbb0e0549842414ff0c0feb37ea40b87bc36848e562b754cb01faf2b6e98a0c02197179127eb0c0aa2d5bb1419c0fc36a03b81d213e58968e2df8835b5bfe3cdf7cd8b31061e85f6f6a5a08625fc71d09d551ec18e3c788038467a0fbb497b463f3a2bfe9487f1c0b31a14b540208fda40644800c827c16ceae36aae1290edbb42ffae466f22b1298ce74ca7f67057fbbfb94b2033958b3c7a5530c47ff887fd947a767f6626af816c7fac1caaedbc5f496391648db18ea8641765c04ee9b8e220c2998c570090077b088ec5d575eff265f203e1f14f58a8cfc0865237c00c1f51ccda6da8b778d55e6925b8edad3322de29483d45838f975c8cfb259266139d52be96252ca7274ca29d825c6b666aafaa91762d772e0e8a33b56753e8e15d08080dfc63bb81cedd0f5459293409572049af7689f79415ff944e0b308ce6c1765b62c4b2ff2c7545369d234ffea9de4584042dc667bfde718ea2341866316ed9f7db0b7c358ac4a2518fb831d605f920a26f6c27a65be12851012f2df25f2fc958b25431776b6a7a343b99116d10ab52bdd8192f68739cc6b72f3ca249ed489eb1dcbc15d1530e8110cc329da705b73ce66b06fc1402beacb3c2363edffc7ea4af9730bf8cf3952956270985b7baebb231f0e80828e8c55895e3448cd10c1bb6bf8856c1277f822a6c15dd74e0c54de811a4087ff1410b8d57f3ec864dbdb87e8c1be9d07e8a2eb056c9a95f959e96ab48b289b2a718203985901b437d929b722b615f0132ff3fb7add3414d2797ee881a2cacef7f1563f48da0d2ca83bbc44e38dd5e73981ac0aedbc72b60edc31c1782a1e2ce5ffc19dda743f1fec22cd349743b18c6319053cf53c37572dacc9765306abb17efaabf43efdc71eb83224c7938e11e2413bf224826b0b31e407c202eae31f953768a3eb0354fc04931fcaef8b45d696a14f24e18be153493cbea89cfd656af9d1f5fa6e8ffec89ce1b7e76279f809890d4300a4d2a24e7b18a5d0b7a8748b24704fb80df599121a05b687e0343cb2d4f7ea435a61109a853f0f05e7e10d6abc2e851585206db0c00dcccee3eecd296681f3dc2644c128501ccf525f10b9526ef3cf8789b776cbf4e8fa4ac9f94da69727abf6fac8dc2847ce36237df022151f475d4df19331931fe0530bafb6267bf61bf4646c471ba1bfe6826c4d7623137ec4d12591ac48ebceb13643d7bb4a7c8df8ce20e35cfb09d89698cc9bcf35e8e1b38db9bb6086d2cbdea1d0c22e24a106d45923e618321c4daea8f9566ca6c4cbc79b358861b6ca6657e8ad98c686284e040159636929266ba3ccf09c908baa142e105a452b8b8a051cad1b75a9b7bd2663f96e7f9f2faea34dfdec134c66b5e08b2a9258175713e1a72ededabe96cd277fd7ec6fb90b779870e35a13091c3c4dee8b84787d34055a12b6e950647135b3377ffac6d9b02d19417378ff739677ef589549536f96cab520f0ed9277a6c947529792f337984623a5bba04f3c1b2557c5158d9e7d76c8003667e468559b26764a2330389b1aac3aea2fe07f1b2b610e1d0104bf688cca1879c2d5714a341425fc0811b94b82b960485d599bc28675e81bafef16ff41e2fb3496e28625340f8649a772a9b866c600aa17b6ea8b181a0518aa975c496259225f8488e7b4dcde57c75cedcfcd5d1b56e002cb6c4c6d65461196fa55f5c6bc2c7f77cb17d482d8146285f76169e79cedca37fc0e2ebf19f08920271ef0728eee557995e39f7f37444cc30b56363916a08f677d81551ad2248f6cb7fc1b6dd7960317b10ba0707cf14ebbbb056810aa0ebecea7467d8085c72219211c60f1f734e39aa7b2dc5542cceea525eec95d67afe1b8c83f4ec7858f11974adf5164deef660eed5074854498967d878462aefaebead099625744ad03064e59a4ecfa0104653064fad5f52b63941fa1001cb955dc269f236a16bbfffd20f11fb112ed4f2d211540aadb1388cd0fa97921121186f6e2bd8fbd7e69fee10fc5749af6675811e26b5e0bc8c0634cf8edee1980c4048b1946b0d92fbc9de2a733769f3502428166562dc025d0c1aef813f264536b3f86dd0338055a63bbc0d41b37eece6a128e488d4eff06ab362f977904b26f5e76d0772ea7030c776335fdb5a6763e5425b412b2ca3d41314701c7cbed9e630dd6e47f5391f08fed6fb3833294b62470239ee57ff3020cce1b365400b94c1fc4c47ff0907e986b96f3197e8c7c790a4df74f77dd39a9f09b8108ce14dd55236b14c416e6507fc1b09614ff60084c53564d9525a663a8f34ef21abd692e7577e61be5782747b9336736f500ff82fb012feb5acaa350c26ba6e8376f34beb0c5b1a2c955f5774bc1ff1ac660488bc268cc338e5c211c2a59c9c81537e3fa77809c340cc0837cc74bde3bf3fa6f005a0181ead82d8d21bab31a0619aa86374bd90ee309a5fa6de4543b164815f9de96492dd9d9ccd40e45faa73e4a74a1990df5ffd2c9a352ebc9fb889eb6019a281c6004f7d6f9e6c11f552f1f7303c0dc82e912a4ed063a06e4a506372f968c563af28951299353dcd5b938d78bd7dd7606baff969b326780713866c07e81bb560c32108269dcc62a127d5734c0c977440153ed9c8da7d889aaa94990c6d709b71d67db8e7e35ab2ebdf63a2ad8227baf404a9098f7fddf61b9681f0d544c33a340925bb706cbbd4b420a7127380dbd48f131884d47cf0b5a4c502630a2f546edae628ef7730636a26f54df0f9c25595b4d67740980ea7fba1f696d98795bc2f2a33261a3e51db2b5e78a781f95d0299f3123470852c27d6fb5e0ffcf138300c2c4aec62afcbdaff0a4a98cf21b3bc35354e3896a4e60d5767681af09838dcc551fcfc04362719aaffa28559a71aa843ff8cd247046a0fa0c07906f167eb62edb89239addd0629dd34499d3748fbac0caa81342df9e73f5bfb8831a03708150e36199a29336ddd473f415ef1c837d3489f28c390ae25fb70b61
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Canali musicali e Web Radio",Qwest TV Jazz & Beyond
@@ -1611,9 +1604,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13955&avod=1&coppa=0&td=6&
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Altri canali" tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2023/02/OnAir-icon.png",LaC OnAir
-https://streamcdnr10-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Altri canali" tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2024/08/LaC-Play-Quadro-LaC-Network.jpg",LaC Network
 https://streamcdng2-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b2128000.m3u8
@@ -1638,9 +1628,6 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="UniNettuno.University.TV.ch" tvg-name="UniNettuno University TV" tvg-logo="https://i.imgur.com/BOGMeio.png" tvg-id="UniNettunoUniversityTV.it" group-title="Altri canali",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-
-#EXTINF:-1 channel-id="IT2200001FW" tvg-id="IT2200001FW" tvg-name="Wood Fireplace 4K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200001FW_20250729T045559SQUARE.png" group-title="Altri canali",Wood Fireplace 4K
-https://jmp2.uk/stvp-IT2200001FW
 
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/3B_Channel_logo_400x200px.png" group-title="Meteo",3BMeteo Channel
