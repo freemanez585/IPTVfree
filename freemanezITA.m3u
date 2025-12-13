@@ -31,7 +31,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
-https://uwqgqq.5606087801.art:8443/hls/s0t23z4ewdv.m3u8?s=R9SnbGpLxBfFH2gerPP8jA&e=1765686594
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1765665685~exp=1765665985~acl=/*~hmac=c0ed2c0318c38003f8a658b98ccbd236a7be9801dadba21aaa808618066cc51d
 
 #EXTINF:-1 <channel id="IT9000060Q" tvg-id="IT9000060Q" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://jmp2.uk/stvp-IT9000060Q
