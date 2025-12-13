@@ -31,8 +31,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1765663749~exp=1765664049~acl=/*~hmac=2110dde7f9b2e7d890b6dbb0af6ec5386880b410ab9741fc0acf3ce79fa0b9f6&CMCD=cid%3D7%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2248b95445-1468-4a6c-97ee-12c8a98432b8%22%2Csu
 
 #EXTINF:-1 <channel id="IT9000060Q" tvg-id="IT9000060Q" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://jmp2.uk/stvp-IT9000060Q
