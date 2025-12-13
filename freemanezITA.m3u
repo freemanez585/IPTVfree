@@ -203,8 +203,7 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Rai",Rai Sport
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://vdnwndmsb1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1762374089&tk2=3708506b2a9e39c1e14228d180ad9535e3d3dd65574dedaddaad142a14510134
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sky_Sport_DE_Logo_2020.svg/960px-Sky_Sport_DE_Logo_2020.svg.png" group-title="Sky",SKY Sport Web
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
@@ -214,15 +213,13 @@ https://jmp2.uk/stvp-IT900004Y5
 
 
 #EXTINF:-1 channel-id="ITBA2200010O1" tvg-id="ITBA2200010O1" tvg-name="Sportitalia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Sport & Motori",Sportitalia
-https://jmp2.uk/stvp-ITBA2200010O1
-
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Primavera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primavera-tv.jpg" group-title="Sport & Motori",Primavera TV
-https://origin.streamup.eu/sportitaliain/silive24/playlist.m3u8
+https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC4700002CO" tvg-name="Sportitalia solocalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sport & Motori",Sportitalia solocalcio
-https://origin.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8
-
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="Sport & Motori",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
