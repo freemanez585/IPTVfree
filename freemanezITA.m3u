@@ -107,8 +107,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="Cucina-Viaggi-Documentari",Gambero Rosso
-https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
-
+https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
 
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Canali musicali e Web Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
