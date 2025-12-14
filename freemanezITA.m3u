@@ -113,9 +113,8 @@ https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmX
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 
-#EXTINF:-1 tvg-id="Discovery.Channel.I.ch" tvg-logo="https://static.sweet.tv/images/cache/channel_icons/BDIAEIBC/336-discovery-channel-hd.png" group-title="Discovery",Discovery
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-
+#EXTINF:-1 tvg-id="IT31000026G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png" group-title="Discovery",Discovery
+https://jmp2.uk/stvp- IT31000026G
 
 #EXTINF:-1 channel id="IT9000081B" tvg-id="IT9000081B" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
 https://jmp2.uk/stvp-IT9000081B
@@ -339,6 +338,8 @@ https://amg02512-nexodigital-amg02512c1-samsung-it-422.playouts.now.amagi.tv/pla
 #EXTINF:-1 channel-id="IT2900001B5" tvg-id="IT2900001B5" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250701T033248SQUARE.png" group-title="Serie TV",BBC Drama
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id=" IT2900001B5" tvg-id=" IT2900001B5" tvg-name=" BBC Series tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title=" Serie TV", BBC Series 
+https://jmp2.uk/stvp- IT2900001B5
 
 #EXTINF:-1 channel-id="ITBC1100001G5" tvg-id="ITBC1100001G5" tvg-name="Alta Tensione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20241106T142428SQUARE.png" group-title="Film",Alta Tensione
 https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/4300.m3u8
