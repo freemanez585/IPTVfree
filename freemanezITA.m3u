@@ -139,7 +139,7 @@ https://jmp2.uk/stvp-IT900009KL
 https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Rai",Rai Yoyo
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/playlist_mo.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1765744372&tof=86400&tk2=ec1d9c6a731e45cb94bbeaa410d97fe82590b629da2b2d2aa966fdce39d51948
+https://vdnwndmsc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1765831248&tk2=02e17da6315a0f520eab8af26f5c8c70d9db4e6a48d8602578169575f93186a4
 
 #EXTINF:-1 channel id="IT900005HF" tvg-id="IT900005HF" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
 https://jmp2.uk/stvp-IT900005HF
