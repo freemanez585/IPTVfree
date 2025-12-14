@@ -231,8 +231,7 @@ https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 
 
 #EXTINF:-1 channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="Sport & Motori",Golf Television
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-68890aa31b1a8359c63cf6e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y5r6cG35nc_M3CFUPqYs
-
+https://d3kx41egz7vop3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uzgx2bvzgd7s9/ef1b97b5-b227-4868-880b-97dd661559b5/0.m3u8
 
 #EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Sport & Motori",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
