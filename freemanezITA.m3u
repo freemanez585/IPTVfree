@@ -202,8 +202,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Rai",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sky_Sport_DE_Logo_2020.svg/960px-Sky_Sport_DE_Logo_2020.svg.png" group-title="Sky",SKY Sport Web
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 channel id="IT900004Y5" tvg-id="IT900004Y5" tvg-name="MotorTrendTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
 https://jmp2.uk/stvp-IT900004Y5
@@ -224,6 +222,9 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="SuperTennis Plus" tvg-logo="https://www.dropbox.com/scl/fi/5dbuisu0cyeyciyqx7v1u/suptennisplus.png?rlkey=4gsztsveu7aam91fx6m89xe4k&st=tma1kjrz&dl=1" tvg-id="SuperTennis.plus.it" group-title="Sport & Motori",SuperTennis Plus
 https://streamcdnf29-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sky_Sport_DE_Logo_2020.svg/960px-Sky_Sport_DE_Logo_2020.svg.png" group-title="Sky",SKY Sport Web
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 
 #EXTINF:-1 tvg-id="BIKE.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="Sport & Motori",Bike Channel
