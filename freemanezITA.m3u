@@ -332,9 +332,6 @@ https://amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv/pla
 https://amg02512-nexodigital-amg02512c1-samsung-it-422.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-samsungit/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="IT2900001B5" tvg-id="IT2900001B5" tvg-name="BBC Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250701T033248SQUARE.png" group-title="Serie TV",BBC Drama
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id=" IT2900001B5" tvg-id=" IT2900001B5" tvg-name=" BBC Series tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title=" Serie TV", BBC Series 
 https://amg00793-amg00793c29-samsung-it-4958.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00793-bbcstudios-bbcdramaitalysamsungit-samsungit/cb573d1b7a6c6d8c84c93e78d1f44682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae409178d3ef3b7011c9c2d10fa83439fd401e9d1d052834a8476a3179897a4898019d18c81599706e6274759326da684769ec854b8a8f40355875018762171c98eb2d76021dc3b2930f9fbd8f164ef03f187248c6545d76af254a500ba5484288ac453fad3d1b243452aead0585e34b4f7a984fc475ed70de096cae24048abdf3a5f5a931db24b2a3c83b3c81b94d314e4d549e4e4336e52a7904188d3b68aebc2e520fa3efaf4ddbc201836096303824eec9e63cf5bb012c3d527006e6a6199b565f09bebb651083dee03d975726bd8a1e9aaeb4c5ee3741a56f112a8316749f944a0f8784f83fc19799b291a804f5093a89e21238ede1cf4a3d4f30779c4b61bb15e0e9dd759868c649f68325c16bcb05c37aae7dcb19c043d1403a675e5d7dfe03d6e6a89a498af930b6a4551bf337d6dba51d5965ae6096416d77c5816de5737dc6ff37ccd0f590561fb11dea933b9e46c2e00e9bd3651566dd99dffd1c79efd4dbb7bdcd8ee79010f1932ed7d557d2ee4bf830fa9630b662c09c94f4553ad0b5f75ef97e2ec8dcf3b9dcb2af96e225c48edc43a6d45127f6a019ed04fd25de99c54f9b8c24ec3e2885d14d16fed515ece9e8c2ccbec87c65d06dfff044e29c48555b01947f01eda2f87c56398e105747b12740893de1aaf25fab5fce024952ba14a790ec970a993eeb6962b16d09844373c1e46551876733f07acd5c56e622cbd5c4642f87a4233bf776329ecad81c8e3301bbfc844b22d/71/1920x1080_6046040/index.m3u8
 
@@ -389,9 +386,9 @@ https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 #EXTINF:-1 channel-id="IT260000131" tvg-id="IT260000131" tvg-name="Fantascienza - Rakuten TV" group-title="Film",Fantascienza Rakuten TV
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
 
+#EXTINF:-1 channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-name="100% Natale - Rakuten TV" group-title="Film",100% Natale Rakuten TV
+https://family-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/dd4675dd-d9e8-4869-a110-967ecde02221/4.m3u8
 
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Rakuten Trailers" tvg-logo="https://www.dropbox.com/scl/fi/1rgz8s575l2kjkm746w64/trailers.jpg?rlkey=0ihaq7h93ku7k8lfain9fnpcm&st=2z2fv5f9&dl=1" group-title="Film",Rakuten Trailers
-https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4548/master.m3u8
 
 #EXTINF:-1 channel="ITBA3300024IU" tvg-id="ITBA3300024IU" tvg-name="Shark Zone" group-title="Film",Shark Zone
 https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
@@ -498,6 +495,7 @@ https://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-id="70-80.it" tvg-name="70-80.it" tvg-logo="http://tv.10dailythings.com/images/channels/IT/70-80-tv/normal.png" group-title="Canali musicali e Web Radio",70-80.it
 https://585b674743bbb.streamlock.net/9050/9050/chunklist_w1711896929.m3u8
+
 #EXTINF:-1 tvg-name="A Tavola" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20241022T051525SQUARE.png" group-title="Cucina-Viaggi-Documentari",A Tavola
 https://dtsorovv03oh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ehf4c6ojtfs4b/playlist.m3u8
 
@@ -575,9 +573,6 @@ https://jmp2.uk/stvp-ITBD3200005YA
 #EXTINF:-1 channel-id="IT1600005VM" tvg-id="IT1600005VM" tvg-name="Rally TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-title="Sport & Motori",Rally TV FAST+
 https://jmp2.uk/stvp-IT1600005VM
 
-
-#EXTINF:-1 channel-id="ITBD31000021A" tvg-id="ITBD31000021A" tvg-name="Sailing Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000021A_20241022T043819SQUARE.png" group-title="Sport & Motori",Sailing Channel
-https://jmp2.uk/stvp-ITBD31000021A
 
 
 #EXTINF:-1 channel-id="ITBA3300022EA" tvg-id="ITBA3300022EA" tvg-name="SportOutdoor.tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300022EA_20241022T043558SQUARE.png" group-title="Sport & Motori",SportOutdoor.tv
@@ -756,10 +751,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cb77853
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/671655b2daad7f00085d202d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="65bce7f1d77d450008b3a430" tvg-id="65bce7f1d77d450008b3a430" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65bce7f1d77d450008b3a430/colorLogoPNG.png" group-title="Sport & Motori",Monster Jam
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
 #EXTINF:-1 channel-id="610a9ebe8c2ac2000734776e" tvg-id="610a9ebe8c2ac2000734776e" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png" group-title="Intrattenimento",Naturescape
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -919,11 +910,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="663354f3cd43940008602115" tvg-id="663354f3cd43940008602115" tvg-name="Pluto TV Zombie" tvg-logo="https://images.pluto.tv/channels/663354f3cd43940008602115/colorLogoPNG.png" group-title="Film",Pluto TV Zombie
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/663354f3cd43940008602115/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
 #EXTINF:-1 channel-id="65f955ff18036500084e88fc" tvg-id="65f955ff18036500084e88fc" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f955ff18036500084e88fc/colorLogoPNG.png" group-title="Sport & Motori",Realmadrid TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f955ff18036500084e88fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1062,9 +1048,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369
 https://jmp2.uk/stvp-ITBD2300001MT
 
 
-#EXTINF:-1 channel-id="63eb58aa60bc8f0008caa8f8" tvg-id="63eb58aa60bc8f0008caa8f8" tvg-name="The Boat Show" tvg-logo="https://images.pluto.tv/channels/63eb58aa60bc8f0008caa8f8/colorLogoPNG.png" group-title="Sport & Motori",The Boat Show
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 
 #EXTINF:-1 channel-id="64c109a4798def0008a6e03e" tvg-id="64c109a4798def0008a6e03e" tvg-name="PlutoTV Top Gear" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/colorLogoPNG.png" group-title="Intrattenimento",PlutoTV Top Gear
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1078,12 +1061,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e44
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6616a51124e1d00008761a7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="plex.tv.Poker.Night.TV.plex" tvg-id="plex.tv.Poker.Night.TV.plex" tvg-name="Poker Night TV" tvg-logo="" group-title="Sport & Motori",Poker Night TV
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-60afc726623f2f002c5bb49f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xawzwFAVXungGP11gjTU
 
-
-#EXTINF:-1 channel-id="plex.tv.PokerGO.plex" tvg-id="pokergo" tvg-name="PokerGO" tvg-logo="https://www.dropbox.com/scl/fi/b2qgmk1e8c2js4mr70bwv/pokergo.jpg?rlkey=2i7y7jx0anzb4e8nreyvvkm6e&st=wbrboz22&dl=1" group-title="Sport & Motori",PokerGO
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-64ac687b4192b4e1bab96279.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=cVNM57hpVzyZNc_CfCJV
 #EXTINF:-1 channel-id="679203d4bc03978b9b4b79a6" tvg-id="679203d4bc03978b9b4b79a6" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png" group-title="Sport & Motori",UFC
 https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8
 
@@ -1137,7 +1115,8 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1081173791.m3u8
 
 
 #EXTINF:-1 tvg-id="Alma TV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Cucina-Viaggi-Documentari",Alma TV
-https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1761077459~acl=/*~hmac=f136dcf1989e66fca90b0819663554e6c7e02885011bb6c76a36b2481ec71c3f
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w1104646502.m3u8
+
 #EXTINF:-1 tvg-id="EQUtv.it" tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Sport & Motori",EQUtv
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
@@ -1159,8 +1138,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 #EXTINF:-1 tvg-id="plex.tv.Music.Legends.plex" tvg-logo="https://i.imgur.com/bsUxSHL.png" group-title="Canali musicali e Web Radio",Classic Rock Network TV
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d310bf925e02615.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iX2zzs1LznQNt_qwsQrU
-
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d310bf925e02615/variant.m3u8?x-plex-token=GGY7zAozkiudthToYKyf&x-plex-advertising-identifier=&x-plex-client-identifier=4e54c790-eae7-4dfc-ac32-d1473427afab&x-plex-playback-id=p_77a23528-7b63-4151-a8dd-05c6de551859&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765748402&url=75988c04370a87a4af02bc04bb5e9c03-0fc4ef67bb71ef85f3428e0871b98cf9941408731094de7de4ea6dc50e3dfe9b8a34940628344742e2da56274efbc473ef7efc78ebc5fa12279185234d086dc7a8160bc7d2dedecd734f717f875d6b0ef2617d5c2f93cb47b55da4164a43c593957c0a44fe4ae9ae59098b348b400a1136dcd685176aae5904e822cf3091918de5fa4dc2aa852a9badedaf71a5c445cf525a52b555994a181a0adf0b6e3a28b0
 
 #EXTINF:-1 tvg-id="plex.tv.Qello.Concerts.plex" tvg-logo="https://sonomalibrary.org/sites/default/files/styles/max_650x650/public/images/elibrary/logos/Quello_0.png?itok=b6HI0Yd7" group-title="Canali musicali e Web Radio",Qello Concerts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
@@ -1168,10 +1146,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 
 #EXTINF:-1 tvg-id="plex.tv.Qwest.TV.plex" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Canali musicali e Web Radio",Qwest TV
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-
-
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Canali musicali e Web Radio",Qwest TV Jazz & Beyond
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Canali musicali e Web Radio",Vevo '70s & '80s
@@ -1234,8 +1208,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="IT:.NOW.80s.be" tvg-logo="https://www.dropbox.com/scl/fi/xcuv6tupi2dc1fl6rggz8/NOW_80s_logo.png?rlkey=p4gmzyb4iktfrqko6mzzr1nrl&st=jh39q132&dl=1" group-title="Canali musicali e Web Radio",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6196c8c01d310bf925e02615/variant.m3u8?x-plex-token=GGY7zAozkiudthToYKyf&x-plex-advertising-identifier=&x-plex-client-identifier=4e54c790-eae7-4dfc-ac32-d1473427afab&x-plex-playback-id=p_77a23528-7b63-4151-a8dd-05c6de551859&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765748402&url=75988c04370a87a4af02bc04bb5e9c03-0fc4ef67bb71ef85f3428e0871b98cf9941408731094de7de4ea6dc50e3dfe9b8a34940628344742e2da56274efbc473ef7efc78ebc5fa12279185234d086dc7a8160bc7d2dedecd734f717f875d6b0ef2617d5c2f93cb47b55da4164a43c593957c0a44fe4ae9ae59098b348b400a1136dcd685176aae5904e822cf3091918de5fa4dc2aa852a9badedaf71a5c445cf525a52b555994a181a0adf0b6e3a28b0
 
 #EXTINF:-1 tvg-id="IT:.NOW.Rock.be" tvg-logo="https://www.dropbox.com/scl/fi/nlm49lkvb0j11n8ryaa8g/NOW_Rock_logo.png?rlkey=7bqo9jytsgij72hsftrmyh6fk&st=ogy884nh&dl=1" group-title="Canali musicali e Web Radio",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -1254,7 +1227,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://www.dropbox.com/scl/fi/3pubitgalm06omz5g8x4h/traceuk.jpg?rlkey=a7x78h8fnw21xuxlyj86dn95u&st=o0uakhiy&dl=1" group-title="Canali musicali e Web Radio",Trace UK
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-66be8cd4871131188099527e/variant.m3u8?x-plex-token=_CJgNVsT-AH31QpKfB5k&x-plex-advertising-identifier=&x-plex-client-identifier=48aaad61-fc04-4e9e-b688-262e64cb50a4&x-plex-playback-id=p_f330f10f-2111-4e0d-b1c3-5fbcaa300861&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756328103&url=341e596c0fc842361140b7ddc0e48794-2c795050db2291b658e6afc3bf981a46604f92400fd836b49122a713f5f494d60a26028cecd16099d3c15cf959e0d103b53a006527fbcdfaba8425001d512e48a52aa3c8b463ced6f00cc082f2af5e12dbb9e9dba23b7e71bd071db782fba133e5d2e026cc3f77011fbd576ecc5504b92fbf47df3790b7b9b14545a03bad34caa795c0403de6d1ab43dcfba9f317f856d44ad1d05f0b3095b0939a6e7390dfeabdb34d3d2dbc89d0183e6bc4aaef7d3ed6dff567fb0c4b3da204b396568de0af79e20fdcec9172668155d48a9daf479a5c4701b7c51d4cb4015dbd5bf7d2d4f959352bb84dfd1ff468fc569b709b7a21fdc393581675bb4fbfc27d4977fb3c241ba24fb8301a5bedbd0d01c7d088844d26bfeab1677ab8f4c3b68625ab70e1af22e5f593d951a1403407852270cc242dbce4c5a990ac217fd56844bb164e06d46a183f5169f71e40b9a0619d2d59e5edaa0e07b8fbe4dc970a2a55bfab0bddb4db936b929a28852003a5d9c45985dd274f2a05d84a236122638fbc5b71e3530a9f2470bff35fe830aee71eec0693eaf261edc7ae013ac565c644c956476db493fa0fed38f03fdc1fb7c44068ceea18b3db9736d1cece7e1e4aaf5dbb83ca46695a6eb255cef2330c2a5a394a196e88a6106335a67cce0db41c10eda2408f9eed8d087a97803a96e6d71cff21a5b4e8e655c8bb63c7f67301c4bfd016b34d3f3e857e7495db615885521593339e3defed817c0018eb3d48753f58f8e6912261431ce430a8e930c9bf1d8c420b722b0abbd9cea9358bd7c0409d70e1bf0ce64ebc09d374baee98b4a1c12cb2762e1c08348f3189fa15219f3e61ec56a6386ec433c3d604b56d77180c957a563efc51f1fd69e1ef60978e1647c25e24a9e5ad6d303b2895715675e0954f57b0cb3e674659d377ee059371c3ac50ef578c4e99fefb4456086195352099553aa3632b495fb3a658aa114f81527666daa7783300668236de1e649091b34ecbd17c08419e72d591882ebf22bb9b51b5cbf4f5b580bf7a53c79a54a33b6935184426a95282ea4afa8f0faca106fcfe3c68535279075f156e51e287f49d2a77ae015a29f70f39a09c8b29f2b5152360d69ab071a7daebb4850bac024d907b2ff81c6426b882e9a94ff93a96ad6983d02e39a245dad7919755619e5ee6dc16dd4d99665ad36c3f5b7752d7e0d0ae99aa5ddaaf0de79648d7f42e99a7e17e9d9f2a0129de7866672e8e775272f4ad75b21c4bf02e6d84854b1b62442f45a241ae23d1bd1887bbf4009b10b27cf4dd08d5eb10545bb9cff42316f5f9bc2dfbb1c96c32b9a27601af4a99822c705d7357cb0b24e6e86fdd832faf4b677d54dfa1d7974ad8ad59283be1834a283c811902b0b2c3e4f716b98e53c25d056252bff10de325f31ec55c2fdf0369c0e31184008da8aba5fef68dac87f67e9853d08ea50112001e824a22dfa5378d14a80e5f57743f438792debffc94e45162339d23213cff0467ea599a00954806277de6ffaf5f996cdcb038fa5c8fde90315f359ffff783b55fef8519f111c1a30d3febd590940b7eee537126e8c803c3d9e5d826ad5db714e94565d320df14f4dafaa980b171982575085ee0d3a0a61e79ccb82fd720a290459e69310dfc6dabf63e009c14210c96b4cb661d22ddb388d55135812bd9d231739756c9dfe82a1231fed69ab05cae95ce8c284dc42c0f6f315e84dc95c7da12f303409193e3372b79dc98d50dab0fc82e5549e58900c3d6b20333158761d38b4d904f78a4c1348bf05b2f31dd31f118d165505a858d7d2c22ccc7cd13b196268fea04fd4f44b2e63722633e4939ecd86a6d055335540ad193fc51a1b4f6664c2994fd6a271c0695e53060c2e1741cb6c85e33e4ce03b0529a938ab4c72ab95b03671d555a5d7976c038a90b3305ed03e9df9e25bb7ba6c40c04b67ac31e8c9fd45ee026efe80ef1f1d0912e02ef3d6421b2b5a45b0981b3733a1df4f7c6128a4cba70a74ee1406b911b943ba6036de0ad60f915efa7bb1c108b57f24eb56bb17783f1e84622c6d15da27e1e573719c540b51b633e227d744364875ad7b526836c59802d962639372fa3e792f0451166975e094a14222de681af9ea7e5755be87a7706108db901f003048a597809f419b8f6e25505ed6e3c20b8508847983c3d75d56d80c6c757ef309a719c9d4dfd450910a99c26326d9199d3afe96be735361ab7a1c07fde658a26e50050adee5b1aa6d485e1827c74c987910bfc693ed73154caa7f319231d9f85d33ac3abe1dde32a11fa191358e912e2bde2c853662dd08950c7736ac1f09843ff9f9e01914d67d01832df5de71a81b8b5642a961680573e0024a774ce0dbb22fdcce5ef4b9008fa249661e144c283df155857972f1996e1cebc197e287604843bb1bb641ab3fec82b8cf305223478024f0eb3a040943984787658b70b22b64781a7cf86ea71716510dfef6e35ed007e11b334942b189445cb271273e2d65fda845df86ebe5eeddef68ff8167a17e1b76096760ff30c9ce0af3b6a25eb48946b19707ec8fa1318f257ecda66e7fae833e8d3d3d3b3ae90f891abd61b37fcc5653d7dab9372e4e44cfa8696a65fa34ad292a60d361aed04b78de2ebee3419349525055e099aefa424725fea5a523ffd0a8119c7db9bf0301a3fd31a11f8ede383dd5284ff12e5e408a4374de4e856c8c3758f4b85d58b01987a85253a73d7211ebc0f248c5318eb023ab74003501938154e4e06fee77fbdcfaa23f0588ddbc95976ba25a44b052c52ea414b8ea35429597d8af47937f48d3906c610efe9a7d77e6154d1cbdba8558589f5f6b3dcc6bfa41410f1ecc8d0ecd263403f6c407cb431496700ba603a9bd88e04eced66649bcd0fda7415bfdd47fcdb69c71cd41f35d874180c5007b496e1d24c968c6b7a66d0ea13935ecbf35b165b64ac0533e961c2c4542f74fd7dce6cfe54042d0fec08063a2538c936632bd4d98234bd17bd1e9ebf51eb8090a3306405c24136ed2467bdc54478b65df9b5e63933d5f97b24796bd8f1239487905c41300a354f510c9a6c1cca58d2494d6826ea6a0efd7e81ba7618820ea5f718709194a25ec3b472b77032674bd680ef041c794eed4b886c68ed70d967f77213f69313086beadc057312e31fff7bde5b1bf3ddb418559c92a7fd2666d7cb0f9a33a8386c278917a1e919a98b2e97d0f54019fb2594bbfd72ce3c6b4f9b40550d57a9b81f4b85a7f2f2afff352cb254f121e3bba91cc37d8e6d8d0f4ceb1515f1984599049d96ee3adfbeda00e0d2785ff7a61c128a3b5a29f3aa7df293bfe54b679533bdd29067d312b83171365e725ae0d55bb5834d21ff12aa9c903ca4ffa35aa5b9f6f696b379e7d935a81f4e10a0be7b65fadd4a13e5d1b01e92859d6be2630b9966b2f4dccb202542e14fd866f6fd1bef99234f3573ea8ef38973de274ed08ea3be1a46075c59855b8374a4300262ad6d4465755b2e34510cef823a954e731552c6a4e5c14cc9416334b327440d4c78c21a767ff431e855bf2954df9322d9529f720075646ae6cf17cbc2536a993777b5878b87e1daef542dff86961370d512c9b2314e2641dc519956ef3853a7184f453b660326b83a0ad51142f9256f054af7e50ccb9e72aed93b9abf3208c14b404d2f30a721d616a5f06c08473883a7f27e223a1dba017165a9545407d32086697a2be960be46809eaaacfbe0ceeece9f31e9973ec0dbe94862d0f61d82a2cc3f4ade79d0ca5c0ac0b40acc9ee8af1c046876901d2e178d8d9bdc2daa3660a3de2064d668ce6913da410fbc4e6d9c9c84b3decfeaf8dbe07eb7b983e50c824a41c30c97ee85d608b7b62e71b217fb9231bf4994a7b8eea966064ba1140dbec0ce5c27bdfb85433a50c4c28cbfb22e8e46672e24cdcb2b64fb109bd1a26ddd5ea189677203c3600942b4e42018f5bc8144deedae9427d5cfe282c6b7e9dbfff8c8b291f1e549b9512bed94e6acdccf9f9005dd706866e0d617e3e953a4319f8f36a396e6a541a926f019c4f8e2e6e9591bc05241389a2585cc002409d6754ec3809b373f2864da3d94599acd1dbd88b7eb1d86fd4fe57a0d8acd4ff70463432cc0b645ca738a0712ef20462e67a08bf06189f0a5eb47b3fdabdb616789e39b2a20183cba8390894663bd2487ebeb3adb3c9863bc4c8b0e0102fc024a7183a951bbeb65f2a2e183ca19cdc28bdf191ddd5a015b17c6c3bb1750ac890a5a594e4f2e72b62e07f8f43de53f3d5680a117fff58035c2a6ff
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-66be8cd4871131188099527e/variant.m3u8?x-plex-token=vxR2ebgBGSZyqiGxbw29&x-plex-advertising-identifier=&x-plex-client-identifier=4e54c790-eae7-4dfc-ac32-d1473427afab&x-plex-playback-id=p_0381bce4-af7a-482d-a05b-eefbf64c1e72&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765748913&url=bd032b49bca4b9eb161db2710322219e-9b1f4e391eda804175f3e0edc8c509dc369d4691980b99161d09b2172c4dbc80c28bd8ed622ec6d4930cc0500cf050c9da36ce2157e143c3d2812e2de07e1fe6bd81d431e3359fa6a6afec6f8ddf4d07eccf59103eda02cfd162b367c82ccec9e2f36ea0cd5a07d1d7cb5e754172197ce8da5466834f2022c332b7bbfda91c4f2c0b8937b0b86fa13536b91684f7d4ee6e54c71295a4ea17cba9e6f65106037348e0914e1dff3f688c9bfe6d6e44ecb54fc13c1a5940a63fb57f8f3b9e7457e7c84af960ec9fc07fcebb6c15556b654158d673e6d28f087a8f3f34a79470ba7ec90f9141c4d612609b4a30c18389c64f2622929bc17e1b81eb79e6653a855c9c986e0ac2a9d64b8875d35c01be281db3dce8aaa1954ba7416b91e1bbd309a2242ca14ec384bcf8e287c7b09965ffe578ca4209c1d32dfb98cd1ec0846d7968dde034fb4cd6a715c1fb6ba9682f4028ccda12a096cc4c705ce517083f0281c2a1cc6494ee195991999e8df03e33f0c64e5b6a84643b8e054109e31a3def754a9c81820c27e1fd583570a0a74ebed71b38821f280f737966d456768eea2df2da832470dbbdc823ddd9017d62dcaedc195f683f0f0ce11223888d1195de642f08fb76ec385fa347c0c9d48b20c32fedb5e31ec915a61b09e0b51f016b07b0a412ca08e2b65bd4db0bf799f79292507ae687695a4807593a28ff7ef0e59002715393085c6ff94faac3c54179d9ee9346cfe13e3a54d74f9051957e2a1de64f680923846406ec5d5738386737e908bcb315641091db55236b3822cedc252f65b5b5f50ed0e111dd264bbd83a6b8cff07e968725705d10be59a1fbc1ebbb1b1af13a93c8610db0cf79807efca64ddd2e292b82fd7b377010ce9299527425601b0d77f40f27077e8ce262aa822f262725fa8c82eeae5e1ba84d86ca398ad7410068f6fcb1eddc400a6c05819a419f829d360ac356fbae0fb7bf2dc926f12f680b279f572fe880a0f73dfd90f10a1d41e6a34bcd846c54b0d8e6383255a3649e211ffb8c509b61ef18181c62a855c8098619a6c4814c4f270f3cb2dbc76a7c75715d8db605248c2aa4915885258d9d9e2cd23e1f8e1253d7060e984aeeabecceac53effbf995c95b42aca96a29518e4d1c9c3a7cea18b37e76ac88eeeb6ab305b13102ad96cc662aa5881fe308f95e13f202e1d42f0d8ffde72833bdcd8fcb14ead2ef7ba7a9e8844266df373ac215bcf9f40e3512e95336191128b935d94e7401bedaaad7eba3fc62f599b130a7605e0d79221059350fbf42227c21a3834d92c2f70780cf021586cbb7c53d67b60a9c0e59bcf268014eb105d3e7ce6eacc162d34017a77b7c8d96e68e20fcbf8972dfe2feae1ede170c01177c144036592072e622b9049e407b7aadc8b213dc996fd95bf914aebb2dfdb2a9443acbd94c20a1a78bdeeeb01ec18b7643f37c4ae49c84912d86b77315e1b8303ad6c77b87fcd64af16be943eb7d5bb75e7625ccb91dc95a2c17b001f8072939995fb22dd62586ff15901786b8e37fc085fd0b5872cb481e22d34e58f7d9d992878895525c4c80411272efba4249bbf6e8ee0d9da2bd79ffbd4641359d18de7b9e25c67d5485d61b7b2fd2011e10a00dc8d108420eb8cfb7fcc61d8ab99261ce9f03a537c5a7010906109bc94d5b61305157cad7178f63ee932a54d2557ce1bd3c56eb674e14b49b738a1cc7fc00229bedcb4e68e85b3497393e811f1c8a120a358b08fd48030b81cc248a71a2bca86ea3b482c2d7cc54f6dbcc0ed636352a37378544bd91597560941ac8c605e8cc54f90ac3757e60ad634470905de97119d1789fd5b3ae29ea2350d3d420ca29e9add7710bb18bf5e8513a3a85cfbc4283868dc4c8a5fc57d37c56ae1997114d1ee9b777639c860f857f03d0f6ada7be4a53a020c6589110ded4d0256a8d9f0d819e3f62bcb07b4b99d0914d495ff16d4e1ace93713c23e6a1c18df1d317ad2904b238e0d6ff2cf90c23880e3a79652e988e9e93193170d2b3b054acc64b258141da0553149162a52e992e1c0e39a3410aff418f0e1ec0d4d487b2b17ceeefd46e2bd3f1608feeed707ea954689a5e0930d6cb3965806e68fd1deabe90663da67e80a15367146464c022257eb1c591a0ddd35478bad6f5a1827f4009cad63e2f1a0d742a8aa95c85b591a7122dacc082967012ff010aeebe396ba79379fd4c1b653693d487006512df05ec53b556253f5efb7af1246c67df84d8db3f69abe19b712254780cd77011164eeea1b5ff3d9c9248972082990da7235031a1060a56ee84876030715c7ad8c9bc621080a4ec4debb57d3ea6b85214be9d6363813997f02a6d9be9a253012dcaceb44b776257757469b057e4e92a7c08ca8e8262c00c19f4b284a4788ba2f78c0bd7bb8fd313185a04d2f91e7c755c39b1b979e0dfbbf610c4e86ddb0cc98f736ec160eb99ea4f523a79c808d933efc815a0049e227051825659c535f0b1217be37ac442dcc999faeab5adb037c16f67e25a91a7b000b73ada5deb1659114210601ac9fc362aa0689d623ffd9dbc11cc7bcc6a878b698591c02e8b6dabd39bea0621f2e71d0d33e509b393319cfc6f851c318ae3fd8bb3541abea20474a4d4c2e6a5f1e0da4d4e3b2649648f19a551a5e875e3a91387be1eaa9f5e3feb0ed58e2896259ac7c3c619ebcfecd99548fbb9671d135fa967f8518e01a6c5ff73fa2549777e2c8f298dc21ab28446fc80ce45e0d7dbd4fb7745ed37d08b4be6230827072a268a7ad5a7e1c53ea2c20ac7461a5b22520756a0947430a14c2d2e88b15fc094cbc1ac3aef37de1d007208595e7f12560d27a0bf8355235ccb9b1c4bcd9423e0738dac9d5580b792ab51acac2228c9607fc4680b3de5db53cd35493480cd00b9c357ce95a37d71e32aaf042b7d5e9676b8f649908c8b861791a9d88452c28923915a6744a9fd6a6c2f21735dfb6296cefafafcf29c93edc79da2e2b4a16e2718800a48a1545edfc7ee8c7118b4168e723ea2e7fb05f282a71eb886ea040be221486b26af5a8c8ae236fedcdb0e68d47057dee6f4544aa44bbede512b3b8cc2b0ac45763077301c842271fbeea60e1906ca4a8be02044c9addfeea6bdcf67adbba1e7dc56726cf761926252fc00936f1e5c76584ddf95bb69b64b5b5d0f7b74a3caa438a477220c33c24f57c6ef066a8285b982d1de98018525cba2e0508e25b5f0e0fa5d71150bab65a7d4aaa29147433d9844c4aa89591b8235a4c220a4a523768918079d4475cee640839829da4244cac689011474d739b530b9f3cc135601f2dcecd11534d259a53b9c8cf16e3d200e3a2d2a22832816523811a968e215d46813cbca420d168753cfcb3d73268bddcba1d1edc0cb6cd89de434aa91b30053641b99a4bb280f2364b98eab637378235f561bec24cdfb20d9e6b64be6201242e6d476b28345e43d99c5e9180f28e3e63c979c6846847ffcdfc4c7b1eae02b7ea55f8f8a38f0a7b64638ef86a3ca727fab29bbaf4d42e7ce564da9910943ea05840a39232d763c166e8c077260482e1d7bbf4eaeb1ee25896d163f7e8ef6b7f187d40a62c88bd9c45d95cb6ba546b365e48ab10d5eb2c61805c691128dc59f599340e908e0dd5d4fd6bc80e437ff518a211ecfe6b604c970ef67a8df1f9641780d0c095b0d6d52fd9aadf7dabf3a92502b4e6b5aa738de48feea632e7e13c6d1a383b2f4c88d56e379df0e726cb66f0093e61819980740a1c7a3a3dfe6b448caf04c1def0e0102acc792835c6067dc6143ce3d7d68588d35f57ec8bfc65845dedf6422e64ed6049a65cf38123d1247f72ac18569237382cd2c49637ecd5acd2e4cca513add89ef731b212d70d47a05ca089abe873bd11bdbb9f28110d7cca8f77b1745945eb61c7f02fbf056a6c868b5d9c8b6663d452665f055c24acdf62c4a52a1ba8291d3fa27d05a1bc4c55ba2c2cd1f859fdebcf31272580fff599e46be3be66679ada00575e36b2106c0766cd57e45930e2fe9dd10d1d9a162ea9d10202d18c648bc164c560b6b36068c7457473b944377e19786202e1c3969f061158860b46240c724d305992f46aa607afba5d402f45d7b9a51e55edc9f65e5b23009ed7d5fe8b89a97ee8d6e5c5a84d850a2a80e7c449a2d9ec8c1e1da2349ae933229b2302e7171959e4348d03949904b6320052998d4fca573c2c1dd17cef05d7e2a7d491ab6b65c97509c49e026a2033557e498818d780517c38e6ad07e7559c3bc67d4fa2c657ec4f14cb6b7bc442171c95d3a516f0b7c63e176c9c5ca7eb07b5f1334799a5ed25d76f576e154f948277a9832d18039ac58915a4bc74f237724577c
 
 #EXTINF:-1 tvg-id="plex.tv.Flashback.70s.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf0af6164398752328af22b594924e58.webp" group-title="Canali musicali e Web Radio",Stingray Flashback 70s
 https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
@@ -1382,26 +1355,6 @@ https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
 
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",MUZZIK
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik ELECTRO
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik FLASHBACK
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik MOBA
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik POP STAR
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik Rock&Roll
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik SENSE
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik TIKTAK
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Canali musicali e Web Radio",Muzzik ZZ TV
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Canali musicali e Web Radio",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
@@ -1450,9 +1403,7 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-logo="https://ascolta-radio.it/wp-content/uploads/2021/06/radio-2.jpg" group-title="Canali musicali e Web Radio",Rai Radio 2 Visual
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/visualradio2_2400/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Canali musicali e Web Radio",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -1471,12 +1422,10 @@ https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OE
 
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-bro-sis.png" group-title="Canali musicali e Web Radio",RTL 102.5 Bro & Sis
-https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-
+https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b3256000.m3u8
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-caliente.png" group-title="Canali musicali e Web Radio",RTL 102.5 Caliente
-https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-
+https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-disco.jpg" group-title="Canali musicali e Web Radio",RTL 102.5 Disco
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
