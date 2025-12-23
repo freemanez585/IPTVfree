@@ -1531,7 +1531,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13955&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Altri canali" tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2022/01/LaCTv_Quadro.png",LaC TV
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 
-
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.tvdream.net/img/telecupole.png" group-title="Altri canali",Telecupole
+https://d4k.it/hls/live2/live.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Altri canali" tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2024/08/LaC-Play-Quadro-LaC-Network.jpg",LaC Network
 https://streamcdng2-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b2128000.m3u8
