@@ -1,7 +1,7 @@
 #EXTM3U refresh="301" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/it.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/world/epg.xml,https://www.epgitalia.tv/guide2,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz"
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/playlist_ma.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1770411180&tof=86400&tk2=9afe6c0b865c3128c01d26cad5efc0de028b826566c690ddb238c5f88fa85a85
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 https://vdnwndmsa1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma_1800-5000.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1770410264&tof=86400&tk2=30318e0c44be37ea1d1d2066c842505acbc5c9eb09ce3ae5494382d2e0750229
