@@ -4,7 +4,7 @@
 https://vdnwndmsb1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_5000/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1770499293&tk2=7ac3e83754c40f2bc6eb3cb1a43c7923f851d013c49bfea78b2fdf0637201384
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
-https://vdnwndmsa2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/itarai2_160/chunklist_ao.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1770499358&tk2=1e6e40e0f09a87c80530e9cdee4454031836947bffa65a0174423acc0281df7e
+https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_5000/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1770499462&tk2=b6dee33852edc364466a4b6a47772beafb7eb7abb920583f95ddaf46bd1fbc8f
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
