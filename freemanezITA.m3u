@@ -196,7 +196,7 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Rai",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://streamcdnr11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1776194221&tk2=955cd46793da4ae4593ba4ac8489d1c2e8e2fb191fcdbdce3e8efa9cadd9dd8e
 
 
 #EXTINF:-1 channel id="IT900004Y5" tvg-id="IT900004Y5" tvg-name="MotorTrendTV.it" tvg-logo="https://yt3.googleusercontent.com/A3IRtaRvhGAl44dtu9-Mp8T9oXiy68OGfkSCc9uf682m91SFePPH5JUzPZwhnkgFRX07ObAbgQ=s160-c-k-c0x00ffffff-no-rj" group-title="Discovery",Discovery Turbo
