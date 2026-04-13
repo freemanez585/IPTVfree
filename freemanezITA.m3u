@@ -75,7 +75,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://i.imgur.com/J3LKrOp.png" group-title="La7",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
-
 #EXTINF:-1 tvg-id="La.5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -136,7 +135,7 @@ https://jmp2.uk/stvp-IT900009KL
 https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Rai",Rai Yoyo
-https://vdnwndmsb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1776194087&tk2=c4379dc807ab650cd5f2339b0253bcdffb81374456139bcac23ab48eff6d8c80
+https://streamcdnr16-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1776196364&tk2=d3b0d8634a96dfa92b401351ae0a8c278e85a19b7a5be42fd912bcbf6cf76fcc
 
 #EXTINF:-1 channel id="IT900005HF" tvg-id="IT900005HF" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
 https://jmp2.uk/stvp-IT900005HF
