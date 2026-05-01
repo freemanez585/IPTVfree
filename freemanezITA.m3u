@@ -32,7 +32,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="",NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/45fa597f-32b8-4708-a1cd-712afa23f0b6/0.m3u8
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(novehd)/manifest.mpd
 
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
