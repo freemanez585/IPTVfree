@@ -1646,5 +1646,5 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/ch
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RaiPlaySport 3" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="RaiSport Attivo Sabato-Domenica",RaiPlaySport 3
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 
-#EXTINF:-1 channel-id="IT18000033C" tvg-id="IT18000033C”tvg-name="tv5"  tvg-logo="" group-title=" ", tv5
+#EXTINF:-1 channel-id="IT9000060Q" tvg-id="IT9000060Q” tvg-name="tv5"  tvg-logo="" group-title="TEST", tv5
 https://jmp2.uk/stvp-IT9000060Q
