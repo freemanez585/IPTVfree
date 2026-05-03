@@ -32,7 +32,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="",NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/5e016ad1-0812-4547-ab8d-52fb1ed079d8/2.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/manifest/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/6a2fcd2a-b915-485a-8626-fffad0472631/0.m3u8?manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Nzc3OTgwODAsIm5iZiI6MTc3Nzc5ODA4MCwiZXhwIjoxNzc3Nzk4NDQwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjM0LjIzMi44NCJ9.RwKE29x6UPt_kiHdTqPfxtipZxvGBz2QqGC2ubRxI8w
 
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
