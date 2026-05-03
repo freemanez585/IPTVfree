@@ -8,7 +8,7 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
