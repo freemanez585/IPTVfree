@@ -657,8 +657,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/660fc6630
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="65df0b428b24c80008eec0b6" tvg-id="65df0b428b24c80008eec0b6" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df0b428b24c80008eec0b6/colorLogoPNG.png" group-title="Sport & Motori",Billiard TV
-https://jmp2.uk/plu-65df0b428b24c80008eec0b6.m3u8
 
 #EXTINF:-1 channel-id="66a0eea88561260008b1c5d0" tvg-id="66a0eea88561260008b1c5d0" tvg-name="Carabinieri" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png" group-title="Serie TV",Carabinieri
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -939,8 +937,6 @@ https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 channel-id="65f955ff18036500084e88fc" tvg-id="65f955ff18036500084e88fc" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f955ff18036500084e88fc/colorLogoPNG.png" group-title="Sport & Motori",Realmadrid TV
-https://jmp2.uk/plu-65f955ff18036500084e88fc.m3u8
 
 #EXTINF:-1 channel-id="67d9836ba1609bdb523f0c9d" tvg-id="67d9836ba1609bdb523f0c9d" tvg-name="Pluto TV Relic Hunter" tvg-logo="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/colorLogoPNG.png" group-title="Serie TV",Pluto TV Relic Hunter
 https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
