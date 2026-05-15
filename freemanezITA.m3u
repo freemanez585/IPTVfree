@@ -617,16 +617,8 @@ https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
 
 
-#EXTINF:-1 channel-id="660fc6630cd4630008fae92f" tvg-id="660fc6630cd4630008fae92f" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/660fc6630cd4630008fae92f/colorLogoPNG.png" group-title="Serie TV",Baywatch
-https://jmp2.uk/plu-660fc6630cd4630008fae92f.m3u8
-
-
 #EXTINF:-1 channel-id="62e7fa5ab5062e0007dcf97d" tvg-id="62e7fa5ab5062e0007dcf97d" tvg-name="Pluto TV BBC Drama" tvg-logo="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG.png" group-title="Serie TV",Pluto TV BBC Drama
 https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
-
-
-#EXTINF:-1 channel-id="65df0b428b24c80008eec0b6" tvg-id="65df0b428b24c80008eec0b6" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df0b428b24c80008eec0b6/colorLogoPNG.png" group-title="Sport & Motori",Billiard TV
-https://jmp2.uk/plu-65df0b428b24c80008eec0b6.m3u8
 
 
 #EXTINF:-1 channel-id="66a0eea88561260008b1c5d0" tvg-id="66a0eea88561260008b1c5d0" tvg-name="Carabinieri" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png" group-title="Serie TV",Carabinieri
@@ -797,7 +789,7 @@ https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 
 
-#EXTINF:-1 tvg-id="612e05b885183d0007958101" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1751971574499.png" group-title="Film", PlutoTV Christmas
+#EXTINF:-1 channel-id="612e05b885183d0007958101" tvg-id="612e05b885183d0007958101" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" group-title="Film", PlutoTV Christmas
 https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
 
 
