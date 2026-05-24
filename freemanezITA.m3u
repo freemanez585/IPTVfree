@@ -272,7 +272,7 @@ https://netplus.zappr.stream/rsila1hd.m3u8
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://da-b948790220010678082c00030000000000000002.id.cdn.upcbroadband.com/wp/wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
 
 #EXTINF:-1 channel-id="IT300004KM" tvg-id="IT300004KM" tvg-name="Sony One Film d’azione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20241022T043833SQUARE.png" group-title="Film",Sony One Film d’azione
 https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/playlist.m3u8
