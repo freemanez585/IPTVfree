@@ -271,6 +271,8 @@ https://jmp2.uk/stvp-IT2200009F9
 https://netplus.zappr.stream/rsila1hd.m3u8
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 https://da-b948790220010678082c00030000000000000002.id.cdn.upcbroadband.com/wp/wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
 
 #EXTINF:-1 channel-id="IT300004KM" tvg-id="IT300004KM" tvg-name="Sony One Film d’azione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20241022T043833SQUARE.png" group-title="Film",Sony One Film d’azione
