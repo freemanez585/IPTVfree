@@ -144,7 +144,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="K2.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/k2.png"tvg-chno="41"group-title="Discovery":http-user-agent="",K2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1.m3u8
+https://alwaysdata-api.zappr.stream/k2.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -157,7 +157,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 tvg-id="Frisbee.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/frisbee.png"tvg-chno="44"group-title="Discovery":http-user-agent="",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1.m3u8
+https://alwaysdata-api.zappr.stream/frisbee.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -225,7 +225,7 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Motor.Trend.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/motortrend.png"tvg-chno="59"group-title="Discovery":http-user-agent="",Discovery Turbo
+#EXTINF:-1 tvg-id="Motor.Trend.it"tvg-logo="https://en.wikipedia.org/wiki/File:Discovery_Turbo_2025.svg"tvg-chno="59"group-title="Discovery":http-user-agent="",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
 https://d1m086gym5403i.cloudfront.net/out/v1/fa965f3d7abe46108988aed4fb3d0ee5/HLS_CMAF_DRM/index.m3u8
