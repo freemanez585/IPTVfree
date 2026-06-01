@@ -270,9 +270,12 @@ https://jmp2.uk/stvp-IT2200009F9
 
 
 #EXTINF:-1 tvg-id="RSI.La.1.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/WtL5dRXd/rsila1.png",RSI LA 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://da-b948790220010678082c00030000000000000002.id.cdn.upcbroadband.com/wp/wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
+https://da-b948790820010678082c00030000000000000008.id.cdn.upcbroadband.com/wp/wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" group-title="Canali Svizzeri" tvg-logo="https://i.postimg.cc/3J35r52Y/rsila2.png",RSI LA 2
 https://lsvs-rsila2-d.akamaized.net/out/v1/55504bad90ea4f7f9518daeb6f83aad7/index.mpd?dw=7201
